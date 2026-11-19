@@ -1,1 +1,285 @@
-IyDotoXlqIHoiq/nlYwgQk1T77yIQ0hJTFdFRSBYSU5KSUUgQk1T77yJDQoNClshW0FuZHJvaWRdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvUGxhdGZvcm0tQW5kcm9pZCUyMDYlMkItZ3JlZW4uc3ZnKV0oaHR0cHM6Ly93d3cuYW5kcm9pZC5jb20vKQ0KWyFbQnVpbGRdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvQnVpbGQtTWFudWFsJTIwVG9vbGNoYWluLW9yYW5nZS5zdmcpXSgj5p6E5bu6KQ0KWyFbTGljZW5zZV0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9MaWNlbnNlLU1JVC1ibHVlLnN2ZyldKExJQ0VOU0UpDQoNCuS4gOasvumAmui/h+iTneeJmSBCTEUg6K+75Y+WKirotoXlqIHoh6rnoJTjgIzoiq/nlYwgQk1T44CN5L+d5oqk5p2/KirmlbDmja7nmoQgQW5kcm9pZCDlupTnlKjvvIzpmYTluKblrozmlbTpgIblkJHljY/orq7mlofmoaPjgILmj5Dkvpvlm77lvaLljJbku6rooajnm5jjgIHmnKzlnLDljoblj7LorrDlvZXjgIHmiqXorabpmIjlgLzjgIHmoYzpnaLlsI/pg6jku7bnrYnlip/og73jgIINCg0KPiDmnKzpobnnm67kuLrkuKrkurrlrabkuaDkuI7lrp7nlKjlt6XlhbfvvIzpnZ7otoXlqIHlrpjmlrnkuqflk4HjgILljY/orq7pgJrov4fmipPljIXkuI7lrpjmlrnlsI/nqIvluo/lr7nnhafpgIblkJHogIzmnaXvvIzku4XkvpvnoJTnqbbkuqTmtYHjgIINCg0KLS0tDQoNCiMjIOebruW9lQ0KDQotIFvlip/og73nibnmgKddKCPlip/og73nibnmgKcpDQotIFvmlK/mjIHnmoTorr7lpIddKCPmlK/mjIHnmoTorr7lpIcpDQotIFvlv6vpgJ/lvIDlp4tdKCPlv6vpgJ/lvIDlp4spDQotIFvnlYzpnaLpooTop4hdKCPnlYzpnaLpooTop4gpDQotIFvljY/orq7mlofmoaNdKCPljY/orq7mlofmoaMpDQotIFvpobnnm67nu5PmnoRdKCPpobnnm67nu5PmnoQpDQotIFvmnoTlu7ror7TmmI5dKCPmnoTlu7ror7TmmI4pDQotIFvluLjop4Hpl67pophdKCPluLjop4Hpl67popgpDQotIFvlvIDlj5HotYTmupBdKCPlvIDlj5HotYTmupApDQotIFvotKHnjK5dKCPotKHnjK4pDQotIFvorrjlj6/or4FdKCPorrjlj6/or4EpDQoNCi0tLQ0KDQojIyDlip/og73nibnmgKcNCg0KLSAqKuWbvuW9ouS7quihqOebmCoqDQogIC0g55S15Y6L5Y2K5ZyG6KGo55uY44CBU09DIOeOr+W9oueUtemHjw0KICAtIFNPQyAvIOeUteWOi+maj+aXtumXtOWPmOWMluabsue6v++8iOW3pui9tCBTT0Ml44CB5Y+z6L2055S15Y6LIFbjgIHmqKrovbTml7bpl7TvvIkNCiAgLSAyNCDkuLLljZXkvZPnlLXljovmoLzlrZDlsZXnpLrvvIzkvY7ljovoh6rliqjmoIfnuqINCiAgLSDlhYXnlLUgLyDmlL7nlLXnlLXmtYHliIbliKvmmL7npLoNCi0gKirljoblj7LorrDlvZUqKg0KICAtIOavj+asoeivu+aVsOWtmOWFpeacrOacuiBDU1bvvIhgYm1zX2hpc3RvcnkuY3N2YO+8jOacgOWkmiAyMDAwIOadoe+8iQ0KICAtIOWOhuWPsuabsue6vyArIOaYjue7huWIl+ihqO+8jOaUr+aMgeS4gOmUrua4heepug0KLSAqKuaKpeitpumYiOWAvCoq77yI6K6+572u6aG15Y+v6YWN572u77yJDQogIC0g5Y6L5beu6L+H5aSn44CB5rip5bqm6L+H6auY44CB5Y2V5L2T55S15Y6L6L+H5L2O44CBU09DIOi/h+S9jg0KICAtIOi2hemYiOWAvOmrmOS6ruaPkOmGkiArIOaMr+WKqA0KLSAqKuiTneeJmei/nuaOpSoqDQogIC0g5LuF5pi+56S66LaF5aiB6K6+5aSH77yI6K6+5aSH5ZCN5LulIGBEQmAg5byA5aS077yM5LiN5Yy65YiG5aSn5bCP5YaZ77yJDQogIC0g6K6w5L2P5LiK5qyh6K6+5aSHIE1BQ++8jOS4i+asoeaJk+W8gOiHquWKqOi/nuaOpQ0KICAtIOi/nuaOpeaIkOWKn+WQjuagh+mimOagj+aYvuekuuacgOWQjuabtOaWsOaXtumXtO+8m+aWreW8gOWQjuaVsOaNruWBnOeVmeWcqOacgOWQjuS4gOasoeivu+aVsA0KICAtIDYwIOenkui9ruivou+8iOeUteaxoOaVsOaNruWPmOWMluaFou+8jOmZjeS9juWIt+aWsOmikeeOh++8iQ0KLSAqKuahjOmdouWwj+mDqOS7tu+8iDTDlzLvvIkqKg0KICAtIOeUteWOi+ihqOebmOOAgeeUtemHj+eOr+OAgeeUteWOiy9TT0Mv5rip5bqmL+WOi+W3ruWbm+mhueaVsOaNrg0KICAtIOacgOWQjuabtOaWsOaXtumXtOS4juWIt+aWsOaMiemSru+8jOeCueWHu+iHquWKqOi/nuaOpeiuvuWkh+abtOaWsOaVsOaNru+8iEpvYlNjaGVkdWxlciDlkI7lj7Dku7vliqHvvIkNCg0KLS0tDQoNCiMjIOaUr+aMgeeahOiuvuWkhw0KDQp8IOmhueebriB8IOWAvCB8DQp8LS0tfC0tLXwNCnwg6K6+5aSH5ZCNIHwgYERCWFhYWFhYWFhYWFhYWFhg77yI5a6e5rWL5Z6L5Y+377yaYERCMjRTQU8zTDI0UzYwQUJVYO+8iSB8DQp8IOeUteaxoOexu+WeiyB8IOejt+mFuOmTgemUgu+8jDI0IOS4su+8jOagh+ensCAqKjUwQWgqKiB8DQoNCj4g6K6+5aSH5ZCN5YW35L2T57yW56CB5ZCr5LmJ5bCa5pyq56Gu6K6k77yI55uu5YmN5LuF5rWL6K+V6L+HIGBEQjI0U0FPM0wyNFM2MEFCVWAg5LiA5qy+77yJ77yM5Zug5q2k5LiN5a+55YW25ZG95ZCN6KeE5YiZ5YGa5o6o5pat44CC5b2T5YmN5Lul5byA5aS055qEIGBEQmAg5L2c5Li66LaF5aiBIEJNUyDnmoTor4bliKvliY3nvIDjgIINCnwgQkxFIOacjeWKoSB8IGAwMDAwZmYwMC0wMDAwLTEwMDAtODAwMC0wMDgwNWY5YjM0ZmJgIHwNCnwg5pWw5o2u6YCa6YGTIHwgYEZGMDFgID0gTm90aWZ577yI5pWw5o2u6L+U5Zue5Y+j77yJ77yMYEZGMDJgID0gV3JpdGUgLyBXcml0ZS1Oby1SZXNwb25zZe+8iOWRveS7pOWPo++8iSB8DQoNCuiuvuWkh+aMh+e6ue+8mmBGRjAwYCDmnI3liqEgKyBgRkYwMWAvYEZGMDJgIOeJueW+geWAvOOAgui/nuaOpeWQjuaNruatpOWIpOaWreaYr+WQpuS4uuacrOexuyBCTVPjgIINCg0KPiDlpoLmnpzkvaDnmoTkv53miqTmnb/kuZ/mmK/otoXlqIHoiq/nlYwgQk1TIOS9huiuvuWkh+WQjeS4jeaYr+S7pSBgREJgIOW8gOWktO+8jOWPr+WcqCBgQmxlTWFuYWdlci5qYXZhYCDnmoTov4fmu6Top4TliJnvvIhgTkFNRV9QUkVGSVhgIC8gYE1BQ19XSElURUxJU1Rg77yJ5Lit6LCD5pW077yM5qyi6L+O5o+QIElzc3VlIOaIliBQUuOAgg0KDQotLS0NCg0KIyMg5b+r6YCf5byA5aeLDQoNCiMjIyDlronoo4UNCg0K5LiL6L29IFJlbGVhc2VzIOS4reeahCBBUEsg55u05o6l5a6J6KOF77yIQW5kcm9pZCA2LjAr77yM6ZyA6KaB6JOd54mZ5LiO5a6a5L2N5p2D6ZmQ77yJ44CCDQoNCiMjIyDkvb/nlKgNCg0KMS4g6aaW5qyh5omT5byA6Ieq5Yqo5by55Ye65omr5o+P5qGG77yM6YCJ5oup5L2g55qE6LaF5aiBIEJNUyDorr7lpIcNCjIuIOi/nuaOpeWQjuS7quihqOebmOW8gOWni+aYvuekuuaVsOaNru+8iOmmluasoeivu+aVsOWNs+aXtu+8jOS5i+WQjuavjyA2MCDnp5Lmm7TmlrDvvIkNCjMuIOOAjOi/nuaOpeiuvuWkh+OAjeaMiemSru+8muacqui/nuaOpeS4lOacieWOhuWPsuiuvuWkh+aXtuebtOaOpemHjei/nu+8m+aXoOWOhuWPsuiuvuWkh+aXtuW8ueWHuuaJq+aPj+ahhu+8m+W3sui/nuaOpeaXtueCueWHu+aWreW8gA0KNC4g5re75Yqg5qGM6Z2i5Y2h54mH77ya5qGM6Z2i6ZW/5oyJ56m655m95aSEIOKGkiDljaHniYcv5bCP6YOo5Lu2IOKGkiDmkJzntKLjgIxCTVPjgI3ihpIg6YCJ44CM6LaF5aiB6Iqv55WMQk1T44CNDQoNCi0tLQ0KDQojIyDnlYzpnaLpooTop4gNCg0KPiDlupTnlKjljIXlkKvkuInkuKrpobXpnaLvvJrku6rooajnm5jjgIHljoblj7LjgIHorr7nva7vvIzku6Xlj4rkuIDkuKogNMOXMiDmoYzpnaLlsI/pg6jku7bjgILmiKrlm77op4Hku5PlupMgYGRvY3Mvc2NyZWVuc2hvdHMvYO+8iOWmguacie+8ieOAgg0KDQp8IOmhtemdoiB8IOWGheWuuSB8DQp8LS0tfC0tLXwNCnwg5Luq6KGo55uYIHwg55S15Y6L6KGo55uY44CB55S16YeP546v44CB5YWF5pS+55S155S15rWB44CB5oC75Y6LL1NPQy/ljovlt64v5rip5bqmL01BQy/mm7TmlrDml7bpl7TjgIEyNCDkuLLnlLXljovjgIHov5HmnJ/otovlir8gfA0KfCDljoblj7IgfCBTT0Mv55S15Y6L6ZqP5pe26Ze05puy57q/44CB6K6w5b2V5p2h5pWw44CB5piO57uG5YiX6KGo44CB5riF56m65oyJ6ZKuIHwNCnwg6K6+572uIHwg5oql6K2m6ZiI5YC86YWN572u44CB6JOd54mZ6L+H5ruk5byA5YWz44CB5riF6Zmk5bey6K6w5L2P6K6+5aSH44CB5YWz5LqO77yI5byA5Y+R6ICFL+eJiOacrO+8iSB8DQoNCi0tLQ0KDQojIyDljY/orq7mlofmoaMNCg0KIyMjIOWRveS7pOW4p++8iOaJi+acuiDihpIgQk1T77yJDQoNCmBgYA0KREQgQTUgW0NNRF0gMDAgW0NIS19IXSBbQ0hLX0xdIDc3DQpgYGANCg0KfCDlrZfoioIgfCDlkKvkuYkgfA0KfC0tLXwtLS18DQp8IGBERCBBNWAgfCDlm7rlrprluKflpLQgfA0KfCBgQ01EYCB8IOWRveS7pOeggSB8DQp8IGAwMGAgfCDmlbDmja7plb/luqbvvIjlkb3ku6Tml6DmlbDmja7vvIkgfA0KfCBgQ0hLX0ggQ0hLX0xgIHwg5qCh6aqM77yM5aSn56uvIDE2IOS9jSB8DQp8IGA3N2AgfCDlm7rlrprluKflsL4gfA0KDQoqKuagoemqjOeul+azlSoq77yaYENISyA9IDB4MTAwMDAgLSBDTURg77yI5ZG95Luk56CB55qEIDE2IOS9jeihpeegge+8iQ0KDQp8IOWRveS7pCB8IOWujOaVtOW4pyB8IOivtOaYjiB8DQp8LS0tfC0tLXwtLS18DQp8IDAxIHwgYEREIEE1IDAxIDAwIEZGIEZGIDc3YCB8IOivu+WfuuacrOS/oeaBr++8iOaaguaXoOacieaViOi/lOWbnu+8iSB8DQp8IDAyIHwgYEREIEE1IDAyIDAwIEZGIEZFIDc3YCB8IOS/neeVmSB8DQp8IDAzIHwgYEREIEE1IDAzIDAwIEZGIEZEIDc3YCB8ICoq6K+75a6e5pe25pWw5o2uKirvvIjnlLXljosv55S15rWBL1NPQy/muKnluqbvvIkgfA0KfCAwNCB8IGBERCBBNSAwNCAwMCBGRiBGQyA3N2AgfCAqKuivu+WNleS9k+eUteWOiyoq77yIMjQg5Liy77yJIHwNCnwgMDUgfCBgREQgQTUgMDUgMDAgRkYgRkIgNzdgIHwg6K+76K6+5aSH5ZCN77yIQVNDSUnvvIkgfA0KDQojIyMg6L+U5Zue5bin77yIQk1TIOKGkiDmiYvmnLrvvIkNCg0KYGBgDQpERCBbQ01EXSBbTEVOX0hdIFtMRU5fTF0gW0RBVEEgLi4uXSBbQ0hLX0hdIFtDSEtfTF0gNzcNCmBgYA0KDQrkuIDluKfmlbDmja7nu48gYEZGMDFgIOWIhuaIkOWkmuS4qiAyMCDlrZfoioLpgJrnn6XljIXkuIrmiqXvvIzpnIDmjInjgIzluKflpLQgYEREYCArIOmVv+W6puWtl+auteOAjemHjee7hO+8jCoq5LiN6IO9566A5Y2V5LulIGA3N2Ag5oiq5patKirvvIjmlbDmja7lrZfoioLkuK3lj6/og73lh7rnjrAgYDB4Nzdg77yJ44CC6YeN57uE566X5rOV6KeBIGBCbXNQYXJzZXIuamF2YWDjgIINCg0KIyMjIOWRveS7pCAwMyDigJQg5a6e5pe25pWw5o2u5binDQoNCuaVsOaNruWMuumVv+W6piBgMHgyNmAgPSAzOCDlrZfoioLjgILlrp7mtYvluKfnpLrkvovvvJoNCg0KYGBgDQpERCAwMyAwMCAyNiAxRSBERCAwMCAwMCAwQiA2NCAxMyA4OCAwMCAwMSAzNSAzMyAwMCAwMCAwMCAwMA0KMDAgMDAgODAgM0EgMDMgMTggMDMgMEIgQTMgMEIgOUQgMEIgOUUgMDAgMDAgMDAgMTMgODggMEIgNjQNCjAwIDAwIEY5IDhCIDc3DQpgYGANCg0K5a2X5q615biD5bGA77yI57Si5byV5LuO5pWw5o2u5Yy656ysIDAg5a2X6IqC6LW377yJ77yaDQoNCnwg5YGP56e7IHwg6ZW/5bqmIHwg57G75Z6LIHwg5o2i566XIHwg56S65L6L5YC8IHwg5a+554Wn5bCP56iL5bqPIHwNCnwtLS18LS0tfC0tLXwtLS18LS0tfC0tLXwNCnwgYFswLTFdYCB8IDIgfCB1aW50MTYgQkUgfCBgLzEwMGAg4oaSIFYgfCBgMUUgRERgPTc5MDEg4oaSIDc5LjAxViB8IDc5LjAxViDinJMgfA0KfCBgWzItM11gIHwgMiB8IGludDE2IEJFIHwgYC8xMDBgIOKGkiBB77yI5q2j5YWF55S1L+i0n+aUvueUte+8iSB8IGAwMCAwMGAg4oaSIDAuMDBBIHwg6Z2Z572uIC0tQSDinJMgfA0KfCBgWzE5XWAgfCAxIHwgdWludDggfCDnm7TmjqUg4oaSICUgfCBgM0FgPTU4IOKGkiA1OCUgfCA1OCUg4pyTIHwNCnwgYFsyMy0yNF1gIHwgMiB8IHVpbnQxNiBCRSB8IGAvMTAg4oiSIDI3My4xNWAg4oaSIOKEgyB8IGAwQiBBM2Ag4oaSIDI0LjLihIMgfCB8DQp8IGBbMjUtMjZdYCB8IDIgfCB1aW50MTYgQkUgfCDlkIzkuIogfCBgMEIgOURgIOKGkiAyNC4x4oSDIHwgMjQuMn4yNC434oSDIOKckyB8DQp8IGBbMjctMjhdYCB8IDIgfCB1aW50MTYgQkUgfCDlkIzkuIogfCBgMEIgOUVgIOKGkiAyNC4y4oSDIHwgfA0KDQrmuKnluqbljZXkvY3kuLogKiowLjEg5byA5bCU5paHKirvvIzlh4/ljrsgMjczLjE1IOW+l+aRhOawj+W6puOAguS4ieS4quaOouWktOWPluacgOWwjy/mnIDlpKfmmL7npLrmuKnluqbojIPlm7TjgIINCg0K5YW25LuW5a2X5q6177yIYFs0LTVdYD0yOTE244CBYFs2LTddYD01MDAwIOetie+8ieeWkeS4uuWJqeS9mS/mu6Hlrrnph4/vvIgyOTE2LzUwMDAg4omIIDU4LjMl77yM5LiOIFNPQyDkuIDoh7TvvInvvIzmnKrnurPlhaXlvZPliY3op6PmnpDjgIINCg0KIyMjIOWRveS7pCAwNCDigJQg5Y2V5L2T55S15Y6L5binDQoNCuaVsOaNruWMuumVv+W6piBgMHgzMGAgPSA0OCDlrZfoioIgPSAyNCDkuLIgw5cgMiDlrZfoioLlpKfnq68gbVbjgIINCg0KfCDlgY/np7sgfCDplb/luqYgfCDnsbvlnosgfCDmjaLnrpcgfA0KfC0tLXwtLS18LS0tfC0tLXwNCnwgYFswLTFdYCB+IGBbNDYtNDddYCB8IDI0w5cyIHwgdWludDE2IEJFIHwg5q+P5LiyIGAvMTAwMGAg4oaSIFYgfA0KDQrnpLrkvovvvJpgMEMgRERgID0gMzI5MyDihpIgMy4yOTNW44CC55SxIDI0IOS4suaxguWSjOW+l+aAu+eUteWOiyDiiYggNzkuMDFW77yM5Y6L5beuID0g5pyA6auY5LiyIOKIkiDmnIDkvY7kuLLjgIINCg0KIyMjIOWRveS7pCAwNSDigJQg6K6+5aSH5ZCN5binDQoNCuaVsOaNruWMuumVv+W6piBgMHgxMWAgPSAxNyDlrZfoioLvvIxBU0NJSe+8mmBEQjI0U0FPM0wyNFM2MEFCVWDjgIINCg0KIyMjIOWNj+iuruimgeeCuQ0KDQotIOWRveS7pOagoemqjCA9IGAweDEwMDAwIOKIkiBDTURgDQotIOaVsOaNruW4p+aMiSBgRERgIOW4p+WktCArIOmVv+W6puWtl+autemHjee7hO+8iOWIhuW4p+S4iuaKpe+8iQ0KLSDnlLXljovvvJoyIOWtl+iKguWkp+err++8jOmZpCAxMDDvvIjmgLvljovvvInmiJYgMTAwMO+8iOWNleS9kyBtVu+8iQ0KLSBTT0PvvJrljZXlrZfoioLnmb7liIbmr5TvvIzkvY3kuo7lkb3ku6QgMDMg5pWw5o2u5Yy65YGP56e7IDE5DQotIOa4qeW6pu+8mjMg5Liq5o6i5aS077yMMiDlrZfoioLlpKfnq68gMC4xS++8jOWHjyAyNzMuMTUg5b6XIOKEgw0KLSDnlLXmtYHvvJoyIOWtl+iKguWkp+err+acieespuWPt++8jOmZpCAxMDAg5b6XIEHvvJvmraPkuLrlhYXnlLXjgIHotJ/kuLrmlL7nlLUNCg0KLS0tDQoNCiMjIOmhueebrue7k+aehA0KDQpgYGANCmJtcy1kYXNoYm9hcmQvDQrilJzilIDilIAgQW5kcm9pZE1hbmlmZXN0LnhtbA0K4pSc4pSA4pSAIGJ1aWxkLnBzMSAgICAgICAgICAgICAgICAgIyDmiYvliqjlt6Xlhbfpk77mnoTlu7rohJrmnKwNCuKUnOKUgOKUgCByZXMvDQrilIIgICDilJzilIDilIAgbGF5b3V0LyAgICAgICAgICAgICAgICMg5Li755WM6Z2i44CB5omr5o+P5a+56K+d5qGG44CB5qGM6Z2i5bCP6YOo5Lu25biD5bGADQrilIIgICDilJzilIDilIAgZHJhd2FibGUqLyAgICAgICAgICAgICMg6IOM5pmv44CB5Y2h54mH44CBbG9nb+OAgeWwj+mDqOS7tuWbvuaghw0K4pSCICAg4pSc4pSA4pSAIHZhbHVlcy8gICAgICAgICAgICAgICAjIOminOiJsuOAgeWtl+espuS4suOAgeagt+W8jw0K4pSCICAg4pSU4pSA4pSAIHhtbC93aWRnZXRfaW5mby54bWwgICAjIOahjOmdouWwj+mDqOS7tumFjee9rg0K4pSc4pSA4pSAIHNyYy9jb20vZXhhbXBsZS9ibXNkYXNoLw0K4pSCICAg4pSc4pSA4pSAIE1haW5BY3Rpdml0eS5qYXZhICAgICAgICAgICMgVUkg5LiO5Lqk5LqSDQrilIIgICDilJzilIDilIAgQmxlTWFuYWdlci5qYXZhICAgICAgICAgICAgIyDmiavmj48v6L+H5rukL+i/nuaOpS/oh6rliqjph43ov54v6L2u6K+iDQrilIIgICDilJzilIDilIAgQm1zUGFyc2VyLmphdmEgICAgICAgICAgICAgIyDljY/orq7luKfph43nu4TkuI7lrZfmrrXop6PmnpANCuKUgiAgIOKUnOKUgOKUgCBCbXNEYXRhLmphdmEgICAgICAgICAgICAgICAjIOaVsOaNruW/q+eFp+S4jiAwMy8wNCDluKflkIjlubYNCuKUgiAgIOKUnOKUgOKUgCBIaXN0b3J5U3RvcmUuamF2YSAgICAgICAgICAjIENTViDljoblj7LlrZjlgqgNCuKUgiAgIOKUnOKUgOKUgCBDaGFydFZpZXcuamF2YSAgICAgICAgICAgICAjIFNPQy/nlLXljovotovlir/lm77vvIjluKblnZDmoIfovbTvvIkNCuKUgiAgIOKUnOKUgOKUgCBHYXVnZVZpZXcuamF2YSAgICAgICAgICAgICAjIOeUteWOi+ihqOebmA0K4pSCICAg4pSc4pSA4pSAIEJhdHRlcnlBcmNWaWV3LmphdmEgICAgICAgICMg55S16YeP546vDQrilIIgICDilJzilIDilIAgRGV2aWNlQWRhcHRlci5qYXZhIC8gTGVEZXZpY2UuamF2YQ0K4pSCICAg4pSU4pSA4pSAIFdpZGdldCouamF2YSAgICAgICAgICAgICAgICMg5qGM6Z2i5bCP6YOo5Lu25LiO5Yi35paw5Lu75YqhDQrilJTilIDilIAgdG9vbHMvR2VuSWNvbi5qYXZhICAgICAgICAgIyDnlJ/miJAgbGF1bmNoZXIg5Zu+5qCHDQpgYGANCg0KLS0tDQoNCiMjIOaehOW7uuivtOaYjg0KDQrmnKzpobnnm64qKuS4jeS9v+eUqCBHcmFkbGUqKu+8jOmHh+eUqOaJi+WKqOW3peWFt+mTvu+8iGBidWlsZC5wczFg77yJ77yaDQoNCmBgYA0KYWFwdDIgY29tcGlsZSAtLWRpciByZXMg4oaSIGFhcHQyIGxpbmsg4oaSIGphdmFjIC1zb3VyY2UgOCAtdGFyZ2V0IDgNCuKGkiBqYXIg4oaSIGQ4KGJ1aWxkLXRvb2xzIDM2KSDihpIgemlwYWxpZ24g4oaSIGFwa3NpZ25lcg0KYGBgDQoNCuWHhuWkh++8mg0KDQotIEFuZHJvaWQgU0RL77yI5ZCrIGJ1aWxkLXRvb2xzIDM0LjAuMCDkuI4gKiozNi4wLjAqKuOAgXBsYXRmb3JtIGFuZHJvaWQtMzTvvIkNCi0gSkRL77yI6ISa5pys5ZyoIEpESyAyNSDkuIvpqozor4HvvIkNCi0g562+5ZCN5a+G6ZKlIGByZWxlYXNlLmtleXN0b3JlYO+8iCoq5LiN5YWl5bqTKirvvIzpnIDoh6rooYzkv53nrqHvvJvopobnm5bljYfnuqflv4XpobvnlKjlkIzkuIDmiorvvIkNCg0K5p6E5bu65YmN6K6+572u562+5ZCN5a+G56CB546v5aKD5Y+Y6YeP77yM54S25ZCO6L+Q6KGM6ISa5pys77yaDQoNCmBgYHBvd2Vyc2hlbGwNCiRlbnY6Qk1TX0tTX1BBU1MgPSAn5L2g55qE562+5ZCN5a+G56CBJw0KIyDlj6/pgInvvJrliKvlkI3kuI7ohJrmnKzpu5jorqTlgLzkuI3lkIzml7borr7nva4gJGVudjpCTVNfS1NfQUxJQVMNCi5cYnVpbGQucHMxDQpgYGANCg0KPiDor7TmmI7vvJoNCj4gLSBhYXB0MiDkuI3mjqXlj5fkuK3mlofot6/lvoTvvIzohJrmnKzkvJrlpI3liLbliLDnuq8gQVNDSUkg55uu5b2V77yI5aaCIGBDOlxibXNkYXNoX2J1aWxkYO+8ieaehOW7uuWQjuaLt+Wbng0KPiAtIEpESyAyNSDkuIsgZDgg5b+F6aG755SoIGJ1aWxkLXRvb2xzIDM2LjAuMO+8iDM0LjAuMCDnmoQgZDgg5aSE55CG5Yy/5ZCN5YaF6YOo57G75LyaIE5QRSDltKnmuoPvvIkNCj4gLSDnrb7lkI3np4HpkqXkuI7lr4bnoIHlnYfkuI3lhpnlhaXku5PlupPvvIzpgb/lhY3ms4TpnLINCg0KLS0tDQoNCiMjIOW4uOingemXrumimA0KDQoqKlE6IOaJq+aPj+S4jeWIsOiuvuWkh++8nyoqDQrnoa7orqTkv53miqTmnb/lt7LpgJrnlLXjgIHmiYvmnLrok53niZnkuI7lrprkvY3mnYPpmZDlt7LlvIDlkK/jgILpu5jorqTlj6rmmL7npLrlkI3np7Dku6UgYERCYCDlvIDlpLTnmoTorr7lpIfvvJvlpoLpnIDpgILphY3lhbbku5blnovlj7fvvIzlj6/kv67mlLkgYEJsZU1hbmFnZXIuamF2YWAg5Lit55qEIGBOQU1FX1BSRUZJWGAg6L+H5ruk6KeE5YiZ44CCDQoNCioqUTog6IO96L+e5o6l5L2G5pi+56S6IDAuMDBB77yfKioNCuWRveS7pCAwM++8iOWQq+eUtea1ge+8ieS4juWRveS7pCAwNO+8iOWNleS9k+eUteWOi++8ieWIhuW8gOS4iuaKpe+8jOacrCBBcHAg5bey6YCa6L+HIGBoYXNDdXJyZW50YCDmoIflv5fpgb/lhY0gMDQg5bin5oqK55S15rWB6KaG55uW5Li6IDDjgILoi6XlhYXnlLXml7bmlbDlgLzku43lvILluLjvvIxBcHAg5Lya5bCG5ZG95LukIDAzIOWOn+Wni+W4p+S/neWtmOWIsOacrOacuiBgZmlsZXMvZnJhbWUwMy50eHRg77yM5qyi6L+O6ZmE6K+l5paH5Lu25o+QIElzc3Vl44CCDQoNCioqUTog5pWw5o2u5aSa5LmF5pu05paw5LiA5qyh77yfKioNCui/nuaOpeWQjuWNs+aXtuivu+WPluS4gOasoe+8jOS5i+WQjuavjyA2MCDnp5Lova7or6LjgILmlq3lvIDlkI7nlYzpnaLmlbDmja7lgZznlZnlnKjmnIDlkI7kuIDmrKHor7vmlbDjgIINCg0KKipROiDmoYzpnaLljaHniYflpoLkvZXliLfmlrDvvJ8qKg0K54K55Ye75Y2h54mH5LiK55qE44CM5Yi35paw44CN5oyJ6ZKu77yM5Lya6YCa6L+HIEpvYlNjaGVkdWxlciDlnKjlkI7lj7Doh6rliqjov57mjqXlt7LorrDkvY/nmoTorr7lpIflubbmm7TmlrDmlbDmja7jgIINCg0KLS0tDQoNCiMjIOW8gOWPkei1hOa6kA0KDQotICoqW+ivpue7huiTneeJmeWNj+iuruaWh+aho10oZG9jcy9QUk9UT0NPTF9DTi5tZCkqKiDigJQgR0FUVCDnu5PmnoTjgIHluKfmoLzlvI/jgIHlrZfmrrXlrprkuYnjgIHliIbluKfph43nu4Tnrpfms5XjgIHlrp7njrDpmbfpmLHjgIHlrozmlbTlt6XkvZzmtYHnqIsNCi0gKipbQW5kcm9pZCAoSmF2YSkg56S65L6LXShkb2NzL0JsZVJlYWRFeGFtcGxlLmphdmEpKiog4oCUIOWujOaVtCBBY3Rpdml0ee+8muaJq+aPj+i/h+a7pCDihpIg6L+e5o6lIOKGkiDorqLpmIXpgJrnn6Ug4oaSIOWPkemAgeWRveS7pCDihpIg6YeN57uE5binIOKGkiDop6PmnpANCi0gKipbQyDor63oqIDnpLrkvotdKGRvY3MvcHJvdG9jb2xfZXhhbXBsZS5jKSoqIOKAlCDnuq/ljY/orq7lsYLlrp7njrDvvJrlkb3ku6TluKfmnoTpgKDjgIHmoKHpqozjgIHliIbluKfph43nu4TjgIHlrZfmrrXop6PmnpDvvIzlkKvlrp7mtYvluKfoh6rmtYvvvIzlj68gYGdjYyAtc3RkPWMxMSAtbyBwcm90b2NvbF9leGFtcGxlIHByb3RvY29sX2V4YW1wbGUuY2Ag55u05o6l57yW6K+R6L+Q6KGMDQotICoqW1B5dGhvbiDnpLrkvotdKGRvY3MvYmxlX3JlYWRfZXhhbXBsZS5weSkqKiDigJQg5Z+65LqOIGBibGVha2Ag55qE5a6M5pW06ISa5pys77yaYHBpcCBpbnN0YWxsIGJsZWFrYCDlkI4gYHB5dGhvbiBibGVfcmVhZF9leGFtcGxlLnB5IFtNQUNdYCDljbPlj6/miavmj48v6L+e5o6l5bm25omT5Y2w5a6e5pe25pWw5o2uDQoNCj4g56S65L6L56iL5bqP5L2N5LqOIGBkb2NzL2DvvIzkuI3lj4LkuI4gQXBwIOaehOW7uu+8jOS7heS9nOWNj+iuruWvueaOpeWPguiAg+OAgkMvUHl0aG9uIOekuuS+i+eahOino+aekOeul+azleS4juWunua1i+W4p+W3sumqjOivge+8iDc5LjAxViAvIDU4JSAvIDI0LjJ+MjQuOOKEg++8ieOAgg0KDQojIyDotKHnjK4NCg0K5qyi6L+O5o+Q5LqkIElzc3VlIOS4jiBQdWxsIFJlcXVlc3TvvJoNCg0KLSDooaXlhYXlhbbku5blnovlj7fkv53miqTmnb/nmoTljY/orq7lrZfmrrUNCi0g5LyY5YyWIFVJIC8g5L+u5aSNIEJ1Zw0KLSDlrozlloTmlofmoaPkuI7miKrlm74NCg0K5o+Q5Lqk5Luj56CB5YmN6K+356Gu5L+dIGBidWlsZC5wczFgIOaehOW7uumAmui/h++8jOS4lOS4jeWMheWQq+S7u+S9leetvuWQjeWvhumSpeaIluWvhueggeOAgg0KDQotLS0NCg0KIyMg6K645Y+v6K+BDQoNCltNSVQgTGljZW5zZV0oTElDRU5TRSkg4oCUIOivpuingSBMSUNFTlNFIOaWh+S7tuOAgg0KDQrmnKzpobnnm67ku4XkvpvlrabkuaDkuI7noJTnqbbkvb/nlKjjgILkvb/nlKjmnKzpobnnm67or7vlj5bmiJbkv67mlLnnlLXmsaDkv53miqTmnb/mlbDmja7luKbmnaXnmoTku7vkvZXpo47pmannlLHkvb/nlKjogIXoh6rooYzmib/mi4XjgIINCg0KLS0tDQoNCiMjIOiHtOiwog0KDQotIOWNj+iuruWIhuaekOWPguiAg+WumOaWueOAjOi2heWogemUgueUteOAjeWwj+eoi+W6j+Wunua1i+aVsOaNruWvueeFpw0KLSDlvIDlj5HogIXvvJpwdGxnZg0K
+# 超威芯界 BMS（CHILWEE XINJIE BMS）
+
+[![Android](https://img.shields.io/badge/Platform-Android%206%2B-green.svg)](https://www.android.com/)
+[![Build](https://img.shields.io/badge/Build-Manual%20Toolchain-orange.svg)](#构建)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
+一款通过蓝牙 BLE 读取**超威自研「芯界 BMS」保护板**数据的 Android 应用，附带完整逆向协议文档。提供图形化仪表盘、本地历史记录、报警阈值、桌面小部件等功能。
+
+> 本项目为个人学习与实用工具，非超威官方产品。协议通过抓包与官方小程序对照逆向而来，仅供研究交流。
+
+---
+
+## 目录
+
+- [功能特性](#功能特性)
+- [支持的设备](#支持的设备)
+- [快速开始](#快速开始)
+- [界面预览](#界面预览)
+- [协议文档](#协议文档)
+- [项目结构](#项目结构)
+- [构建说明](#构建说明)
+- [常见问题](#常见问题)
+- [开发资源](#开发资源)
+- [贡献](#贡献)
+- [许可证](#许可证)
+
+---
+
+## 功能特性
+
+- **图形仪表盘**
+  - 电压半圆表盘、SOC 环形电量
+  - SOC / 电压随时间变化曲线（左轴 SOC%、右轴电压 V、横轴时间）
+  - 24 串单体电压格子展示，低压自动标红
+  - 充电 / 放电电流分别显示
+- **历史记录**
+  - 每次读数存入本机 CSV（`bms_history.csv`，最多 2000 条）
+  - 历史曲线 + 明细列表，支持一键清空
+- **报警阈值**（设置页可配置）
+  - 压差过大、温度过高、单体电压过低、SOC 过低
+  - 超阈值高亮提醒 + 振动
+- **蓝牙连接**
+  - 仅显示超威设备（设备名以 `DB` 开头，不区分大小写）
+  - 记住上次设备 MAC，下次打开自动连接
+  - 连接成功后标题栏显示最后更新时间；断开后数据停留在最后一次读数
+  - 60 秒轮询（电池数据变化慢，降低刷新频率）
+- **桌面小部件（4×2）**
+  - 电压表盘、电量环、电压/SOC/温度/压差四项数据
+  - 最后更新时间与刷新按钮，点击自动连接设备更新数据（JobScheduler 后台任务）
+
+---
+
+## 支持的设备
+
+| 项目 | 值 |
+|---|---|
+| 设备名 | `DBXXXXXXXXXXXXXX`（实测型号：`DB24SAO3L24S60ABU`） |
+| 电池类型 | 磷酸铁锂，24 串，标称 **50Ah** |
+
+> 设备名具体编码含义尚未确认（目前仅测试过 `DB24SAO3L24S60ABU` 一款），因此不对其命名规则做推断。当前以开头的 `DB` 作为超威 BMS 的识别前缀。
+| BLE 服务 | `0000ff00-0000-1000-8000-00805f9b34fb` |
+| 数据通道 | `FF01` = Notify（数据返回口），`FF02` = Write / Write-No-Response（命令口） |
+
+设备指纹：`FF00` 服务 + `FF01`/`FF02` 特征值。连接后据此判断是否为本类 BMS。
+
+> 如果你的保护板也是超威芯界 BMS 但设备名不是以 `DB` 开头，可在 `BleManager.java` 的过滤规则（`NAME_PREFIX` / `MAC_WHITELIST`）中调整，欢迎提 Issue 或 PR。
+
+---
+
+## 快速开始
+
+### 安装
+
+下载 Releases 中的 APK 直接安装（Android 6.0+，需要蓝牙与定位权限）。
+
+### 使用
+
+1. 首次打开自动弹出扫描框，选择你的超威 BMS 设备
+2. 连接后仪表盘开始显示数据（首次读数即时，之后每 60 秒更新）
+3. 「连接设备」按钮：未连接且有历史设备时直接重连；无历史设备时弹出扫描框；已连接时点击断开
+4. 添加桌面卡片：桌面长按空白处 → 卡片/小部件 → 搜索「BMS」→ 选「超威芯界BMS」
+
+---
+
+## 界面预览
+
+> 应用包含三个页面：仪表盘、历史、设置，以及一个 4×2 桌面小部件。截图见仓库 `docs/screenshots/`（如有）。
+
+| 页面 | 内容 |
+|---|---|
+| 仪表盘 | 电压表盘、电量环、充放电电流、总压/SOC/压差/温度/MAC/更新时间、24 串电压、近期趋势 |
+| 历史 | SOC/电压随时间曲线、记录条数、明细列表、清空按钮 |
+| 设置 | 报警阈值配置、蓝牙过滤开关、清除已记住设备、关于（开发者/版本） |
+
+---
+
+## 协议文档
+
+### 命令帧（手机 → BMS）
+
+```
+DD A5 [CMD] 00 [CHK_H] [CHK_L] 77
+```
+
+| 字节 | 含义 |
+|---|---|
+| `DD A5` | 固定帧头 |
+| `CMD` | 命令码 |
+| `00` | 数据长度（命令无数据） |
+| `CHK_H CHK_L` | 校验，大端 16 位 |
+| `77` | 固定帧尾 |
+
+**校验算法**：`CHK = 0x10000 - CMD`（命令码的 16 位补码）
+
+| 命令 | 完整帧 | 说明 |
+|---|---|---|
+| 01 | `DD A5 01 00 FF FF 77` | 读基本信息（暂无有效返回） |
+| 02 | `DD A5 02 00 FF FE 77` | 保留 |
+| 03 | `DD A5 03 00 FF FD 77` | **读实时数据**（电压/电流/SOC/温度） |
+| 04 | `DD A5 04 00 FF FC 77` | **读单体电压**（24 串） |
+| 05 | `DD A5 05 00 FF FB 77` | 读设备名（ASCII） |
+
+### 返回帧（BMS → 手机）
+
+```
+DD [CMD] [LEN_H] [LEN_L] [DATA ...] [CHK_H] [CHK_L] 77
+```
+
+一帧数据经 `FF01` 分成多个 20 字节通知包上报，需按「帧头 `DD` + 长度字段」重组，**不能简单以 `77` 截断**（数据字节中可能出现 `0x77`）。重组算法见 `BmsParser.java`。
+
+### 命令 03 — 实时数据帧
+
+数据区长度 `0x26` = 38 字节。实测帧示例：
+
+```
+DD 03 00 26 1E DD 00 00 0B 64 13 88 00 01 35 33 00 00 00 00
+00 00 80 3A 03 18 03 0B A3 0B 9D 0B 9E 00 00 00 13 88 0B 64
+00 00 F9 8B 77
+```
+
+字段布局（索引从数据区第 0 字节起）：
+
+| 偏移 | 长度 | 类型 | 换算 | 示例值 | 对照小程序 |
+|---|---|---|---|---|---|
+| `[0-1]` | 2 | uint16 BE | `/100` → V | `1E DD`=7901 → 79.01V | 79.01V ✓ |
+| `[2-3]` | 2 | int16 BE | `/100` → A（正充电/负放电） | `00 00` → 0.00A | 静置 --A ✓ |
+| `[19]` | 1 | uint8 | 直接 → % | `3A`=58 → 58% | 58% ✓ |
+| `[23-24]` | 2 | uint16 BE | `/10 − 273.15` → ℃ | `0B A3` → 24.2℃ | |
+| `[25-26]` | 2 | uint16 BE | 同上 | `0B 9D` → 24.1℃ | 24.2~24.7℃ ✓ |
+| `[27-28]` | 2 | uint16 BE | 同上 | `0B 9E` → 24.2℃ | |
+
+温度单位为 **0.1 开尔文**，减去 273.15 得摄氏度。三个探头取最小/最大显示温度范围。
+
+其他字段（`[4-5]`=2916、`[6-7]`=5000 等）疑为剩余/满容量（2916/5000 ≈ 58.3%，与 SOC 一致），未纳入当前解析。
+
+### 命令 04 — 单体电压帧
+
+数据区长度 `0x30` = 48 字节 = 24 串 × 2 字节大端 mV。
+
+| 偏移 | 长度 | 类型 | 换算 |
+|---|---|---|---|
+| `[0-1]` ~ `[46-47]` | 24×2 | uint16 BE | 每串 `/1000` → V |
+
+示例：`0C DD` = 3293 → 3.293V。由 24 串求和得总电压 ≈ 79.01V，压差 = 最高串 − 最低串。
+
+### 命令 05 — 设备名帧
+
+数据区长度 `0x11` = 17 字节，ASCII：`DB24SAO3L24S60ABU`。
+
+### 协议要点
+
+- 命令校验 = `0x10000 − CMD`
+- 数据帧按 `DD` 帧头 + 长度字段重组（分帧上报）
+- 电压：2 字节大端，除 100（总压）或 1000（单体 mV）
+- SOC：单字节百分比，位于命令 03 数据区偏移 19
+- 温度：3 个探头，2 字节大端 0.1K，减 273.15 得 ℃
+- 电流：2 字节大端有符号，除 100 得 A；正为充电、负为放电
+
+---
+
+## 项目结构
+
+```
+bms-dashboard/
+├── AndroidManifest.xml
+├── build.ps1                 # 手动工具链构建脚本
+├── res/
+│   ├── layout/               # 主界面、扫描对话框、桌面小部件布局
+│   ├── drawable*/            # 背景、卡片、logo、小部件图标
+│   ├── values/               # 颜色、字符串、样式
+│   └── xml/widget_info.xml   # 桌面小部件配置
+├── src/com/example/bmsdash/
+│   ├── MainActivity.java          # UI 与交互
+│   ├── BleManager.java            # 扫描/过滤/连接/自动重连/轮询
+│   ├── BmsParser.java             # 协议帧重组与字段解析
+│   ├── BmsData.java               # 数据快照与 03/04 帧合并
+│   ├── HistoryStore.java          # CSV 历史存储
+│   ├── ChartView.java             # SOC/电压趋势图（带坐标轴）
+│   ├── GaugeView.java             # 电压表盘
+│   ├── BatteryArcView.java        # 电量环
+│   ├── DeviceAdapter.java / LeDevice.java
+│   └── Widget*.java               # 桌面小部件与刷新任务
+└── tools/GenIcon.java         # 生成 launcher 图标
+```
+
+---
+
+## 构建说明
+
+本项目**不使用 Gradle**，采用手动工具链（`build.ps1`）：
+
+```
+aapt2 compile --dir res → aapt2 link → javac -source 8 -target 8
+→ jar → d8(build-tools 36) → zipalign → apksigner
+```
+
+准备：
+
+- Android SDK（含 build-tools 34.0.0 与 **36.0.0**、platform android-34）
+- JDK（脚本在 JDK 25 下验证）
+- 签名密钥 `release.keystore`（**不入库**，需自行保管；覆盖升级必须用同一把）
+
+构建前设置签名密码环境变量，然后运行脚本：
+
+```powershell
+$env:BMS_KS_PASS = '你的签名密码'
+# 可选：别名与脚本默认值不同时设置 $env:BMS_KS_ALIAS
+.\build.ps1
+```
+
+> 说明：
+> - aapt2 不接受中文路径，脚本会复制到纯 ASCII 目录（如 `C:\bmsdash_build`）构建后拷回
+> - JDK 25 下 d8 必须用 build-tools 36.0.0（34.0.0 的 d8 处理匿名内部类会 NPE 崩溃）
+> - 签名私钥与密码均不写入仓库，避免泄露
+
+---
+
+## 常见问题
+
+**Q: 扫描不到设备？**
+确认保护板已通电、手机蓝牙与定位权限已开启。默认只显示名称以 `DB` 开头的设备；如需适配其他型号，可修改 `BleManager.java` 中的 `NAME_PREFIX` 过滤规则。
+
+**Q: 能连接但显示 0.00A？**
+命令 03（含电流）与命令 04（单体电压）分开上报，本 App 已通过 `hasCurrent` 标志避免 04 帧把电流覆盖为 0。若充电时数值仍异常，App 会将命令 03 原始帧保存到本机 `files/frame03.txt`，欢迎附该文件提 Issue。
+
+**Q: 数据多久更新一次？**
+连接后即时读取一次，之后每 60 秒轮询。断开后界面数据停留在最后一次读数。
+
+**Q: 桌面卡片如何刷新？**
+点击卡片上的「刷新」按钮，会通过 JobScheduler 在后台自动连接已记住的设备并更新数据。
+
+---
+
+## 开发资源
+
+- **[详细蓝牙协议文档](docs/PROTOCOL_CN.md)** — GATT 结构、帧格式、字段定义、分帧重组算法、实现陷阱、完整工作流程
+- **[Android (Java) 示例](docs/BleReadExample.java)** — 完整 Activity：扫描过滤 → 连接 → 订阅通知 → 发送命令 → 重组帧 → 解析
+- **[Python 示例](docs/ble_read_example.py)** — 基于 `bleak` 的完整脚本：`pip install bleak` 后 `python ble_read_example.py [MAC]` 即可扫描/连接并打印实时数据
+
+> 示例程序位于 `docs/`，不参与 App 构建，仅作协议对接参考。Python 示例的解析算法与实测帧已验证（79.01V / 58% / 24.2~24.8℃）。
+
+## 贡献
+
+欢迎提交 Issue 与 Pull Request：
+
+- 补充其他型号保护板的协议字段
+- 优化 UI / 修复 Bug
+- 完善文档与截图
+
+提交代码前请确保 `build.ps1` 构建通过，且不包含任何签名密钥或密码。
+
+---
+
+## 许可证
+
+[MIT License](LICENSE) — 详见 LICENSE 文件。
+
+本项目仅供学习与研究使用。使用本项目读取或修改电池保护板数据带来的任何风险由使用者自行承担。
+
+---
+
+## 致谢
+
+- 协议分析参考官方「超威锂电」小程序实测数据对照
+- 开发者：ptlgf

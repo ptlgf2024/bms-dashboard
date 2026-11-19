@@ -1,1 +1,172 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMw0KIyAtKi0gY29kaW5nOiB1dGYtOCAtKi0NCiIiIg0K6LaF5aiB6Iqv55WMIEJNUyDok53niZnov57mjqXkuI7mlbDmja7or7vlj5bnpLrkvovvvIhQeXRob27vvIkNCg0K5L6d6LWW77yaYmxlYWvvvIjot6jlubPlj7AgQkxFIOW6k++8jOaUr+aMgSBXaW5kb3dzIC8gTGludXggLyBtYWNPU++8iQ0KICAgIHBpcCBpbnN0YWxsIGJsZWFrDQoNCueUqOazle+8mg0KICAgIHB5dGhvbiBibGVfcmVhZF9leGFtcGxlLnB5ICAgICAgICAgICAgICAgICAgICAjIOaJq+aPjyBEQiDlvIDlpLTnmoTorr7lpIflubbov57mjqUNCiAgICBweXRob24gYmxlX3JlYWRfZXhhbXBsZS5weSBYWDpYWDpYWDpYWDpYWDpYWCAgIyDnm7TmjqXov57mjqXmjIflrpogTUFD77yI5pu/5o2i5Li65L2g55qE6K6+5aSH5Zyw5Z2A77yJDQoNCuWKn+iDve+8muaJq+aPj+i/h+a7pCAtPiDov57mjqUgLT4g6K6i6ZiFIEZGMDEg6YCa55+lIC0+IOWPkemAgSAweDAzLzB4MDQg5ZG95LukDQogICAgICAtPiDliIbluKfph43nu4QgLT4g6Kej5p6Q55S15Y6LL+eUtea1gS9TT0Mv5rip5bqmLzI05Liy5Y2V5L2T55S15Y6LDQoiIiINCg0KaW1wb3J0IGFzeW5jaW8NCmltcG9ydCBzdHJ1Y3QNCmltcG9ydCBzeXMNCmZyb20gZGF0ZXRpbWUgaW1wb3J0IGRhdGV0aW1lDQoNCnRyeToNCiAgICBmcm9tIGJsZWFrIGltcG9ydCBCbGVha0NsaWVudCwgQmxlYWtTY2FubmVyDQogICAgZnJvbSBibGVhay5iYWNrZW5kcy5jaGFyYWN0ZXJpc3RpYyBpbXBvcnQgQmxlYWtHQVRUQ2hhcmFjdGVyaXN0aWMNCmV4Y2VwdCBJbXBvcnRFcnJvcjoNCiAgICBwcmludCgi57y65bCR5L6d6LWW77yM6K+35YWI6L+Q6KGMOiBwaXAgaW5zdGFsbCBibGVhayIpDQogICAgc3lzLmV4aXQoMSkNCg0KIyAtLS0tLS0tLS0tIFVVSUQgLS0tLS0tLS0tLQ0KU0VSVklDRV9VVUlEID0gIjAwMDBmZjAwLTAwMDAtMTAwMC04MDAwLTAwODA1ZjliMzRmYiINCk5PVElGWV9VVUlEICA9ICIwMDAwZmYwMS0wMDAwLTEwMDAtODAwMC0wMDgwNWY5YjM0ZmIiICAgIyBCTVMgLT4g5omL5py6DQpXUklURV9VVUlEICAgPSAiMDAwMGZmMDItMDAwMC0xMDAwLTgwMDAtMDA4MDVmOWIzNGZiIiAgICMg5omL5py6IC0+IEJNUw0KDQpQT0xMX0lOVEVSVkFMID0gNjAgICMg56eSDQoNCkNNRF9SRUFMVElNRSA9IDB4MDMNCkNNRF9DRUxMUyAgICA9IDB4MDQNCkNNRF9OQU1FICAgICA9IDB4MDUNCg0KDQpkZWYgbG9nKG1zZzogc3RyKToNCiAgICBwcmludChmIlt7ZGF0ZXRpbWUubm93KCkuc3RyZnRpbWUoJyVIOiVNOiVTJyl9XSB7bXNnfSIsIGZsdXNoPVRydWUpDQoNCg0KZGVmIGJ1aWxkX2NvbW1hbmQoY21kOiBpbnQpIC0+IGJ5dGVzOg0KICAgICIiIuaehOmAoOWRveS7pOW4pyBERCBBNSBDTUQgMDAgQ0hLX0ggQ0hLX0wgNzfvvIxDSEsgPSAweDEwMDAwIC0gQ01EIiIiDQogICAgY2hrID0gMHgxMDAwMCAtIGNtZA0KICAgIHJldHVybiBieXRlcyhbMHhERCwgMHhBNSwgY21kLCAweDAwLCAoY2hrID4+IDgpICYgMHhGRiwgY2hrICYgMHhGRiwgMHg3N10pDQoNCg0KY2xhc3MgRnJhbWVBc3NlbWJsZXI6DQogICAgIiIi6YCa55+l5YiG5bin6YeN57uE5Zmo77ya5oyJIEREIOW4p+WktCArIOmVv+W6puWtl+autemHjee7hO+8jOWkhOeQhuWZquWjsOS4jueymOWMhSIiIg0KDQogICAgZGVmIF9faW5pdF9fKHNlbGYsIG9uX2ZyYW1lKToNCiAgICAgICAgc2VsZi5idWYgPSBieXRlYXJyYXkoKQ0KICAgICAgICBzZWxmLm9uX2ZyYW1lID0gb25fZnJhbWUNCg0KICAgIGRlZiBmZWVkKHNlbGYsIGNodW5rOiBieXRlcyk6DQogICAgICAgIGZvciBiIGluIGNodW5rOg0KICAgICAgICAgICAgaWYgbm90IHNlbGYuYnVmIGFuZCBiICE9IDB4REQ6ICAgICAgIyDkuKLlvIPpnZ7luKflpLTlmarlo7ANCiAgICAgICAgICAgICAgICBjb250aW51ZQ0KICAgICAgICAgICAgc2VsZi5idWYuYXBwZW5kKGIpDQogICAgICAgICAgICBpZiBsZW4oc2VsZi5idWYpID49IDQ6DQogICAgICAgICAgICAgICAgZGF0YV9sZW4gPSAoc2VsZi5idWZbMl0gPDwgOCkgfCBzZWxmLmJ1ZlszXQ0KICAgICAgICAgICAgICAgIG5lZWQgPSA0ICsgZGF0YV9sZW4gKyAzICAgICAgICAjIOW4p+WktDQgKyDmlbDmja4gKyDmoKHpqowyICsg5bin5bC+MQ0KICAgICAgICAgICAgICAgIGlmIG5lZWQgPD0gMTAyNCBhbmQgbGVuKHNlbGYuYnVmKSA+PSBuZWVkOg0KICAgICAgICAgICAgICAgICAgICBmcmFtZSA9IGJ5dGVzKHNlbGYuYnVmWzpuZWVkXSkNCiAgICAgICAgICAgICAgICAgICAgc2VsZi5vbl9mcmFtZShmcmFtZSkNCiAgICAgICAgICAgICAgICAgICAgZGVsIHNlbGYuYnVmWzpuZWVkXSAgICAgICAgIyDliankvZnlrZfoioLnu6fnu63lpITnkIbvvIjnspjljIXvvIkNCiAgICAgICAgICAgIGlmIGxlbihzZWxmLmJ1ZikgPiAxMDI0OiAgICAgICAgICAgIyDpmLLmuqLlh7oNCiAgICAgICAgICAgICAgICBzZWxmLmJ1Zi5jbGVhcigpDQoNCg0KZGVmIHBhcnNlX3JlYWx0aW1lKGQ6IGJ5dGVzKToNCiAgICAiIiLop6PmnpDlkb3ku6QgMDMg5a6e5pe25pWw5o2u5binIiIiDQogICAgaWYgbGVuKGQpIDwgMjk6DQogICAgICAgIHJldHVybg0KICAgIHZvbHRhZ2UgPSBzdHJ1Y3QudW5wYWNrX2Zyb20oIj5IIiwgZCwgMClbMF0gLyAxMDAuMA0KICAgIGN1cnJlbnQgPSBzdHJ1Y3QudW5wYWNrX2Zyb20oIj5oIiwgZCwgMilbMF0gLyAxMDAuMCAgICMg5pyJ56ym5Y+377yM5q2j5YWF55S1L+i0n+aUvueUtQ0KICAgIHNvYyA9IGRbMTldDQogICAgdGVtcHMgPSBbc3RydWN0LnVucGFja19mcm9tKCI+SCIsIGQsIG9mZilbMF0gLyAxMC4wIC0gMjczLjE1DQogICAgICAgICAgICAgZm9yIG9mZiBpbiAoMjMsIDI1LCAyNyldDQogICAgc3RhdGUgPSAi5YWF55S1IiBpZiBjdXJyZW50ID4gMC4wMDUgZWxzZSAoIuaUvueUtSIgaWYgY3VycmVudCA8IC0wLjAwNSBlbHNlICLpnZnnva4iKQ0KICAgIGxvZyhmIuWunuaXtuaVsOaNrjog55S15Y6LIHt2b2x0YWdlOi4yZn0gViwg55S15rWBIHtjdXJyZW50OisuMmZ9IEEgKHtzdGF0ZX0pLCAiDQogICAgICAgIGYiU09DIHtzb2N9JSwg5rip5bqmIHttaW4odGVtcHMpOi4xZn1+e21heCh0ZW1wcyk6LjFmfSDihIMiKQ0KDQoNCmRlZiBwYXJzZV9jZWxscyhkOiBieXRlcyk6DQogICAgIiIi6Kej5p6Q5ZG95LukIDA0IOeahCAyNCDkuLLljZXkvZPnlLXljosiIiINCiAgICBpZiBsZW4oZCkgPCA0ODoNCiAgICAgICAgcmV0dXJuDQogICAgY2VsbHMgPSBbc3RydWN0LnVucGFja19mcm9tKCI+SCIsIGQsIGkgKiAyKVswXSBmb3IgaSBpbiByYW5nZSgyNCldDQogICAgbG9nKGYi5Y2V5L2T55S15Y6LOiB7bWluKGNlbGxzKX1+e21heChjZWxscyl9IG1WLCDljovlt64ge21heChjZWxscykgLSBtaW4oY2VsbHMpfSBtViwgIg0KICAgICAgICBmIuaAu+WOiyB7c3VtKGNlbGxzKSAvIDEwMDAuMDouMmZ9IFYiKQ0KICAgIGxvZyhmIiAgMjTkuLLmmI7nu4Y6IHtjZWxsc30iKQ0KDQoNCmRlZiBvbl9mcmFtZShmcmFtZTogYnl0ZXMpOg0KICAgICIiIuWujOaVtOW4p+WbnuiwgyIiIg0KICAgIGlmIGxlbihmcmFtZSkgPCA3Og0KICAgICAgICByZXR1cm4NCiAgICBjbWQgPSBmcmFtZVsxXQ0KICAgIGRhdGFfbGVuID0gKGZyYW1lWzJdIDw8IDgpIHwgZnJhbWVbM10NCiAgICBkID0gZnJhbWVbNDo0ICsgbWluKGRhdGFfbGVuLCBsZW4oZnJhbWUpIC0gNyldDQogICAgbG9nKGYi5pS25Yiw5binIENNRD17Y21kOjAyWH0g5pWw5o2u6ZW/5bqmPXtsZW4oZCl9IikNCiAgICBpZiBjbWQgPT0gQ01EX1JFQUxUSU1FOg0KICAgICAgICBwYXJzZV9yZWFsdGltZShkKQ0KICAgIGVsaWYgY21kID09IENNRF9DRUxMUzoNCiAgICAgICAgcGFyc2VfY2VsbHMoZCkNCiAgICBlbGlmIGNtZCA9PSBDTURfTkFNRToNCiAgICAgICAgbG9nKGYi6K6+5aSH5ZCNOiB7ZC5kZWNvZGUoJ2FzY2lpJywgZXJyb3JzPSdpZ25vcmUnKX0iKQ0KDQoNCmFzeW5jIGRlZiBtYWluKCk6DQogICAgYXNzZW1ibGVyID0gRnJhbWVBc3NlbWJsZXIob25fZnJhbWUpDQoNCiAgICAjIC0tLS0tLS0tLS0gMS4g5omr5o+P5oiW5oyH5a6a6K6+5aSHIC0tLS0tLS0tLS0NCiAgICB0YXJnZXQgPSBzeXMuYXJndlsxXSBpZiBsZW4oc3lzLmFyZ3YpID4gMSBlbHNlIE5vbmUNCiAgICBpZiB0YXJnZXQ6DQogICAgICAgIGxvZyhmIui/nuaOpeaMh+WumuiuvuWkhyB7dGFyZ2V0fSIpDQogICAgICAgIGRldmljZSA9IGF3YWl0IEJsZWFrU2Nhbm5lci5maW5kX2RldmljZV9ieV9hZGRyZXNzKHRhcmdldCwgdGltZW91dD0xMC4wKQ0KICAgIGVsc2U6DQogICAgICAgIGxvZygi5omr5o+P5ZCN56ew5LulIERCIOW8gOWktOeahOiuvuWkh+KApiIpDQogICAgICAgIGRldmljZXMgPSBhd2FpdCBCbGVha1NjYW5uZXIuZGlzY292ZXIodGltZW91dD0xMC4wKQ0KICAgICAgICBtYXRjaGVzID0gW2QgZm9yIGQgaW4gZGV2aWNlcw0KICAgICAgICAgICAgICAgICAgIGlmIGQubmFtZSBhbmQgZC5uYW1lLnVwcGVyKCkuc3RhcnRzd2l0aCgiREIiKV0NCiAgICAgICAgZm9yIGQgaW4gbWF0Y2hlczoNCiAgICAgICAgICAgIGxvZyhmIuWPkeeOsOiuvuWkhzoge2QubmFtZX0gIHtkLmFkZHJlc3N9IikNCiAgICAgICAgZGV2aWNlID0gbWF0Y2hlc1swXSBpZiBtYXRjaGVzIGVsc2UgTm9uZQ0KDQogICAgaWYgZGV2aWNlIGlzIE5vbmU6DQogICAgICAgIGxvZygi5pyq5om+5Yiw6K6+5aSHIikNCiAgICAgICAgcmV0dXJuDQoNCiAgICAjIC0tLS0tLS0tLS0gMi4g6L+e5o6l5bm26K6i6ZiFIC0tLS0tLS0tLS0NCiAgICBhc3luYyB3aXRoIEJsZWFrQ2xpZW50KGRldmljZSkgYXMgY2xpZW50Og0KICAgICAgICBsb2coZiLlt7Lov57mjqUge2RldmljZS5hZGRyZXNzfSIpDQogICAgICAgIHN2YyA9IGNsaWVudC5zZXJ2aWNlcy5nZXRfc2VydmljZShTRVJWSUNFX1VVSUQpDQogICAgICAgIGlmIHN2YyBpcyBOb25lOg0KICAgICAgICAgICAgbG9nKCLmnKrlj5HnjrAgRkYwMCDmnI3liqHvvIzpnZ7nm67moIforr7lpIciKQ0KICAgICAgICAgICAgcmV0dXJuDQogICAgICAgIGxvZygi6K6+5aSH5oyH57q56aqM6K+B6YCa6L+H77yIRkYwMCDmnI3liqHvvIkiKQ0KDQogICAgICAgIGRlZiBub3RpZnlfaGFuZGxlcihfY2g6IEJsZWFrR0FUVENoYXJhY3RlcmlzdGljLCBkYXRhOiBieXRlYXJyYXkpOg0KICAgICAgICAgICAgYXNzZW1ibGVyLmZlZWQoYnl0ZXMoZGF0YSkpDQoNCiAgICAgICAgYXdhaXQgY2xpZW50LnN0YXJ0X25vdGlmeShOT1RJRllfVVVJRCwgbm90aWZ5X2hhbmRsZXIpDQogICAgICAgIGxvZygi5bey6K6i6ZiFIEZGMDEg6YCa55+lIikNCg0KICAgICAgICAjIC0tLS0tLS0tLS0gMy4g5Y+R6YCB5ZG95Luk5bm26L2u6K+iIC0tLS0tLS0tLS0NCiAgICAgICAgYXN5bmMgZGVmIHBvbGxfb25jZSgpOg0KICAgICAgICAgICAgYXdhaXQgY2xpZW50LndyaXRlX2dhdHRfY2hhcihXUklURV9VVUlELCBidWlsZF9jb21tYW5kKENNRF9SRUFMVElNRSksDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlc3BvbnNlPUZhbHNlKQ0KICAgICAgICAgICAgbG9nKCLlj5HpgIHlkb3ku6QgMDMiKQ0KICAgICAgICAgICAgYXdhaXQgYXN5bmNpby5zbGVlcCgwLjMpDQogICAgICAgICAgICBhd2FpdCBjbGllbnQud3JpdGVfZ2F0dF9jaGFyKFdSSVRFX1VVSUQsIGJ1aWxkX2NvbW1hbmQoQ01EX0NFTExTKSwNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVzcG9uc2U9RmFsc2UpDQogICAgICAgICAgICBsb2coIuWPkemAgeWRveS7pCAwNCIpDQoNCiAgICAgICAgYXdhaXQgYXN5bmNpby5zbGVlcCgwLjUpICAgIyDnrYnorqLpmIXnlJ/mlYgNCiAgICAgICAgd2hpbGUgVHJ1ZToNCiAgICAgICAgICAgIGF3YWl0IHBvbGxfb25jZSgpDQogICAgICAgICAgICBhd2FpdCBhc3luY2lvLnNsZWVwKFBPTExfSU5URVJWQUwpDQoNCg0KaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoNCiAgICB0cnk6DQogICAgICAgIGFzeW5jaW8ucnVuKG1haW4oKSkNCiAgICBleGNlcHQgS2V5Ym9hcmRJbnRlcnJ1cHQ6DQogICAgICAgIGxvZygi5bey6YCA5Ye6IikNCg==
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+超威芯界 BMS 蓝牙连接与数据读取示例（Python）
+
+依赖：bleak（跨平台 BLE 库，支持 Windows / Linux / macOS）
+    pip install bleak
+
+用法：
+    python ble_read_example.py                    # 扫描 DB 开头的设备并连接
+    python ble_read_example.py XX:XX:XX:XX:XX:XX  # 直接连接指定 MAC（替换为你的设备地址）
+
+功能：扫描过滤 -> 连接 -> 订阅 FF01 通知 -> 发送 0x03/0x04 命令
+      -> 分帧重组 -> 解析电压/电流/SOC/温度/24串单体电压
+"""
+
+import asyncio
+import struct
+import sys
+from datetime import datetime
+
+try:
+    from bleak import BleakClient, BleakScanner
+    from bleak.backends.characteristic import BleakGATTCharacteristic
+except ImportError:
+    print("缺少依赖，请先运行: pip install bleak")
+    sys.exit(1)
+
+# ---------- UUID ----------
+SERVICE_UUID = "0000ff00-0000-1000-8000-00805f9b34fb"
+NOTIFY_UUID  = "0000ff01-0000-1000-8000-00805f9b34fb"   # BMS -> 手机
+WRITE_UUID   = "0000ff02-0000-1000-8000-00805f9b34fb"   # 手机 -> BMS
+
+POLL_INTERVAL = 60  # 秒
+
+CMD_REALTIME = 0x03
+CMD_CELLS    = 0x04
+CMD_NAME     = 0x05
+
+
+def log(msg: str):
+    print(f"[{datetime.now().strftime('%H:%M:%S')}] {msg}", flush=True)
+
+
+def build_command(cmd: int) -> bytes:
+    """构造命令帧 DD A5 CMD 00 CHK_H CHK_L 77，CHK = 0x10000 - CMD"""
+    chk = 0x10000 - cmd
+    return bytes([0xDD, 0xA5, cmd, 0x00, (chk >> 8) & 0xFF, chk & 0xFF, 0x77])
+
+
+class FrameAssembler:
+    """通知分帧重组器：按 DD 帧头 + 长度字段重组，处理噪声与粘包"""
+
+    def __init__(self, on_frame):
+        self.buf = bytearray()
+        self.on_frame = on_frame
+
+    def feed(self, chunk: bytes):
+        for b in chunk:
+            if not self.buf and b != 0xDD:      # 丢弃非帧头噪声
+                continue
+            self.buf.append(b)
+            if len(self.buf) >= 4:
+                data_len = (self.buf[2] << 8) | self.buf[3]
+                need = 4 + data_len + 3        # 帧头4 + 数据 + 校验2 + 帧尾1
+                if need <= 1024 and len(self.buf) >= need:
+                    frame = bytes(self.buf[:need])
+                    self.on_frame(frame)
+                    del self.buf[:need]        # 剩余字节继续处理（粘包）
+            if len(self.buf) > 1024:           # 防溢出
+                self.buf.clear()
+
+
+def parse_realtime(d: bytes):
+    """解析命令 03 实时数据帧"""
+    if len(d) < 29:
+        return
+    voltage = struct.unpack_from(">H", d, 0)[0] / 100.0
+    current = struct.unpack_from(">h", d, 2)[0] / 100.0   # 有符号，正充电/负放电
+    soc = d[19]
+    temps = [struct.unpack_from(">H", d, off)[0] / 10.0 - 273.15
+             for off in (23, 25, 27)]
+    state = "充电" if current > 0.005 else ("放电" if current < -0.005 else "静置")
+    log(f"实时数据: 电压 {voltage:.2f} V, 电流 {current:+.2f} A ({state}), "
+        f"SOC {soc}%, 温度 {min(temps):.1f}~{max(temps):.1f} ℃")
+
+
+def parse_cells(d: bytes):
+    """解析命令 04 的 24 串单体电压"""
+    if len(d) < 48:
+        return
+    cells = [struct.unpack_from(">H", d, i * 2)[0] for i in range(24)]
+    log(f"单体电压: {min(cells)}~{max(cells)} mV, 压差 {max(cells) - min(cells)} mV, "
+        f"总压 {sum(cells) / 1000.0:.2f} V")
+    log(f"  24串明细: {cells}")
+
+
+def on_frame(frame: bytes):
+    """完整帧回调"""
+    if len(frame) < 7:
+        return
+    cmd = frame[1]
+    data_len = (frame[2] << 8) | frame[3]
+    d = frame[4:4 + min(data_len, len(frame) - 7)]
+    log(f"收到帧 CMD={cmd:02X} 数据长度={len(d)}")
+    if cmd == CMD_REALTIME:
+        parse_realtime(d)
+    elif cmd == CMD_CELLS:
+        parse_cells(d)
+    elif cmd == CMD_NAME:
+        log(f"设备名: {d.decode('ascii', errors='ignore')}")
+
+
+async def main():
+    assembler = FrameAssembler(on_frame)
+
+    # ---------- 1. 扫描或指定设备 ----------
+    target = sys.argv[1] if len(sys.argv) > 1 else None
+    if target:
+        log(f"连接指定设备 {target}")
+        device = await BleakScanner.find_device_by_address(target, timeout=10.0)
+    else:
+        log("扫描名称以 DB 开头的设备…")
+        devices = await BleakScanner.discover(timeout=10.0)
+        matches = [d for d in devices
+                   if d.name and d.name.upper().startswith("DB")]
+        for d in matches:
+            log(f"发现设备: {d.name}  {d.address}")
+        device = matches[0] if matches else None
+
+    if device is None:
+        log("未找到设备")
+        return
+
+    # ---------- 2. 连接并订阅 ----------
+    async with BleakClient(device) as client:
+        log(f"已连接 {device.address}")
+        svc = client.services.get_service(SERVICE_UUID)
+        if svc is None:
+            log("未发现 FF00 服务，非目标设备")
+            return
+        log("设备指纹验证通过（FF00 服务）")
+
+        def notify_handler(_ch: BleakGATTCharacteristic, data: bytearray):
+            assembler.feed(bytes(data))
+
+        # bleak 的 start_notify 会在各平台后端自动向 CCCD(0x2902) 写入 0x0001
+        # 启用 Notify，等价于 Android 端手动 writeDescriptor，无需显式操作
+        await client.start_notify(NOTIFY_UUID, notify_handler)
+        log("已订阅 FF01 通知")
+
+        # ---------- 3. 发送命令并轮询 ----------
+        async def poll_once():
+            await client.write_gatt_char(WRITE_UUID, build_command(CMD_REALTIME),
+                                         response=False)
+            log("发送命令 03")
+            await asyncio.sleep(0.3)
+            await client.write_gatt_char(WRITE_UUID, build_command(CMD_CELLS),
+                                         response=False)
+            log("发送命令 04")
+
+        await asyncio.sleep(0.5)   # 等订阅生效
+        while True:
+            await poll_once()
+            await asyncio.sleep(POLL_INTERVAL)
+
+
+if __name__ == "__main__":
+    try:
+        asyncio.run(main())
+    except KeyboardInterrupt:
+        log("已退出")

@@ -1,1 +1,17 @@
-IyDnrb7lkI3lr4bpkqXvvIjlkKvnp4HpkqXvvIzkuKXnpoHmj5DkuqTliLDku7vkvZXku5PlupPvvIkNCnJlbGVhc2Uua2V5c3RvcmUNCioua2V5c3RvcmUNCiouamtzDQoNCiMg5p6E5bu65Lqn54mp77yI5Y+v55SxIGJ1aWxkLnBzMSDph43mlrDnlJ/miJDvvIkNCmJ1aWxkLw0KDQojIOezu+e7nyAvIElERSDmlofku7YNCi5EU19TdG9yZQ0KVGh1bWJzLmRiDQouaWRlYS8NCiouaW1sDQo=
+# 签名密钥（含私钥，严禁提交到任何仓库）
+release.keystore
+*.keystore
+*.jks
+
+# 构建产物（可由 build.ps1 重新生成）
+build/
+
+# 系统 / IDE 文件
+.DS_Store
+Thumbs.db
+.idea/
+*.iml
+
+# Python 缓存
+__pycache__/
+*.pyc

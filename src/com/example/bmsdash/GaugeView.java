@@ -1,1 +1,89 @@
-cGFja2FnZSBjb20uZXhhbXBsZS5ibXNkYXNoOw0KDQppbXBvcnQgYW5kcm9pZC5jb250ZW50LkNvbnRleHQ7DQppbXBvcnQgYW5kcm9pZC5ncmFwaGljcy5DYW52YXM7DQppbXBvcnQgYW5kcm9pZC5ncmFwaGljcy5Db2xvcjsNCmltcG9ydCBhbmRyb2lkLmdyYXBoaWNzLlBhaW50Ow0KaW1wb3J0IGFuZHJvaWQuZ3JhcGhpY3MuUmVjdEY7DQppbXBvcnQgYW5kcm9pZC51dGlsLkF0dHJpYnV0ZVNldDsNCmltcG9ydCBhbmRyb2lkLnZpZXcuVmlldzsNCg0KLyoqIOeUteWOi+ihqOebmO+8muWNiuWchuW8p+S7quihqOebmCArIOaMh+mSiCAqLw0KcHVibGljIGNsYXNzIEdhdWdlVmlldyBleHRlbmRzIFZpZXcgew0KICAgIHByaXZhdGUgUGFpbnQgYXJjQmcsIGFyY1ZhbCwgbmVlZGxlLCB0ZXh0LCBsYWJlbFBhaW50Ow0KICAgIHByaXZhdGUgZG91YmxlIHZhbHVlID0gMCwgbWluID0gNjAsIG1heCA9IDkwOw0KICAgIHByaXZhdGUgU3RyaW5nIHVuaXQgPSAiViI7DQoNCiAgICBwdWJsaWMgR2F1Z2VWaWV3KENvbnRleHQgYykgeyBzdXBlcihjKTsgaW5pdCgpOyB9DQogICAgcHVibGljIEdhdWdlVmlldyhDb250ZXh0IGMsIEF0dHJpYnV0ZVNldCBhKSB7IHN1cGVyKGMsIGEpOyBpbml0KCk7IH0NCg0KICAgIHByaXZhdGUgdm9pZCBpbml0KCkgew0KICAgICAgICBhcmNCZyA9IG5ldyBQYWludChQYWludC5BTlRJX0FMSUFTX0ZMQUcpOw0KICAgICAgICBhcmNCZy5zZXRTdHlsZShQYWludC5TdHlsZS5TVFJPS0UpOw0KICAgICAgICBhcmNCZy5zZXRDb2xvcihDb2xvci5yZ2IoMjA3LCAyMTYsIDIyMCkpOw0KICAgICAgICBhcmNWYWwgPSBuZXcgUGFpbnQoUGFpbnQuQU5USV9BTElBU19GTEFHKTsNCiAgICAgICAgYXJjVmFsLnNldFN0eWxlKFBhaW50LlN0eWxlLlNUUk9LRSk7DQogICAgICAgIGFyY1ZhbC5zZXRDb2xvcihDb2xvci5yZ2IoMzAsIDEzNiwgMjI5KSk7DQogICAgICAgIG5lZWRsZSA9IG5ldyBQYWludChQYWludC5BTlRJX0FMSUFTX0ZMQUcpOw0KICAgICAgICBuZWVkbGUuc2V0Q29sb3IoQ29sb3IucmdiKDE5OCwgNDAsIDQwKSk7DQogICAgICAgIG5lZWRsZS5zZXRTdHJva2VXaWR0aCg0KTsNCiAgICAgICAgdGV4dCA9IG5ldyBQYWludChQYWludC5BTlRJX0FMSUFTX0ZMQUcpOw0KICAgICAgICB0ZXh0LnNldENvbG9yKENvbG9yLnJnYigzMywgMzMsIDMzKSk7DQogICAgICAgIHRleHQuc2V0VGV4dEFsaWduKFBhaW50LkFsaWduLkNFTlRFUik7DQogICAgICAgIGxhYmVsUGFpbnQgPSBuZXcgUGFpbnQoUGFpbnQuQU5USV9BTElBU19GTEFHKTsNCiAgICAgICAgbGFiZWxQYWludC5zZXRDb2xvcihDb2xvci5yZ2IoOTYsIDEyNSwgMTM5KSk7DQogICAgICAgIGxhYmVsUGFpbnQuc2V0VGV4dEFsaWduKFBhaW50LkFsaWduLkNFTlRFUik7DQogICAgfQ0KDQogICAgcHVibGljIHZvaWQgc2V0UmFuZ2UoZG91YmxlIG1pbiwgZG91YmxlIG1heCkgeyB0aGlzLm1pbiA9IG1pbjsgdGhpcy5tYXggPSBtYXg7IGludmFsaWRhdGUoKTsgfQ0KICAgIHB1YmxpYyB2b2lkIHNldFZhbHVlKGRvdWJsZSB2KSB7IHRoaXMudmFsdWUgPSB2OyBpbnZhbGlkYXRlKCk7IH0NCg0KICAgIEBPdmVycmlkZQ0KICAgIHByb3RlY3RlZCB2b2lkIG9uRHJhdyhDYW52YXMgYykgew0KICAgICAgICBzdXBlci5vbkRyYXcoYyk7DQogICAgICAgIGludCB3ID0gZ2V0V2lkdGgoKSwgaCA9IGdldEhlaWdodCgpOw0KICAgICAgICBmbG9hdCBjeCA9IHcgLyAyZiwgY3kgPSBoICogMC42MmY7DQogICAgICAgIGZsb2F0IHJhZGl1cyA9IE1hdGgubWluKHcgLyAyZiwgaCAqIDAuNzJmKSAtIDE2Ow0KICAgICAgICBmbG9hdCBzdHJva2UgPSBNYXRoLm1heCg4ZiwgcmFkaXVzICogMC4xMmYpOw0KICAgICAgICBhcmNCZy5zZXRTdHJva2VXaWR0aChzdHJva2UpOw0KICAgICAgICBhcmNWYWwuc2V0U3Ryb2tlV2lkdGgoc3Ryb2tlKTsNCg0KICAgICAgICBSZWN0RiByZWN0ID0gbmV3IFJlY3RGKGN4IC0gcmFkaXVzLCBjeSAtIHJhZGl1cywgY3ggKyByYWRpdXMsIGN5ICsgcmFkaXVzKTsNCiAgICAgICAgaW50IHN0YXJ0QW5nbGUgPSAxNTAsIHN3ZWVwID0gMjQwOw0KICAgICAgICBjLmRyYXdBcmMocmVjdCwgc3RhcnRBbmdsZSwgc3dlZXAsIGZhbHNlLCBhcmNCZyk7DQoNCiAgICAgICAgZG91YmxlIHBjdCA9ICh2YWx1ZSAtIG1pbikgLyAobWF4IC0gbWluKTsNCiAgICAgICAgaWYgKHBjdCA8IDApIHBjdCA9IDA7IGlmIChwY3QgPiAxKSBwY3QgPSAxOw0KICAgICAgICAvLyDpopzoibLpmo/nlLXljovljLrpl7Tlj5jljJYNCiAgICAgICAgaW50IGNvbG9yOw0KICAgICAgICBpZiAocGN0IDwgMC4yNSkgY29sb3IgPSBDb2xvci5yZ2IoMTk4LCA0MCwgNDApOw0KICAgICAgICBlbHNlIGlmIChwY3QgPCAwLjQpIGNvbG9yID0gQ29sb3IucmdiKDI0OSwgMTY4LCAzNyk7DQogICAgICAgIGVsc2UgY29sb3IgPSBDb2xvci5yZ2IoNDYsIDEyNSwgNTApOw0KICAgICAgICBhcmNWYWwuc2V0Q29sb3IoY29sb3IpOw0KICAgICAgICBjLmRyYXdBcmMocmVjdCwgc3RhcnRBbmdsZSwgKGZsb2F0KShzd2VlcCAqIHBjdCksIGZhbHNlLCBhcmNWYWwpOw0KDQogICAgICAgIC8vIOWIu+W6pg0KICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8PSA2OyBpKyspIHsNCiAgICAgICAgICAgIGRvdWJsZSBhID0gTWF0aC50b1JhZGlhbnMoc3RhcnRBbmdsZSArIHN3ZWVwICogaSAvIDYuMCk7DQogICAgICAgICAgICBmbG9hdCByMSA9IHJhZGl1cyAtIHN0cm9rZSAqIDAuOWYsIHIyID0gcmFkaXVzIC0gc3Ryb2tlICogMS41ZjsNCiAgICAgICAgICAgIGZsb2F0IHgxID0gY3ggKyAoZmxvYXQpKHIxICogTWF0aC5jb3MoYSkpLCB5MSA9IGN5ICsgKGZsb2F0KShyMSAqIE1hdGguc2luKGEpKTsNCiAgICAgICAgICAgIGZsb2F0IHgyID0gY3ggKyAoZmxvYXQpKHIyICogTWF0aC5jb3MoYSkpLCB5MiA9IGN5ICsgKGZsb2F0KShyMiAqIE1hdGguc2luKGEpKTsNCiAgICAgICAgICAgIGMuZHJhd0xpbmUoeDEsIHkxLCB4MiwgeTIsIGxhYmVsUGFpbnQpOw0KICAgICAgICB9DQoNCiAgICAgICAgLy8g5oyH6ZKIDQogICAgICAgIGRvdWJsZSBhbmcgPSBNYXRoLnRvUmFkaWFucyhzdGFydEFuZ2xlICsgc3dlZXAgKiBwY3QpOw0KICAgICAgICBmbG9hdCBueCA9IGN4ICsgKGZsb2F0KSgocmFkaXVzIC0gc3Ryb2tlICogMS42KSAqIE1hdGguY29zKGFuZykpOw0KICAgICAgICBmbG9hdCBueSA9IGN5ICsgKGZsb2F0KSgocmFkaXVzIC0gc3Ryb2tlICogMS42KSAqIE1hdGguc2luKGFuZykpOw0KICAgICAgICBjLmRyYXdMaW5lKGN4LCBjeSwgbngsIG55LCBuZWVkbGUpOw0KICAgICAgICBjLmRyYXdDaXJjbGUoY3gsIGN5LCBzdHJva2UgKiAwLjM1ZiwgbmVlZGxlKTsNCg0KICAgICAgICAvLyDmlbDlgLwNCiAgICAgICAgdGV4dC5zZXRUZXh0U2l6ZShyYWRpdXMgKiAwLjM0Zik7DQogICAgICAgIGMuZHJhd1RleHQoU3RyaW5nLmZvcm1hdChqYXZhLnV0aWwuTG9jYWxlLmdldERlZmF1bHQoKSwgIiUuMmYiLCB2YWx1ZSksIGN4LCBjeSAtIHJhZGl1cyAqIDAuMjhmLCB0ZXh0KTsNCiAgICAgICAgbGFiZWxQYWludC5zZXRUZXh0U2l6ZShyYWRpdXMgKiAwLjE4Zik7DQogICAgICAgIGMuZHJhd1RleHQodW5pdCwgY3gsIGN5IC0gcmFkaXVzICogMC4wMmYsIGxhYmVsUGFpbnQpOw0KICAgICAgICBjLmRyYXdUZXh0KFN0cmluZy5mb3JtYXQoamF2YS51dGlsLkxvY2FsZS5nZXREZWZhdWx0KCksICIlLjBmIiwgbWluKSArICIgLSAiICsgU3RyaW5nLmZvcm1hdChqYXZhLnV0aWwuTG9jYWxlLmdldERlZmF1bHQoKSwgIiUuMGYiLCBtYXgpICsgIiBWIiwNCiAgICAgICAgICAgICAgICBjeCwgY3kgKyByYWRpdXMgKiAwLjYyZiwgbGFiZWxQYWludCk7DQogICAgfQ0KfQ0K
+package com.example.bmsdash;
+
+import android.content.Context;
+import android.graphics.Canvas;
+import android.graphics.Color;
+import android.graphics.Paint;
+import android.graphics.RectF;
+import android.util.AttributeSet;
+import android.view.View;
+
+/** 电压表盘：半圆弧仪表盘 + 指针 */
+public class GaugeView extends View {
+    private Paint arcBg, arcVal, needle, text, labelPaint;
+    private double value = 0, min = 60, max = 90;
+    private String unit = "V";
+
+    public GaugeView(Context c) { super(c); init(); }
+    public GaugeView(Context c, AttributeSet a) { super(c, a); init(); }
+
+    private void init() {
+        arcBg = new Paint(Paint.ANTI_ALIAS_FLAG);
+        arcBg.setStyle(Paint.Style.STROKE);
+        arcBg.setColor(Color.rgb(207, 216, 220));
+        arcVal = new Paint(Paint.ANTI_ALIAS_FLAG);
+        arcVal.setStyle(Paint.Style.STROKE);
+        arcVal.setColor(Color.rgb(30, 136, 229));
+        needle = new Paint(Paint.ANTI_ALIAS_FLAG);
+        needle.setColor(Color.rgb(198, 40, 40));
+        needle.setStrokeWidth(4);
+        text = new Paint(Paint.ANTI_ALIAS_FLAG);
+        text.setColor(Color.rgb(33, 33, 33));
+        text.setTextAlign(Paint.Align.CENTER);
+        labelPaint = new Paint(Paint.ANTI_ALIAS_FLAG);
+        labelPaint.setColor(Color.rgb(96, 125, 139));
+        labelPaint.setTextAlign(Paint.Align.CENTER);
+    }
+
+    public void setRange(double min, double max) { this.min = min; this.max = max; invalidate(); }
+    public void setValue(double v) { this.value = v; invalidate(); }
+
+    @Override
+    protected void onDraw(Canvas c) {
+        super.onDraw(c);
+        int w = getWidth(), h = getHeight();
+        float cx = w / 2f, cy = h * 0.62f;
+        float radius = Math.min(w / 2f, h * 0.72f) - 16;
+        float stroke = Math.max(8f, radius * 0.12f);
+        arcBg.setStrokeWidth(stroke);
+        arcVal.setStrokeWidth(stroke);
+
+        RectF rect = new RectF(cx - radius, cy - radius, cx + radius, cy + radius);
+        int startAngle = 150, sweep = 240;
+        c.drawArc(rect, startAngle, sweep, false, arcBg);
+
+        double pct = (value - min) / (max - min);
+        if (pct < 0) pct = 0; if (pct > 1) pct = 1;
+        // 颜色随电压区间变化
+        int color;
+        if (pct < 0.25) color = Color.rgb(198, 40, 40);
+        else if (pct < 0.4) color = Color.rgb(249, 168, 37);
+        else color = Color.rgb(46, 125, 50);
+        arcVal.setColor(color);
+        c.drawArc(rect, startAngle, (float)(sweep * pct), false, arcVal);
+
+        // 刻度
+        for (int i = 0; i <= 6; i++) {
+            double a = Math.toRadians(startAngle + sweep * i / 6.0);
+            float r1 = radius - stroke * 0.9f, r2 = radius - stroke * 1.5f;
+            float x1 = cx + (float)(r1 * Math.cos(a)), y1 = cy + (float)(r1 * Math.sin(a));
+            float x2 = cx + (float)(r2 * Math.cos(a)), y2 = cy + (float)(r2 * Math.sin(a));
+            c.drawLine(x1, y1, x2, y2, labelPaint);
+        }
+
+        // 指针
+        double ang = Math.toRadians(startAngle + sweep * pct);
+        float nx = cx + (float)((radius - stroke * 1.6) * Math.cos(ang));
+        float ny = cy + (float)((radius - stroke * 1.6) * Math.sin(ang));
+        c.drawLine(cx, cy, nx, ny, needle);
+        c.drawCircle(cx, cy, stroke * 0.35f, needle);
+
+        // 数值
+        text.setTextSize(radius * 0.34f);
+        c.drawText(String.format(java.util.Locale.getDefault(), "%.2f", value), cx, cy - radius * 0.28f, text);
+        labelPaint.setTextSize(radius * 0.18f);
+        c.drawText(unit, cx, cy - radius * 0.02f, labelPaint);
+        c.drawText(String.format(java.util.Locale.getDefault(), "%.0f", min) + " - " + String.format(java.util.Locale.getDefault(), "%.0f", max) + " V",
+                cx, cy + radius * 0.62f, labelPaint);
+    }
+}

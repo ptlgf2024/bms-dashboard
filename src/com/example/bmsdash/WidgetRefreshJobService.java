@@ -1,1 +1,87 @@
-cGFja2FnZSBjb20uZXhhbXBsZS5ibXNkYXNoOw0KDQppbXBvcnQgYW5kcm9pZC5hcHAuam9iLkpvYlBhcmFtZXRlcnM7DQppbXBvcnQgYW5kcm9pZC5hcHAuam9iLkpvYlNlcnZpY2U7DQppbXBvcnQgYW5kcm9pZC5jb250ZW50LkNvbnRleHQ7DQppbXBvcnQgYW5kcm9pZC5jb250ZW50LlNoYXJlZFByZWZlcmVuY2VzOw0KaW1wb3J0IGFuZHJvaWQub3MuSGFuZGxlcjsNCmltcG9ydCBhbmRyb2lkLnV0aWwuTG9nOw0KDQppbXBvcnQgamF2YS51dGlsLkxpc3Q7DQoNCi8qKiDlsI/pg6jku7bliLfmlrDku7vliqHvvJrnlKggSm9iU2NoZWR1bGVyIOWcqOWQjuWPsOi/nuaOpSBCTVMg5bm25pu05paw5bCP6YOo5Lu2ICovDQpwdWJsaWMgY2xhc3MgV2lkZ2V0UmVmcmVzaEpvYlNlcnZpY2UgZXh0ZW5kcyBKb2JTZXJ2aWNlIHsNCiAgICBwcml2YXRlIEJsZU1hbmFnZXIgYmxlOw0KICAgIHByaXZhdGUgZmluYWwgSGFuZGxlciBoYW5kbGVyID0gbmV3IEhhbmRsZXIoKTsNCiAgICBwcml2YXRlIEpvYlBhcmFtZXRlcnMgcGFyYW1zOw0KICAgIHByaXZhdGUgYm9vbGVhbiBmaW5pc2hlZCA9IGZhbHNlOw0KDQogICAgQE92ZXJyaWRlDQogICAgcHVibGljIGJvb2xlYW4gb25TdGFydEpvYihKb2JQYXJhbWV0ZXJzIHApIHsNCiAgICAgICAgTG9nLmQoIkJtc0Rhc2giLCAiVyBqb2Igc3RhcnQiKTsNCiAgICAgICAgcGFyYW1zID0gcDsNCiAgICAgICAgU2hhcmVkUHJlZmVyZW5jZXMgcHJlZiA9IGdldFNoYXJlZFByZWZlcmVuY2VzKCJibXNkYXNoX3ByZWYiLCBDb250ZXh0Lk1PREVfUFJJVkFURSk7DQogICAgICAgIFN0cmluZyBtYWMgPSBwcmVmLmdldFN0cmluZygibGFzdF9tYWMiLCBudWxsKTsNCiAgICAgICAgaWYgKG1hYyA9PSBudWxsKSB7DQogICAgICAgICAgICBXaWRnZXRQcm92aWRlci5zZXRTdGF0dXModGhpcywgIuacque7keWumuiuvuWkh++8jOivt+WFiOWcqCBBcHAg5Lit6L+e5o6lIik7DQogICAgICAgICAgICBjbGVhbnVwKCk7DQogICAgICAgICAgICByZXR1cm4gZmFsc2U7DQogICAgICAgIH0NCg0KICAgICAgICBXaWRnZXRQcm92aWRlci5zZXRTdGF0dXModGhpcywgIuato+WcqOi/nuaOpeiuvuWkh+KApiIpOw0KICAgICAgICBibGUgPSBuZXcgQmxlTWFuYWdlcih0aGlzLCBuZXcgQmxlTWFuYWdlci5DYWxsYmFjaygpIHsNCiAgICAgICAgICAgIEBPdmVycmlkZSBwdWJsaWMgdm9pZCBvblNjYW5SZXN1bHQoTGlzdDxMZURldmljZT4gZGV2aWNlcykge30NCg0KICAgICAgICAgICAgQE92ZXJyaWRlIHB1YmxpYyB2b2lkIG9uQ29ubmVjdGlvbihib29sZWFuIG9rLCBTdHJpbmcgbXNnKSB7DQogICAgICAgICAgICAgICAgaWYgKGZpbmlzaGVkKSByZXR1cm47DQogICAgICAgICAgICAgICAgaWYgKCFvaykgew0KICAgICAgICAgICAgICAgICAgICBXaWRnZXRQcm92aWRlci5zZXRTdGF0dXMoV2lkZ2V0UmVmcmVzaEpvYlNlcnZpY2UudGhpcywgbXNnKTsNCiAgICAgICAgICAgICAgICAgICAgZG9uZSgpOw0KICAgICAgICAgICAgICAgIH0NCiAgICAgICAgICAgIH0NCg0KICAgICAgICAgICAgQE92ZXJyaWRlIHB1YmxpYyB2b2lkIG9uRGF0YShCbXNEYXRhIGQpIHsNCiAgICAgICAgICAgICAgICBpZiAoZmluaXNoZWQgfHwgZC52b2x0YWdlIDw9IDApIHJldHVybjsNCiAgICAgICAgICAgICAgICBXaWRnZXRQcm92aWRlci5zYXZlQW5kVXBkYXRlKFdpZGdldFJlZnJlc2hKb2JTZXJ2aWNlLnRoaXMsIGQpOw0KICAgICAgICAgICAgICAgIGRvbmUoKTsNCiAgICAgICAgICAgIH0NCg0KICAgICAgICAgICAgQE92ZXJyaWRlIHB1YmxpYyB2b2lkIG9uTG9nKFN0cmluZyBtc2cpIHsgTG9nLmQoIkJtc0Rhc2giLCAiVzoiICsgbXNnKTsgfQ0KICAgICAgICB9KTsNCg0KICAgICAgICBpZiAoIWJsZS5hdXRvQ29ubmVjdChtYWMpKSB7DQogICAgICAgICAgICBXaWRnZXRQcm92aWRlci5zZXRTdGF0dXModGhpcywgIui/nuaOpeWksei0pSIpOw0KICAgICAgICAgICAgY2xlYW51cCgpOw0KICAgICAgICAgICAgcmV0dXJuIGZhbHNlOw0KICAgICAgICB9DQoNCiAgICAgICAgaGFuZGxlci5wb3N0RGVsYXllZChuZXcgUnVubmFibGUoKSB7DQogICAgICAgICAgICBAT3ZlcnJpZGUgcHVibGljIHZvaWQgcnVuKCkgew0KICAgICAgICAgICAgICAgIGlmICghZmluaXNoZWQpIHsNCiAgICAgICAgICAgICAgICAgICAgV2lkZ2V0UHJvdmlkZXIuc2V0U3RhdHVzKFdpZGdldFJlZnJlc2hKb2JTZXJ2aWNlLnRoaXMsICLov57mjqXotoXml7bvvIzor7fph43or5UiKTsNCiAgICAgICAgICAgICAgICAgICAgZG9uZSgpOw0KICAgICAgICAgICAgICAgIH0NCiAgICAgICAgICAgIH0NCiAgICAgICAgfSwgMjAwMDApOw0KICAgICAgICByZXR1cm4gdHJ1ZTsNCiAgICB9DQoNCiAgICBwcml2YXRlIHZvaWQgY2xlYW51cCgpIHsNCiAgICAgICAgaWYgKGZpbmlzaGVkKSByZXR1cm47DQogICAgICAgIGZpbmlzaGVkID0gdHJ1ZTsNCiAgICAgICAgaGFuZGxlci5yZW1vdmVDYWxsYmFja3NBbmRNZXNzYWdlcyhudWxsKTsNCiAgICAgICAgaWYgKGJsZSAhPSBudWxsKSBibGUuZGlzY29ubmVjdCgpOw0KICAgIH0NCg0KICAgIHByaXZhdGUgdm9pZCBkb25lKCkgew0KICAgICAgICBjbGVhbnVwKCk7DQogICAgICAgIGlmIChwYXJhbXMgIT0gbnVsbCkgam9iRmluaXNoZWQocGFyYW1zLCBmYWxzZSk7DQogICAgfQ0KDQogICAgQE92ZXJyaWRlDQogICAgcHVibGljIGJvb2xlYW4gb25TdG9wSm9iKEpvYlBhcmFtZXRlcnMgcCkgew0KICAgICAgICBjbGVhbnVwKCk7DQogICAgICAgIHJldHVybiBmYWxzZTsNCiAgICB9DQp9DQo=
+package com.example.bmsdash;
+
+import android.app.job.JobParameters;
+import android.app.job.JobService;
+import android.content.Context;
+import android.content.SharedPreferences;
+import android.os.Handler;
+import android.util.Log;
+
+import java.util.List;
+
+/** 小部件刷新任务：用 JobScheduler 在后台连接 BMS 并更新小部件 */
+public class WidgetRefreshJobService extends JobService {
+    private BleManager ble;
+    private final Handler handler = new Handler();
+    private JobParameters params;
+    private boolean finished = false;
+
+    @Override
+    public boolean onStartJob(JobParameters p) {
+        Log.d("BmsDash", "W job start");
+        params = p;
+        SharedPreferences pref = getSharedPreferences("bmsdash_pref", Context.MODE_PRIVATE);
+        String mac = pref.getString("last_mac", null);
+        if (mac == null) {
+            WidgetProvider.setStatus(this, "未绑定设备，请先在 App 中连接");
+            cleanup();
+            return false;
+        }
+
+        WidgetProvider.setStatus(this, "正在连接设备…");
+        ble = new BleManager(this, new BleManager.Callback() {
+            @Override public void onScanResult(List<LeDevice> devices) {}
+
+            @Override public void onConnection(boolean ok, String msg) {
+                if (finished) return;
+                if (!ok) {
+                    WidgetProvider.setStatus(WidgetRefreshJobService.this, msg);
+                    done();
+                }
+            }
+
+            @Override public void onData(BmsData d) {
+                if (finished || d.voltage <= 0) return;
+                WidgetProvider.saveAndUpdate(WidgetRefreshJobService.this, d);
+                done();
+            }
+
+            @Override public void onLog(String msg) { Log.d("BmsDash", "W:" + msg); }
+            @Override public void onProbeResult(String result) {}
+        });
+
+        if (!ble.autoConnect(mac)) {
+            WidgetProvider.setStatus(this, "连接失败");
+            cleanup();
+            return false;
+        }
+
+        handler.postDelayed(new Runnable() {
+            @Override public void run() {
+                if (!finished) {
+                    WidgetProvider.setStatus(WidgetRefreshJobService.this, "连接超时，请重试");
+                    done();
+                }
+            }
+        }, 20000);
+        return true;
+    }
+
+    private void cleanup() {
+        if (finished) return;
+        finished = true;
+        handler.removeCallbacksAndMessages(null);
+        if (ble != null) ble.disconnect();
+    }
+
+    private void done() {
+        cleanup();
+        if (params != null) jobFinished(params, false);
+    }
+
+    @Override
+    public boolean onStopJob(JobParameters p) {
+        cleanup();
+        return false;
+    }
+}

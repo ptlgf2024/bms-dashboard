@@ -1,1 +1,130 @@
-cGFja2FnZSBjb20uZXhhbXBsZS5ibXNkYXNoOw0KDQppbXBvcnQgYW5kcm9pZC5hcHAuUGVuZGluZ0ludGVudDsNCmltcG9ydCBhbmRyb2lkLmFwcC5qb2IuSm9iSW5mbzsNCmltcG9ydCBhbmRyb2lkLmFwcC5qb2IuSm9iU2NoZWR1bGVyOw0KaW1wb3J0IGFuZHJvaWQuYXBwd2lkZ2V0LkFwcFdpZGdldE1hbmFnZXI7DQppbXBvcnQgYW5kcm9pZC5hcHB3aWRnZXQuQXBwV2lkZ2V0UHJvdmlkZXI7DQppbXBvcnQgYW5kcm9pZC5jb250ZW50LkNvbXBvbmVudE5hbWU7DQppbXBvcnQgYW5kcm9pZC5jb250ZW50LkNvbnRleHQ7DQppbXBvcnQgYW5kcm9pZC5jb250ZW50LkludGVudDsNCmltcG9ydCBhbmRyb2lkLmNvbnRlbnQuU2hhcmVkUHJlZmVyZW5jZXM7DQppbXBvcnQgYW5kcm9pZC53aWRnZXQuUmVtb3RlVmlld3M7DQoNCmltcG9ydCBqYXZhLnRleHQuU2ltcGxlRGF0ZUZvcm1hdDsNCmltcG9ydCBqYXZhLnV0aWwuRGF0ZTsNCmltcG9ydCBqYXZhLnV0aWwuTG9jYWxlOw0KDQovKiog5qGM6Z2i5bCP6YOo5Lu277ya5pi+56S655S15Y6L6KGo55uY44CB55S16YeP546v44CB5pyA5ZCO5pu05paw5pe26Ze077yM54K55Ye75Yi35paw6Ieq5Yqo6L+e5o6l6K6+5aSHICovDQpwdWJsaWMgY2xhc3MgV2lkZ2V0UHJvdmlkZXIgZXh0ZW5kcyBBcHBXaWRnZXRQcm92aWRlciB7DQogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgQUNUSU9OX1JFRlJFU0ggPSAiY29tLmV4YW1wbGUuYm1zZGFzaC5SRUZSRVNIIjsNCiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBDQUNIRSA9ICJ3aWRnZXRfY2FjaGUiOw0KDQogICAgQE92ZXJyaWRlDQogICAgcHVibGljIHZvaWQgb25VcGRhdGUoQ29udGV4dCBjb250ZXh0LCBBcHBXaWRnZXRNYW5hZ2VyIG1nciwgaW50W10gYXBwV2lkZ2V0SWRzKSB7DQogICAgICAgIGZvciAoaW50IGlkIDogYXBwV2lkZ2V0SWRzKSB1cGRhdGVPbmUoY29udGV4dCwgbWdyLCBpZCk7DQogICAgfQ0KDQogICAgQE92ZXJyaWRlDQogICAgcHVibGljIHZvaWQgb25SZWNlaXZlKENvbnRleHQgY29udGV4dCwgSW50ZW50IGludGVudCkgew0KICAgICAgICBzdXBlci5vblJlY2VpdmUoY29udGV4dCwgaW50ZW50KTsNCiAgICAgICAgYW5kcm9pZC51dGlsLkxvZy5kKCJCbXNEYXNoIiwgIlcgb25SZWNlaXZlICIgKyBpbnRlbnQuZ2V0QWN0aW9uKCkpOw0KICAgICAgICBpZiAoQUNUSU9OX1JFRlJFU0guZXF1YWxzKGludGVudC5nZXRBY3Rpb24oKSkpIHsNCiAgICAgICAgICAgIEpvYlNjaGVkdWxlciBqcyA9IChKb2JTY2hlZHVsZXIpIGNvbnRleHQuZ2V0U3lzdGVtU2VydmljZShDb250ZXh0LkpPQl9TQ0hFRFVMRVJfU0VSVklDRSk7DQogICAgICAgICAgICBpZiAoanMgIT0gbnVsbCkgew0KICAgICAgICAgICAgICAgIEpvYkluZm8gam9iID0gbmV3IEpvYkluZm8uQnVpbGRlcigxMDAxLA0KICAgICAgICAgICAgICAgICAgICAgICAgbmV3IENvbXBvbmVudE5hbWUoY29udGV4dCwgV2lkZ2V0UmVmcmVzaEpvYlNlcnZpY2UuY2xhc3MpKQ0KICAgICAgICAgICAgICAgICAgICAgICAgLnNldE1pbmltdW1MYXRlbmN5KDEpDQogICAgICAgICAgICAgICAgICAgICAgICAuc2V0T3ZlcnJpZGVEZWFkbGluZSgxNTAwKQ0KICAgICAgICAgICAgICAgICAgICAgICAgLmJ1aWxkKCk7DQogICAgICAgICAgICAgICAgaW50IHIgPSBqcy5zY2hlZHVsZShqb2IpOw0KICAgICAgICAgICAgICAgIGFuZHJvaWQudXRpbC5Mb2cuZCgiQm1zRGFzaCIsICJXIGpvYiBzY2hlZHVsZSByZXN1bHQ9IiArIHIpOw0KICAgICAgICAgICAgfQ0KICAgICAgICB9DQogICAgfQ0KDQogICAgcHVibGljIHN0YXRpYyB2b2lkIHVwZGF0ZUFsbChDb250ZXh0IGNvbnRleHQpIHsNCiAgICAgICAgQXBwV2lkZ2V0TWFuYWdlciBtZ3IgPSBBcHBXaWRnZXRNYW5hZ2VyLmdldEluc3RhbmNlKGNvbnRleHQpOw0KICAgICAgICBpZiAobWdyID09IG51bGwpIHJldHVybjsNCiAgICAgICAgdXBkYXRlQWxsKGNvbnRleHQsIG1nciwgbmV3IENvbXBvbmVudE5hbWUoY29udGV4dCwgV2lkZ2V0UHJvdmlkZXIuY2xhc3MpKTsNCiAgICB9DQoNCiAgICBwcml2YXRlIHN0YXRpYyB2b2lkIHVwZGF0ZUFsbChDb250ZXh0IGNvbnRleHQsIEFwcFdpZGdldE1hbmFnZXIgbWdyLCBDb21wb25lbnROYW1lIGNuKSB7DQogICAgICAgIGludFtdIGlkcyA9IG1nci5nZXRBcHBXaWRnZXRJZHMoY24pOw0KICAgICAgICBpZiAoaWRzID09IG51bGwpIHJldHVybjsNCiAgICAgICAgZm9yIChpbnQgaWQgOiBpZHMpIHVwZGF0ZU9uZShjb250ZXh0LCBtZ3IsIGlkKTsNCiAgICB9DQoNCiAgICBwcml2YXRlIHN0YXRpYyB2b2lkIHVwZGF0ZU9uZShDb250ZXh0IGNvbnRleHQsIEFwcFdpZGdldE1hbmFnZXIgbWdyLCBpbnQgaWQpIHsNCiAgICAgICAgU2hhcmVkUHJlZmVyZW5jZXMgcCA9IGNvbnRleHQuZ2V0U2hhcmVkUHJlZmVyZW5jZXMoQ0FDSEUsIENvbnRleHQuTU9ERV9QUklWQVRFKTsNCiAgICAgICAgZmxvYXQgdm9sdGFnZSA9IHAuZ2V0RmxvYXQoInZvbHRhZ2UiLCAwZik7DQogICAgICAgIGludCBzb2MgPSBwLmdldEludCgic29jIiwgLTEpOw0KICAgICAgICBmbG9hdCB0ZW1wID0gcC5nZXRGbG9hdCgidGVtcCIsIDBmKTsNCiAgICAgICAgaW50IGRpZmYgPSBwLmdldEludCgiZGlmZiIsIDApOw0KICAgICAgICBTdHJpbmcgc3RhdHVzID0gcC5nZXRTdHJpbmcoInN0YXR1cyIsICIiKTsNCiAgICAgICAgbG9uZyB0aW1lID0gcC5nZXRMb25nKCJ0aW1lIiwgMEwpOw0KICAgICAgICBib29sZWFuIGhhc0RhdGEgPSB2b2x0YWdlID4gMDsNCg0KICAgICAgICBSZW1vdGVWaWV3cyBydiA9IG5ldyBSZW1vdGVWaWV3cyhjb250ZXh0LmdldFBhY2thZ2VOYW1lKCksIFIubGF5b3V0LndpZGdldF9sYXlvdXQpOw0KICAgICAgICBydi5zZXRJbWFnZVZpZXdCaXRtYXAoUi5pZC53aWRnZXRfZ2F1Z2UsIFdpZGdldERyYXdhYmxlcy5nYXVnZSh2b2x0YWdlLCBoYXNEYXRhKSk7DQogICAgICAgIHJ2LnNldEltYWdlVmlld0JpdG1hcChSLmlkLndpZGdldF9hcmMsIFdpZGdldERyYXdhYmxlcy5hcmMoc29jLCBoYXNEYXRhKSk7DQogICAgICAgIHJ2LnNldFRleHRWaWV3VGV4dChSLmlkLndpZGdldF92b2x0YWdlLCBoYXNEYXRhDQogICAgICAgICAgICAgICAgPyBTdHJpbmcuZm9ybWF0KExvY2FsZS5nZXREZWZhdWx0KCksICLnlLXljosgJS4yZiBWIiwgdm9sdGFnZSkgOiAi55S15Y6LIC0tIFYiKTsNCiAgICAgICAgcnYuc2V0VGV4dFZpZXdUZXh0KFIuaWQud2lkZ2V0X3NvYywgaGFzRGF0YQ0KICAgICAgICAgICAgICAgID8gU3RyaW5nLmZvcm1hdChMb2NhbGUuZ2V0RGVmYXVsdCgpLCAiU09DICVkICUlIiwgc29jKSA6ICJTT0MgLS0gJSIpOw0KICAgICAgICBydi5zZXRUZXh0Vmlld1RleHQoUi5pZC53aWRnZXRfdGVtcCwgaGFzRGF0YQ0KICAgICAgICAgICAgICAgID8gU3RyaW5nLmZvcm1hdChMb2NhbGUuZ2V0RGVmYXVsdCgpLCAi5rip5bqmICUuMWYg4oSDIiwgdGVtcCkgOiAi5rip5bqmIC0tIOKEgyIpOw0KICAgICAgICBydi5zZXRUZXh0Vmlld1RleHQoUi5pZC53aWRnZXRfZGlmZiwgaGFzRGF0YQ0KICAgICAgICAgICAgICAgID8gU3RyaW5nLmZvcm1hdChMb2NhbGUuZ2V0RGVmYXVsdCgpLCAi5Y6L5beuICVkIG1WIiwgZGlmZikgOiAi5Y6L5beuIC0tIG1WIik7DQogICAgICAgIFN0cmluZyB0aW1lVGV4dCA9IHRpbWUgPiAwDQogICAgICAgICAgICAgICAgPyAi5pyA5ZCO5pu05paw77yaIiArIG5ldyBTaW1wbGVEYXRlRm9ybWF0KCJISDptbTpzcyIsIExvY2FsZS5nZXREZWZhdWx0KCkpLmZvcm1hdChuZXcgRGF0ZSh0aW1lKSkNCiAgICAgICAgICAgICAgICA6ICLmnIDlkI7mm7TmlrDvvJotLSI7DQogICAgICAgIGlmICghc3RhdHVzLmlzRW1wdHkoKSkgdGltZVRleHQgPSB0aW1lVGV4dCArICIgwrcgIiArIHN0YXR1czsNCiAgICAgICAgcnYuc2V0VGV4dFZpZXdUZXh0KFIuaWQud2lkZ2V0X3RpbWUsIHRpbWVUZXh0KTsNCg0KICAgICAgICBJbnRlbnQgcmVmcmVzaCA9IG5ldyBJbnRlbnQoY29udGV4dCwgV2lkZ2V0UHJvdmlkZXIuY2xhc3MpOw0KICAgICAgICByZWZyZXNoLnNldEFjdGlvbihBQ1RJT05fUkVGUkVTSCk7DQogICAgICAgIFBlbmRpbmdJbnRlbnQgcGkgPSBQZW5kaW5nSW50ZW50LmdldEJyb2FkY2FzdChjb250ZXh0LCAwLCByZWZyZXNoLA0KICAgICAgICAgICAgICAgIFBlbmRpbmdJbnRlbnQuRkxBR19VUERBVEVfQ1VSUkVOVCB8IFBlbmRpbmdJbnRlbnQuRkxBR19JTU1VVEFCTEUpOw0KICAgICAgICBydi5zZXRPbkNsaWNrUGVuZGluZ0ludGVudChSLmlkLndpZGdldF9yZWZyZXNoLCBwaSk7DQogICAgICAgIG1nci51cGRhdGVBcHBXaWRnZXQoaWQsIHJ2KTsNCiAgICB9DQoNCiAgICAvKiogQXBwIOivu+WIsOaVsOaNruaXtuWQjOatpee8k+WtmOW5tuWIt+aWsOWwj+mDqOS7tiAqLw0KICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBzYXZlQW5kVXBkYXRlKENvbnRleHQgY29udGV4dCwgQm1zRGF0YSBkKSB7DQogICAgICAgIFNoYXJlZFByZWZlcmVuY2VzIHAgPSBjb250ZXh0LmdldFNoYXJlZFByZWZlcmVuY2VzKENBQ0hFLCBDb250ZXh0Lk1PREVfUFJJVkFURSk7DQogICAgICAgIHAuZWRpdCgpDQogICAgICAgICAgICAgICAgLnB1dEZsb2F0KCJ2b2x0YWdlIiwgKGZsb2F0KSBkLnZvbHRhZ2UpDQogICAgICAgICAgICAgICAgLnB1dEludCgic29jIiwgZC5zb2MpDQogICAgICAgICAgICAgICAgLnB1dEZsb2F0KCJ0ZW1wIiwgKGZsb2F0KSBkLnRlbXBNYXgpDQogICAgICAgICAgICAgICAgLnB1dEludCgiZGlmZiIsIGQuZGlmZikNCiAgICAgICAgICAgICAgICAucHV0TG9uZygidGltZSIsIFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpKQ0KICAgICAgICAgICAgICAgIC5wdXRTdHJpbmcoInN0YXR1cyIsICIiKQ0KICAgICAgICAgICAgICAgIC5hcHBseSgpOw0KICAgICAgICB1cGRhdGVBbGwoY29udGV4dCk7DQogICAgfQ0KDQogICAgLyoqIOabtOaWsOeKtuaAgeaPkOekuu+8iOi/nuaOpeS4rSAvIOWksei0peetie+8iSAqLw0KICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBzZXRTdGF0dXMoQ29udGV4dCBjb250ZXh0LCBTdHJpbmcgc3RhdHVzKSB7DQogICAgICAgIGNvbnRleHQuZ2V0U2hhcmVkUHJlZmVyZW5jZXMoQ0FDSEUsIENvbnRleHQuTU9ERV9QUklWQVRFKS5lZGl0KCkNCiAgICAgICAgICAgICAgICAucHV0U3RyaW5nKCJzdGF0dXMiLCBzdGF0dXMpLmFwcGx5KCk7DQogICAgICAgIHVwZGF0ZUFsbChjb250ZXh0KTsNCiAgICB9DQp9DQo=
+package com.example.bmsdash;
+
+import android.app.PendingIntent;
+import android.app.job.JobInfo;
+import android.app.job.JobScheduler;
+import android.appwidget.AppWidgetManager;
+import android.appwidget.AppWidgetProvider;
+import android.content.ComponentName;
+import android.content.Context;
+import android.content.Intent;
+import android.content.SharedPreferences;
+import android.widget.RemoteViews;
+
+import java.text.SimpleDateFormat;
+import java.util.Date;
+import java.util.Locale;
+
+/** 桌面小部件：显示电压表盘、电量环、最后更新时间，点击刷新自动连接设备 */
+public class WidgetProvider extends AppWidgetProvider {
+    public static final String ACTION_REFRESH = "com.example.bmsdash.REFRESH";
+    public static final String CACHE = "widget_cache";
+
+    @Override
+    public void onUpdate(Context context, AppWidgetManager mgr, int[] appWidgetIds) {
+        for (int id : appWidgetIds) updateOne(context, mgr, id);
+    }
+
+    @Override
+    public void onReceive(Context context, Intent intent) {
+        super.onReceive(context, intent);
+        android.util.Log.d("BmsDash", "W onReceive " + intent.getAction());
+        if (ACTION_REFRESH.equals(intent.getAction())) {
+            JobScheduler js = (JobScheduler) context.getSystemService(Context.JOB_SCHEDULER_SERVICE);
+            if (js != null) {
+                JobInfo job = new JobInfo.Builder(1001,
+                        new ComponentName(context, WidgetRefreshJobService.class))
+                        .setMinimumLatency(1)
+                        .setOverrideDeadline(1500)
+                        .build();
+                int r = js.schedule(job);
+                android.util.Log.d("BmsDash", "W job schedule result=" + r);
+            }
+        }
+    }
+
+    public static void updateAll(Context context) {
+        AppWidgetManager mgr = AppWidgetManager.getInstance(context);
+        if (mgr == null) return;
+        updateAll(context, mgr, new ComponentName(context, WidgetProvider.class));
+    }
+
+    private static void updateAll(Context context, AppWidgetManager mgr, ComponentName cn) {
+        int[] ids = mgr.getAppWidgetIds(cn);
+        if (ids == null) return;
+        for (int id : ids) updateOne(context, mgr, id);
+    }
+
+    private static void updateOne(Context context, AppWidgetManager mgr, int id) {
+        SharedPreferences p = context.getSharedPreferences(CACHE, Context.MODE_PRIVATE);
+        float voltage = p.getFloat("voltage", 0f);
+        int soc = p.getInt("soc", -1);
+        float temp = p.getFloat("temp", 0f);
+        int diff = p.getInt("diff", 0);
+        String status = p.getString("status", "");
+        long time = p.getLong("time", 0L);
+        boolean hasData = voltage > 0;
+
+        RemoteViews rv = new RemoteViews(context.getPackageName(), R.layout.widget_layout);
+        rv.setImageViewBitmap(R.id.widget_gauge, WidgetDrawables.gauge(voltage, hasData));
+        rv.setImageViewBitmap(R.id.widget_arc, WidgetDrawables.arc(soc, hasData));
+        rv.setTextViewText(R.id.widget_voltage, hasData
+                ? String.format(Locale.getDefault(), "电压 %.2f V", voltage) : "电压 -- V");
+        rv.setTextViewText(R.id.widget_soc, hasData
+                ? String.format(Locale.getDefault(), "SOC %d %%", soc) : "SOC -- %");
+        rv.setTextViewText(R.id.widget_temp, hasData
+                ? String.format(Locale.getDefault(), "温度 %.1f ℃", temp) : "温度 -- ℃");
+        rv.setTextViewText(R.id.widget_diff, hasData
+                ? String.format(Locale.getDefault(), "压差 %d mV", diff) : "压差 -- mV");
+        String timeText = time > 0
+                ? "最后更新：" + new SimpleDateFormat("HH:mm:ss", Locale.getDefault()).format(new Date(time))
+                : "最后更新：--";
+        if (!status.isEmpty()) timeText = timeText + " · " + status;
+        rv.setTextViewText(R.id.widget_time, timeText);
+
+        Intent refresh = new Intent(context, WidgetProvider.class);
+        refresh.setAction(ACTION_REFRESH);
+        PendingIntent pi = PendingIntent.getBroadcast(context, 0, refresh,
+                PendingIntent.FLAG_UPDATE_CURRENT | PendingIntent.FLAG_IMMUTABLE);
+        rv.setOnClickPendingIntent(R.id.widget_refresh, pi);
+        mgr.updateAppWidget(id, rv);
+    }
+
+    /** App 读到数据时同步缓存并刷新小部件 */
+    public static void saveAndUpdate(Context context, BmsData d) {
+        SharedPreferences p = context.getSharedPreferences(CACHE, Context.MODE_PRIVATE);
+        p.edit()
+                .putFloat("voltage", (float) d.voltage)
+                .putInt("soc", d.soc)
+                .putFloat("temp", (float) d.tempMax)
+                .putInt("diff", d.diff)
+                .putInt("capacity", d.capacityMah)
+                .putInt("cycles", d.cycles)
+                .putInt("remaining_cap", d.remainingCapacityMah)
+                .putInt("full_cap", d.fullCapacityMah)
+                .putInt("humidity", d.humidity)
+                .putInt("alarm", d.alarmStatus)
+                .putInt("balance_ma", d.balanceCurrentMa)
+                .putInt("software_ver", d.softwareVersion)
+                .putInt("cell_count", d.reportedCellCount)
+                .putInt("production_date", d.productionDate)
+                .putString("cells", joinCells(d.cells))
+                .putLong("time", System.currentTimeMillis())
+                .putString("status", "")
+                .apply();
+        updateAll(context);
+    }
+
+    private static String joinCells(int[] cells) {
+        StringBuilder sb = new StringBuilder();
+        for (int v : cells) sb.append(v).append(',');
+        return sb.toString();
+    }
+
+    /** 更新状态提示（连接中 / 失败等） */
+    public static void setStatus(Context context, String status) {
+        context.getSharedPreferences(CACHE, Context.MODE_PRIVATE).edit()
+                .putString("status", status).apply();
+        updateAll(context);
+    }
+}

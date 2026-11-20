@@ -1,1 +1,8 @@
-PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjxhcHB3aWRnZXQtcHJvdmlkZXIgeG1sbnM6YW5kcm9pZD0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy9hbmRyb2lkIg0KICAgIGFuZHJvaWQ6bWluV2lkdGg9IjMwMGRwIg0KICAgIGFuZHJvaWQ6bWluSGVpZ2h0PSIxMzBkcCINCiAgICBhbmRyb2lkOnVwZGF0ZVBlcmlvZE1pbGxpcz0iMCINCiAgICBhbmRyb2lkOmluaXRpYWxMYXlvdXQ9IkBsYXlvdXQvd2lkZ2V0X2xheW91dCINCiAgICBhbmRyb2lkOnJlc2l6ZU1vZGU9Imhvcml6b250YWx8dmVydGljYWwiDQogICAgYW5kcm9pZDp3aWRnZXRDYXRlZ29yeT0iaG9tZV9zY3JlZW4iIC8+DQo=
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:minWidth="300dp"
+    android:minHeight="130dp"
+    android:updatePeriodMillis="0"
+    android:initialLayout="@layout/widget_layout"
+    android:resizeMode="horizontal|vertical"
+    android:widgetCategory="home_screen" />

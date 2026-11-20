@@ -1,1 +1,20 @@
-PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjxMaW5lYXJMYXlvdXQgeG1sbnM6YW5kcm9pZD0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy9hbmRyb2lkIg0KICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiDQogICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiDQogICAgYW5kcm9pZDpvcmllbnRhdGlvbj0idmVydGljYWwiDQogICAgYW5kcm9pZDpwYWRkaW5nPSIxNmRwIj4NCg0KICAgIDxUZXh0Vmlldw0KICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50Ig0KICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCINCiAgICAgICAgYW5kcm9pZDp0ZXh0PSLmraPlnKjmiavmj4/igKbvvIjlkI3np7DlkKsgREIgLyBCTVMg5oiW5Zyo55m95ZCN5Y2V5YaF55qE6K6+5aSH77yJIg0KICAgICAgICBhbmRyb2lkOnRleHRDb2xvcj0iQGNvbG9yL3RleHRfc2Vjb25kYXJ5Ig0KICAgICAgICBhbmRyb2lkOnRleHRTaXplPSIxMnNwIiAvPg0KDQogICAgPExpc3RWaWV3DQogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvbHZfc2NhbiINCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCINCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSIzMjBkcCINCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luVG9wPSI4ZHAiIC8+DQo8L0xpbmVhckxheW91dD4NCg==
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="正在扫描…（名称含 DB / BMS 或在白名单内的设备）"
+        android:textColor="@color/text_secondary"
+        android:textSize="12sp" />
+
+    <ListView
+        android:id="@+id/lv_scan"
+        android:layout_width="match_parent"
+        android:layout_height="320dp"
+        android:layout_marginTop="8dp" />
+</LinearLayout>

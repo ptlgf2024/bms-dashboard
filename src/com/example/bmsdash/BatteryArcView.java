@@ -12,7 +12,7 @@ import android.view.View;
 public class BatteryArcView extends View {
     private Paint bg, fg, num, sub;
     private int soc = -1;
-    private static final int START = 135, SWEEP = 270; // 开口向下的 270° 弧
+    private static final int START = 140, SWEEP = 260; // 开口向下的弧（顶部闭合）
 
     public BatteryArcView(Context c) { super(c); init(); }
     public BatteryArcView(Context c, AttributeSet a) { super(c, a); init(); }
@@ -41,8 +41,8 @@ public class BatteryArcView extends View {
         super.onDraw(c);
         int w = getWidth(), h = getHeight();
         float cx = w / 2f, cy = h / 2f;
-        float radius = Math.min(w, h) / 2f - 10;
-        float stroke = Math.max(7f, radius * 0.13f);
+        float radius = Math.min(w, h) / 2f - 18;
+        float stroke = Math.max(9f, radius * 0.16f);
         bg.setStrokeWidth(stroke);
         fg.setStrokeWidth(stroke);
 
@@ -54,11 +54,11 @@ public class BatteryArcView extends View {
             c.drawArc(rect, START, SWEEP * s / 100f, false, fg);
         }
 
-        num.setTextSize(radius * 0.78f);
         String v = soc >= 0 ? soc + "" : "--";
-        c.drawText(v, cx, cy + radius * 0.12f, num);
-        sub.setTextSize(radius * 0.24f);
-        c.drawText("%", cx + radius * 0.52f, cy - radius * 0.34f, sub);
-        c.drawText("剩余电量", cx, cy + radius * 0.52f, sub);
+        num.setTextSize(radius * 0.62f);
+        c.drawText(v, cx - radius * 0.06f, cy + radius * 0.10f, num);
+        sub.setTextSize(radius * 0.22f);
+        c.drawText("%", cx + radius * 0.44f, cy - radius * 0.24f, sub);
+        c.drawText("剩余电量", cx, cy + radius * 0.46f, sub);
     }
 }

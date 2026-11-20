@@ -1,1 +1,125 @@
-cGFja2FnZSBjb20uZXhhbXBsZS5ibXNkYXNoOw0KDQppbXBvcnQgYW5kcm9pZC5jb250ZW50LkNvbnRleHQ7DQppbXBvcnQgYW5kcm9pZC5ncmFwaGljcy5DYW52YXM7DQppbXBvcnQgYW5kcm9pZC5ncmFwaGljcy5Db2xvcjsNCmltcG9ydCBhbmRyb2lkLmdyYXBoaWNzLlBhaW50Ow0KaW1wb3J0IGFuZHJvaWQudXRpbC5BdHRyaWJ1dGVTZXQ7DQppbXBvcnQgYW5kcm9pZC52aWV3LlZpZXc7DQoNCmltcG9ydCBqYXZhLnRleHQuU2ltcGxlRGF0ZUZvcm1hdDsNCmltcG9ydCBqYXZhLnV0aWwuRGF0ZTsNCmltcG9ydCBqYXZhLnV0aWwuTGlzdDsNCmltcG9ydCBqYXZhLnV0aWwuTG9jYWxlOw0KDQovKiog5puy57q/5Zu+77yaU09DIC8g55S15Y6L6ZqP5pe26Ze05Y+Y5YyW44CC5bem6L20IFNPQyXvvIzlj7PovbQg55S15Y6LVu+8jOaoqui9tCDml7bpl7QgKi8NCnB1YmxpYyBjbGFzcyBDaGFydFZpZXcgZXh0ZW5kcyBWaWV3IHsNCiAgICBwcml2YXRlIFBhaW50IGdyaWQsIHNvY1BhaW50LCB2b2x0UGFpbnQsIHRleHQsIHNvY1RpdGxlLCB2b2x0VGl0bGU7DQogICAgcHJpdmF0ZSBMaXN0PEhpc3RvcnlTdG9yZS5Qb2ludD4gZGF0YTsNCiAgICBwcml2YXRlIGZpbmFsIFNpbXBsZURhdGVGb3JtYXQgaGhtbSA9IG5ldyBTaW1wbGVEYXRlRm9ybWF0KCJISDptbSIsIExvY2FsZS5nZXREZWZhdWx0KCkpOw0KICAgIHByaXZhdGUgZmluYWwgU2ltcGxlRGF0ZUZvcm1hdCBtZEhtbSA9IG5ldyBTaW1wbGVEYXRlRm9ybWF0KCJNTS1kZCBISDptbSIsIExvY2FsZS5nZXREZWZhdWx0KCkpOw0KDQogICAgcHVibGljIENoYXJ0VmlldyhDb250ZXh0IGMpIHsgc3VwZXIoYyk7IGluaXQoKTsgfQ0KICAgIHB1YmxpYyBDaGFydFZpZXcoQ29udGV4dCBjLCBBdHRyaWJ1dGVTZXQgYSkgeyBzdXBlcihjLCBhKTsgaW5pdCgpOyB9DQoNCiAgICBwcml2YXRlIHZvaWQgaW5pdCgpIHsNCiAgICAgICAgZ3JpZCA9IG5ldyBQYWludChQYWludC5BTlRJX0FMSUFTX0ZMQUcpOw0KICAgICAgICBncmlkLnNldENvbG9yKENvbG9yLnJnYigyMjQsIDIyNCwgMjI0KSk7DQogICAgICAgIGdyaWQuc2V0U3Ryb2tlV2lkdGgoMSk7DQogICAgICAgIHNvY1BhaW50ID0gbmV3IFBhaW50KFBhaW50LkFOVElfQUxJQVNfRkxBRyk7DQogICAgICAgIHNvY1BhaW50LnNldENvbG9yKENvbG9yLnJnYig0NiwgMTI1LCA1MCkpOw0KICAgICAgICBzb2NQYWludC5zZXRTdHJva2VXaWR0aCgzKTsNCiAgICAgICAgc29jUGFpbnQuc2V0U3R5bGUoUGFpbnQuU3R5bGUuU1RST0tFKTsNCiAgICAgICAgdm9sdFBhaW50ID0gbmV3IFBhaW50KFBhaW50LkFOVElfQUxJQVNfRkxBRyk7DQogICAgICAgIHZvbHRQYWludC5zZXRDb2xvcihDb2xvci5yZ2IoMzAsIDEzNiwgMjI5KSk7DQogICAgICAgIHZvbHRQYWludC5zZXRTdHJva2VXaWR0aCgzKTsNCiAgICAgICAgdm9sdFBhaW50LnNldFN0eWxlKFBhaW50LlN0eWxlLlNUUk9LRSk7DQogICAgICAgIHRleHQgPSBuZXcgUGFpbnQoUGFpbnQuQU5USV9BTElBU19GTEFHKTsNCiAgICAgICAgdGV4dC5zZXRDb2xvcihDb2xvci5yZ2IoOTYsIDEyNSwgMTM5KSk7DQogICAgICAgIHRleHQuc2V0VGV4dFNpemUoMTgpOw0KICAgICAgICBzb2NUaXRsZSA9IG5ldyBQYWludChQYWludC5BTlRJX0FMSUFTX0ZMQUcpOw0KICAgICAgICBzb2NUaXRsZS5zZXRDb2xvcihDb2xvci5yZ2IoNDYsIDEyNSwgNTApKTsNCiAgICAgICAgc29jVGl0bGUuc2V0VGV4dFNpemUoMTgpOw0KICAgICAgICBzb2NUaXRsZS5zZXRGYWtlQm9sZFRleHQodHJ1ZSk7DQogICAgICAgIHZvbHRUaXRsZSA9IG5ldyBQYWludChQYWludC5BTlRJX0FMSUFTX0ZMQUcpOw0KICAgICAgICB2b2x0VGl0bGUuc2V0Q29sb3IoQ29sb3IucmdiKDMwLCAxMzYsIDIyOSkpOw0KICAgICAgICB2b2x0VGl0bGUuc2V0VGV4dFNpemUoMTgpOw0KICAgICAgICB2b2x0VGl0bGUuc2V0RmFrZUJvbGRUZXh0KHRydWUpOw0KICAgIH0NCg0KICAgIHB1YmxpYyB2b2lkIHNldERhdGEoTGlzdDxIaXN0b3J5U3RvcmUuUG9pbnQ+IGQpIHsgdGhpcy5kYXRhID0gZDsgaW52YWxpZGF0ZSgpOyB9DQoNCiAgICBAT3ZlcnJpZGUNCiAgICBwcm90ZWN0ZWQgdm9pZCBvbkRyYXcoQ2FudmFzIGMpIHsNCiAgICAgICAgc3VwZXIub25EcmF3KGMpOw0KICAgICAgICBpbnQgdyA9IGdldFdpZHRoKCksIGggPSBnZXRIZWlnaHQoKTsNCiAgICAgICAgZmxvYXQgcGFkTCA9IDUwLCBwYWRSID0gNTIsIHBhZFQgPSAyNiwgcGFkQiA9IDI2Ow0KICAgICAgICBmbG9hdCB4MCA9IHBhZEwsIHgxID0gdyAtIHBhZFI7DQogICAgICAgIGZsb2F0IHlUb3AgPSBwYWRULCB5Qm90ID0gaCAtIHBhZEI7DQogICAgICAgIGZsb2F0IHBsb3RIID0geUJvdCAtIHlUb3A7DQoNCiAgICAgICAgZG91YmxlIHZNaW4gPSAwLCB2TWF4ID0gMTAwOw0KICAgICAgICBpZiAoZGF0YSAhPSBudWxsICYmIGRhdGEuc2l6ZSgpID49IDIpIHsNCiAgICAgICAgICAgIHZNaW4gPSBEb3VibGUuTUFYX1ZBTFVFOyB2TWF4ID0gLURvdWJsZS5NQVhfVkFMVUU7DQogICAgICAgICAgICBmb3IgKEhpc3RvcnlTdG9yZS5Qb2ludCBwIDogZGF0YSkgew0KICAgICAgICAgICAgICAgIGlmIChwLnZvbHRhZ2UgPiAwICYmIHAudm9sdGFnZSA8IHZNaW4pIHZNaW4gPSBwLnZvbHRhZ2U7DQogICAgICAgICAgICAgICAgaWYgKHAudm9sdGFnZSA+IHZNYXgpIHZNYXggPSBwLnZvbHRhZ2U7DQogICAgICAgICAgICB9DQogICAgICAgICAgICBpZiAodk1heCAtIHZNaW4gPCAxKSB7IHZNaW4gLT0gMC41OyB2TWF4ICs9IDAuNTsgfQ0KICAgICAgICB9DQoNCiAgICAgICAgLy8g6L205qCH6aKY77yI6aG26YOo77yM6aKc6Imy5a+55bqU5puy57q/77yJDQogICAgICAgIHNvY1RpdGxlLnNldFRleHRBbGlnbihQYWludC5BbGlnbi5MRUZUKTsNCiAgICAgICAgdm9sdFRpdGxlLnNldFRleHRBbGlnbihQYWludC5BbGlnbi5SSUdIVCk7DQogICAgICAgIGMuZHJhd1RleHQoIlNPQyUiLCAyLCAxOCwgc29jVGl0bGUpOw0KICAgICAgICBjLmRyYXdUZXh0KCLnlLXljotWIiwgdyAtIDIsIDE4LCB2b2x0VGl0bGUpOw0KDQogICAgICAgIC8vIOe6tei9tOWIu+W6pu+8muW3piBTT0MlIDB+MTAw77yM5Y+zIOeUteWOi1Yg6Ieq6YCC5bqUDQogICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDw9IDQ7IGkrKykgew0KICAgICAgICAgICAgZmxvYXQgeSA9IHlUb3AgKyBwbG90SCAqIGkgLyA0ZjsNCiAgICAgICAgICAgIGMuZHJhd0xpbmUoeDAsIHksIHgxLCB5LCBncmlkKTsNCiAgICAgICAgICAgIGludCBzb2NWYWwgPSAxMDAgLSBpICogMjU7DQogICAgICAgICAgICB0ZXh0LnNldFRleHRBbGlnbihQYWludC5BbGlnbi5SSUdIVCk7DQogICAgICAgICAgICBjLmRyYXdUZXh0KFN0cmluZy52YWx1ZU9mKHNvY1ZhbCksIHgwIC0gNiwgeSArIDYsIHRleHQpOw0KICAgICAgICAgICAgaWYgKGRhdGEgIT0gbnVsbCAmJiBkYXRhLnNpemUoKSA+PSAyKSB7DQogICAgICAgICAgICAgICAgZG91YmxlIHZ2ID0gdk1heCAtICh2TWF4IC0gdk1pbikgKiBpIC8gNC4wOw0KICAgICAgICAgICAgICAgIHRleHQuc2V0VGV4dEFsaWduKFBhaW50LkFsaWduLkxFRlQpOw0KICAgICAgICAgICAgICAgIGMuZHJhd1RleHQoU3RyaW5nLmZvcm1hdChMb2NhbGUuZ2V0RGVmYXVsdCgpLCAiJS4xZiIsIHZ2KSwgeDEgKyA2LCB5ICsgNiwgdGV4dCk7DQogICAgICAgICAgICB9DQogICAgICAgIH0NCg0KICAgICAgICBpZiAoZGF0YSA9PSBudWxsIHx8IGRhdGEuc2l6ZSgpIDwgMikgew0KICAgICAgICAgICAgdGV4dC5zZXRUZXh0QWxpZ24oUGFpbnQuQWxpZ24uQ0VOVEVSKTsNCiAgICAgICAgICAgIGMuZHJhd1RleHQoIuWOhuWPsuaVsOaNruS4jei2s++8iOiHs+WwkTLmrKHor7vmlbDvvIkiLCB3IC8gMmYsIGggLyAyZiwgdGV4dCk7DQogICAgICAgICAgICB0ZXh0LnNldFRleHRBbGlnbihQYWludC5BbGlnbi5MRUZUKTsNCiAgICAgICAgICAgIHJldHVybjsNCiAgICAgICAgfQ0KDQogICAgICAgIGludCBuID0gZGF0YS5zaXplKCk7DQogICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgbiAtIDE7IGkrKykgew0KICAgICAgICAgICAgSGlzdG9yeVN0b3JlLlBvaW50IGEgPSBkYXRhLmdldChpKSwgYiA9IGRhdGEuZ2V0KGkgKyAxKTsNCiAgICAgICAgICAgIGZsb2F0IHhhID0geDAgKyAoeDEgLSB4MCkgKiBpIC8gKG4gLSAxKTsNCiAgICAgICAgICAgIGZsb2F0IHhiID0geDAgKyAoeDEgLSB4MCkgKiAoaSArIDEpIC8gKG4gLSAxKTsNCiAgICAgICAgICAgIGZsb2F0IHlhU29jID0geVRvcCArIHBsb3RIICogKDEgLSBNYXRoLm1heCgwLCBNYXRoLm1pbigxMDAsIGEuc29jKSkgLyAxMDBmKTsNCiAgICAgICAgICAgIGZsb2F0IHliU29jID0geVRvcCArIHBsb3RIICogKDEgLSBNYXRoLm1heCgwLCBNYXRoLm1pbigxMDAsIGIuc29jKSkgLyAxMDBmKTsNCiAgICAgICAgICAgIGlmIChhLnNvYyA+PSAwICYmIGIuc29jID49IDApIGMuZHJhd0xpbmUoeGEsIHlhU29jLCB4YiwgeWJTb2MsIHNvY1BhaW50KTsNCiAgICAgICAgICAgIGZsb2F0IHlhViA9IHlUb3AgKyBwbG90SCAqIChmbG9hdCkoMSAtIChhLnZvbHRhZ2UgLSB2TWluKSAvICh2TWF4IC0gdk1pbikpOw0KICAgICAgICAgICAgZmxvYXQgeWJWID0geVRvcCArIHBsb3RIICogKGZsb2F0KSgxIC0gKGIudm9sdGFnZSAtIHZNaW4pIC8gKHZNYXggLSB2TWluKSk7DQogICAgICAgICAgICBjLmRyYXdMaW5lKHhhLCB5YVYsIHhiLCB5YlYsIHZvbHRQYWludCk7DQogICAgICAgIH0NCg0KICAgICAgICAvLyDmqKrovbTml7bpl7TliLvluqbvvJrotbfngrkgLyDkuK3ngrkgLyDnu4jngrkNCiAgICAgICAgdGV4dC5zZXRUZXh0U2l6ZSgxOCk7DQogICAgICAgIGxvbmcgdDAgPSBkYXRhLmdldCgwKS50aW1lLCB0bCA9IGRhdGEuZ2V0KG4gLSAxKS50aW1lOw0KICAgICAgICBib29sZWFuIHNhbWVEYXkgPSBtZEhtbS5mb3JtYXQobmV3IERhdGUodDApKS5zdWJzdHJpbmcoMCwgNSkNCiAgICAgICAgICAgICAgICAuZXF1YWxzKG1kSG1tLmZvcm1hdChuZXcgRGF0ZSh0bCkpLnN1YnN0cmluZygwLCA1KSk7DQogICAgICAgIFNpbXBsZURhdGVGb3JtYXQgZm10ID0gc2FtZURheSA/IGhobW0gOiBtZEhtbTsNCiAgICAgICAgdGV4dC5zZXRUZXh0QWxpZ24oUGFpbnQuQWxpZ24uTEVGVCk7DQogICAgICAgIGMuZHJhd1RleHQoZm10LmZvcm1hdChuZXcgRGF0ZSh0MCkpLCB4MCwgaCAtIDYsIHRleHQpOw0KICAgICAgICB0ZXh0LnNldFRleHRBbGlnbihQYWludC5BbGlnbi5DRU5URVIpOw0KICAgICAgICBjLmRyYXdUZXh0KGZtdC5mb3JtYXQobmV3IERhdGUoZGF0YS5nZXQobiAvIDIpLnRpbWUpKSwgKHgwICsgeDEpIC8gMiwgaCAtIDYsIHRleHQpOw0KICAgICAgICB0ZXh0LnNldFRleHRBbGlnbihQYWludC5BbGlnbi5SSUdIVCk7DQogICAgICAgIGMuZHJhd1RleHQoZm10LmZvcm1hdChuZXcgRGF0ZSh0bCkpLCB4MSwgaCAtIDYsIHRleHQpOw0KICAgICAgICB0ZXh0LnNldFRleHRBbGlnbihQYWludC5BbGlnbi5MRUZUKTsNCiAgICB9DQp9DQo=
+package com.example.bmsdash;
+
+import android.content.Context;
+import android.graphics.Canvas;
+import android.graphics.Color;
+import android.graphics.Paint;
+import android.util.AttributeSet;
+import android.view.View;
+
+import java.text.SimpleDateFormat;
+import java.util.Date;
+import java.util.List;
+import java.util.Locale;
+
+/** 曲线图：SOC / 电压随时间变化。左轴 SOC%，右轴 电压V，横轴 时间 */
+public class ChartView extends View {
+    private Paint grid, socPaint, voltPaint, text, socTitle, voltTitle;
+    private List<HistoryStore.Point> data;
+    private final SimpleDateFormat hhmm = new SimpleDateFormat("HH:mm", Locale.getDefault());
+    private final SimpleDateFormat mdHmm = new SimpleDateFormat("MM-dd HH:mm", Locale.getDefault());
+
+    public ChartView(Context c) { super(c); init(); }
+    public ChartView(Context c, AttributeSet a) { super(c, a); init(); }
+
+    private void init() {
+        grid = new Paint(Paint.ANTI_ALIAS_FLAG);
+        grid.setColor(Color.rgb(224, 224, 224));
+        grid.setStrokeWidth(1);
+        socPaint = new Paint(Paint.ANTI_ALIAS_FLAG);
+        socPaint.setColor(Color.rgb(46, 125, 50));
+        socPaint.setStrokeWidth(3);
+        socPaint.setStyle(Paint.Style.STROKE);
+        voltPaint = new Paint(Paint.ANTI_ALIAS_FLAG);
+        voltPaint.setColor(Color.rgb(30, 136, 229));
+        voltPaint.setStrokeWidth(3);
+        voltPaint.setStyle(Paint.Style.STROKE);
+        text = new Paint(Paint.ANTI_ALIAS_FLAG);
+        text.setColor(Color.rgb(96, 125, 139));
+        text.setTextSize(18);
+        socTitle = new Paint(Paint.ANTI_ALIAS_FLAG);
+        socTitle.setColor(Color.rgb(46, 125, 50));
+        socTitle.setTextSize(18);
+        socTitle.setFakeBoldText(true);
+        voltTitle = new Paint(Paint.ANTI_ALIAS_FLAG);
+        voltTitle.setColor(Color.rgb(30, 136, 229));
+        voltTitle.setTextSize(18);
+        voltTitle.setFakeBoldText(true);
+    }
+
+    public void setData(List<HistoryStore.Point> d) { this.data = d; invalidate(); }
+
+    @Override
+    protected void onDraw(Canvas c) {
+        super.onDraw(c);
+        int w = getWidth(), h = getHeight();
+        float padL = 50, padR = 52, padT = 26, padB = 26;
+        float x0 = padL, x1 = w - padR;
+        float yTop = padT, yBot = h - padB;
+        float plotH = yBot - yTop;
+
+        double vMin = 0, vMax = 100;
+        if (data != null && data.size() >= 2) {
+            vMin = Double.MAX_VALUE; vMax = -Double.MAX_VALUE;
+            for (HistoryStore.Point p : data) {
+                if (p.voltage > 0 && p.voltage < vMin) vMin = p.voltage;
+                if (p.voltage > vMax) vMax = p.voltage;
+            }
+            if (vMax - vMin < 1) { vMin -= 0.5; vMax += 0.5; }
+        }
+
+        // 轴标题（顶部，颜色对应曲线）
+        socTitle.setTextAlign(Paint.Align.LEFT);
+        voltTitle.setTextAlign(Paint.Align.RIGHT);
+        c.drawText("SOC%", 2, 18, socTitle);
+        c.drawText("电压V", w - 2, 18, voltTitle);
+
+        // 纵轴刻度：左 SOC% 0~100，右 电压V 自适应
+        for (int i = 0; i <= 4; i++) {
+            float y = yTop + plotH * i / 4f;
+            c.drawLine(x0, y, x1, y, grid);
+            int socVal = 100 - i * 25;
+            text.setTextAlign(Paint.Align.RIGHT);
+            c.drawText(String.valueOf(socVal), x0 - 6, y + 6, text);
+            if (data != null && data.size() >= 2) {
+                double vv = vMax - (vMax - vMin) * i / 4.0;
+                text.setTextAlign(Paint.Align.LEFT);
+                c.drawText(String.format(Locale.getDefault(), "%.1f", vv), x1 + 6, y + 6, text);
+            }
+        }
+
+        if (data == null || data.size() < 2) {
+            text.setTextAlign(Paint.Align.CENTER);
+            c.drawText("历史数据不足（至少2次读数）", w / 2f, h / 2f, text);
+            text.setTextAlign(Paint.Align.LEFT);
+            return;
+        }
+
+        int n = data.size();
+        for (int i = 0; i < n - 1; i++) {
+            HistoryStore.Point a = data.get(i), b = data.get(i + 1);
+            float xa = x0 + (x1 - x0) * i / (n - 1);
+            float xb = x0 + (x1 - x0) * (i + 1) / (n - 1);
+            float yaSoc = yTop + plotH * (1 - Math.max(0, Math.min(100, a.soc)) / 100f);
+            float ybSoc = yTop + plotH * (1 - Math.max(0, Math.min(100, b.soc)) / 100f);
+            if (a.soc >= 0 && b.soc >= 0) c.drawLine(xa, yaSoc, xb, ybSoc, socPaint);
+            float yaV = yTop + plotH * (float)(1 - (a.voltage - vMin) / (vMax - vMin));
+            float ybV = yTop + plotH * (float)(1 - (b.voltage - vMin) / (vMax - vMin));
+            c.drawLine(xa, yaV, xb, ybV, voltPaint);
+        }
+
+        // 横轴时间刻度：起点 / 中点 / 终点
+        text.setTextSize(18);
+        long t0 = data.get(0).time, tl = data.get(n - 1).time;
+        boolean sameDay = mdHmm.format(new Date(t0)).substring(0, 5)
+                .equals(mdHmm.format(new Date(tl)).substring(0, 5));
+        SimpleDateFormat fmt = sameDay ? hhmm : mdHmm;
+        text.setTextAlign(Paint.Align.LEFT);
+        c.drawText(fmt.format(new Date(t0)), x0, h - 6, text);
+        text.setTextAlign(Paint.Align.CENTER);
+        c.drawText(fmt.format(new Date(data.get(n / 2).time)), (x0 + x1) / 2, h - 6, text);
+        text.setTextAlign(Paint.Align.RIGHT);
+        c.drawText(fmt.format(new Date(tl)), x1, h - 6, text);
+        text.setTextAlign(Paint.Align.LEFT);
+    }
+}

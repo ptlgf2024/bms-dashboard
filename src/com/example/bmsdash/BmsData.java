@@ -8,11 +8,23 @@ public class BmsData {
     public boolean hasCurrent = false; // 该帧是否携带电流字段（命令03=true，命令04=false）
     public boolean hasRealtime = false; // 是否解析过命令 03 实时帧
     public int soc = -1;        // SOC %（RSOC）
+    public int capacityMah = -1;// 标称容量 mAh（协议 [6-7]，单位 10mAh）
     public int cycles = -1;     // 循环次数
+    public int productionDate = -1;     // 生产日期原始值（协议 2 字节）
+    public int softwareVersion = -1;    // 软件版本（0x10 = 1.0）
+    public int reportedCellCount = -1;  // 协议上报的电池串数
+    public boolean capacityUnit100 = false; // FET bit7=1 时容量/电流单位为 100（mAh/mA）
     public boolean balanceOn = false;   // 任意串处于均衡
     public boolean chargeMos = false;   // 充电 MOS 开
     public boolean dischargeMos = false;// 放电 MOS 开
     public int protectStatus = 0;       // 保护状态位（协议注 1）
+    public int alarmStatus = -1;        // 报警状态位（V12 注 2）
+    public boolean heatingOn = false;   // FET bit3 加热状态
+    public boolean currentLimitOn = false; // FET bit2 限流模块
+    public int humidity = -1;           // 湿度 %（V12 新增）
+    public int fullCapacityMah = -1;    // 满充容量 mAh（V12 新增）
+    public int remainingCapacityMah = -1; // 剩余容量 mAh（V12 新增）
+    public int balanceCurrentMa = -1;   // 均衡电流 mA（V12 新增）
     public double tempMos = 0, temp1 = 0, temp2 = 0; // 三路温度 ℃
     public double tempMin = 0, tempMax = 0;          // 温度范围 ℃
     public int[] cells = new int[24];        // 单体电压 mV
@@ -41,11 +53,23 @@ public class BmsData {
         if (other.soc >= 0) this.soc = other.soc;
         if (other.hasRealtime) {
             this.hasRealtime = true;
+            this.capacityMah = other.capacityMah;
             this.cycles = other.cycles;
+            this.productionDate = other.productionDate;
+            this.softwareVersion = other.softwareVersion;
+            this.reportedCellCount = other.reportedCellCount;
+            this.capacityUnit100 = other.capacityUnit100;
             this.balanceOn = other.balanceOn;
             this.chargeMos = other.chargeMos;
             this.dischargeMos = other.dischargeMos;
             this.protectStatus = other.protectStatus;
+            this.alarmStatus = other.alarmStatus;
+            this.heatingOn = other.heatingOn;
+            this.currentLimitOn = other.currentLimitOn;
+            this.humidity = other.humidity;
+            this.fullCapacityMah = other.fullCapacityMah;
+            this.remainingCapacityMah = other.remainingCapacityMah;
+            this.balanceCurrentMa = other.balanceCurrentMa;
             this.tempMos = other.tempMos;
             this.temp1 = other.temp1;
             this.temp2 = other.temp2;

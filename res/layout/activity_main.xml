@@ -112,7 +112,7 @@
                             android:layout_weight="1"
                             android:gravity="center_vertical"
                             android:orientation="vertical">
-                            <TextView android:id="@+id/tv_batt_type" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="电池类型：磷酸铁锂" android:textColor="#FFFFFF" android:textSize="13sp" />
+                            <TextView android:id="@+id/tv_batt_type" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="限流模块：--" android:textColor="#FFFFFF" android:textSize="13sp" />
                             <TextView android:id="@+id/tv_heat" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="8dp" android:text="加热状态：--" android:textColor="#FFFFFF" android:textSize="13sp" />
                             <TextView android:id="@+id/tv_balance" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="8dp" android:text="均衡状态：--" android:textColor="#FFFFFF" android:textSize="13sp" />
                         </LinearLayout>
@@ -142,41 +142,41 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="10dp"
-                    android:background="@drawable/bg_card"
+                    android:background="@android:color/transparent"
                     android:columnCount="4"
                     android:orientation="horizontal"
-                    android:padding="10dp">
+                    android:useDefaultMargins="false">
 
-                    <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content" android:layout_columnWeight="1" android:gravity="center" android:orientation="vertical">
+                    <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content" android:layout_columnWeight="1" android:layout_margin="3dp" android:background="@drawable/bg_jbd_data_cell" android:gravity="center" android:orientation="vertical" android:padding="8dp">
                         <ImageView android:layout_width="22dp" android:layout_height="22dp" android:src="@drawable/ic_voltage" />
                         <TextView android:id="@+id/tv_voltage" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="2dp" android:gravity="center" android:text="-- V\n总电压" android:textColor="@color/text_primary" android:textSize="13sp" />
                     </LinearLayout>
-                    <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content" android:layout_columnWeight="1" android:gravity="center" android:orientation="vertical">
+                    <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content" android:layout_columnWeight="1" android:layout_margin="3dp" android:background="@drawable/bg_jbd_data_cell" android:gravity="center" android:orientation="vertical" android:padding="8dp">
                         <ImageView android:layout_width="22dp" android:layout_height="22dp" android:src="@drawable/ic_current" />
                         <TextView android:id="@+id/tv_current" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="2dp" android:gravity="center" android:text="-- A\n电流" android:textColor="@color/text_primary" android:textSize="13sp" />
                     </LinearLayout>
-                    <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content" android:layout_columnWeight="1" android:gravity="center" android:orientation="vertical">
+                    <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content" android:layout_columnWeight="1" android:layout_margin="3dp" android:background="@drawable/bg_jbd_data_cell" android:gravity="center" android:orientation="vertical" android:padding="8dp">
                         <ImageView android:layout_width="22dp" android:layout_height="22dp" android:src="@drawable/ic_power" />
                         <TextView android:id="@+id/tv_power" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="2dp" android:gravity="center" android:text="-- W\n功率" android:textColor="@color/text_primary" android:textSize="13sp" />
                     </LinearLayout>
-                    <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content" android:layout_columnWeight="1" android:gravity="center" android:orientation="vertical">
+                    <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content" android:layout_columnWeight="1" android:layout_margin="3dp" android:background="@drawable/bg_jbd_data_cell" android:gravity="center" android:orientation="vertical" android:padding="8dp">
                         <ImageView android:layout_width="22dp" android:layout_height="22dp" android:src="@drawable/ic_cycles" />
                         <TextView android:id="@+id/tv_cycles" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="2dp" android:gravity="center" android:text="--\n循环次数" android:textColor="@color/text_primary" android:textSize="13sp" />
                     </LinearLayout>
 
-                    <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content" android:layout_columnWeight="1" android:layout_marginTop="10dp" android:gravity="center" android:orientation="vertical">
+                    <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content" android:layout_columnWeight="1" android:layout_margin="3dp" android:background="@drawable/bg_jbd_data_cell" android:gravity="center" android:orientation="vertical" android:padding="8dp">
                         <ImageView android:layout_width="22dp" android:layout_height="22dp" android:src="@drawable/ic_high" />
                         <TextView android:id="@+id/tv_cell_max" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="2dp" android:gravity="center" android:text="-- V\n最高电压" android:textColor="@color/text_primary" android:textSize="13sp" />
                     </LinearLayout>
-                    <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content" android:layout_columnWeight="1" android:layout_marginTop="10dp" android:gravity="center" android:orientation="vertical">
+                    <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content" android:layout_columnWeight="1" android:layout_margin="3dp" android:background="@drawable/bg_jbd_data_cell" android:gravity="center" android:orientation="vertical" android:padding="8dp">
                         <ImageView android:layout_width="22dp" android:layout_height="22dp" android:src="@drawable/ic_low" />
                         <TextView android:id="@+id/tv_cell_min" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="2dp" android:gravity="center" android:text="-- V\n最低电压" android:textColor="@color/text_primary" android:textSize="13sp" />
                     </LinearLayout>
-                    <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content" android:layout_columnWeight="1" android:layout_marginTop="10dp" android:gravity="center" android:orientation="vertical">
+                    <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content" android:layout_columnWeight="1" android:layout_margin="3dp" android:background="@drawable/bg_jbd_data_cell" android:gravity="center" android:orientation="vertical" android:padding="8dp">
                         <ImageView android:layout_width="22dp" android:layout_height="22dp" android:src="@drawable/ic_avg" />
                         <TextView android:id="@+id/tv_cell_avg" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="2dp" android:gravity="center" android:text="-- V\n平均电压" android:textColor="@color/text_primary" android:textSize="13sp" />
                     </LinearLayout>
-                    <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content" android:layout_columnWeight="1" android:layout_marginTop="10dp" android:gravity="center" android:orientation="vertical">
+                    <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content" android:layout_columnWeight="1" android:layout_margin="3dp" android:background="@drawable/bg_jbd_data_cell" android:gravity="center" android:orientation="vertical" android:padding="8dp">
                         <ImageView android:layout_width="22dp" android:layout_height="22dp" android:src="@drawable/ic_diff" />
                         <TextView android:id="@+id/tv_diff" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="2dp" android:gravity="center" android:text="-- V\n压差" android:textColor="@color/text_primary" android:textSize="13sp" />
                     </LinearLayout>
@@ -210,6 +210,18 @@
                     android:textColor="@color/text_primary"
                     android:textSize="13sp" />
 
+                <!-- V12 扩展实时字段 -->
+                <TextView
+                    android:id="@+id/tv_v12_live"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    android:background="@drawable/bg_card"
+                    android:padding="12dp"
+                    android:text="剩余容量 --  满充容量 --  湿度 --"
+                    android:textColor="@color/text_primary"
+                    android:textSize="12sp" />
+
                 <!-- 单串电压信息 -->
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -223,12 +235,21 @@
                         <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="8dp" android:layout_marginRight="8dp" android:text="单串电压信息" android:textColor="@color/text_secondary" android:textSize="12sp" />
                         <View android:layout_width="0dp" android:layout_height="1dp" android:layout_weight="1" android:background="@color/divider" />
                     </LinearLayout>
+                    <TextView
+                        android:id="@+id/tv_cell_extremes"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="6dp"
+                        android:gravity="center"
+                        android:text="▲ 最高 --    ▼ 最低 --"
+                        android:textColor="@color/text_secondary"
+                        android:textSize="11sp" />
                     <GridLayout
                         android:id="@+id/grid_cells"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:layout_marginTop="8dp"
-                        android:columnCount="4"
+                        android:layout_marginTop="4dp"
+                        android:columnCount="12"
                         android:orientation="horizontal" />
                 </LinearLayout>
 
@@ -263,7 +284,7 @@
                 android:orientation="vertical"
                 android:padding="12dp">
 
-                <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="报警阈值" android:textColor="@color/primary" android:textSize="15sp" android:textStyle="bold" />
+                <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="报警阈值" android:textColor="@color/jbd_blue" android:textSize="15sp" android:textStyle="bold" />
                 <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="10dp" android:background="@drawable/bg_card" android:orientation="vertical" android:padding="14dp">
                     <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="horizontal">
                         <TextView android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1" android:layout_gravity="center_vertical" android:text="压差过大 (mV)" android:textColor="@color/text_primary" android:textSize="14sp" />
@@ -284,16 +305,17 @@
                     <Button android:id="@+id/btn_save_th" android:layout_width="match_parent" android:layout_height="42dp" android:layout_marginTop="12dp" android:background="@drawable/bg_button" android:text="保存阈值" android:textColor="#FFFFFF" android:textSize="14sp" />
                 </LinearLayout>
 
-                <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="18dp" android:text="蓝牙过滤与自动连接" android:textColor="@color/primary" android:textSize="15sp" android:textStyle="bold" />
+                <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="18dp" android:text="蓝牙过滤与自动连接" android:textColor="@color/jbd_blue" android:textSize="15sp" android:textStyle="bold" />
                 <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="10dp" android:background="@drawable/bg_card" android:orientation="vertical" android:padding="14dp">
                     <CheckBox android:id="@+id/cb_filter" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/filter_hint" android:textColor="@color/text_primary" android:textSize="13sp" android:checked="true" />
                     <TextView android:id="@+id/tv_saved_mac" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="6dp" android:text="已记住设备：无" android:textColor="@color/text_secondary" android:textSize="12sp" />
                     <Button android:id="@+id/btn_forget" android:layout_width="match_parent" android:layout_height="40dp" android:layout_marginTop="8dp" android:background="@drawable/bg_button" android:text="清除已记住设备（关闭自动连接）" android:textColor="#FFFFFF" android:textSize="12sp" />
                 </LinearLayout>
+
             </LinearLayout>
         </ScrollView>
 
-        <!-- 信息页：质保卡片 + 列表 + 注意事项 -->
+        <!-- 信息页：只保留真实可得的数据（本地历史 + 关于） -->
         <ScrollView
             android:id="@+id/page_history"
             android:layout_width="match_parent"
@@ -306,35 +328,45 @@
                 android:orientation="vertical"
                 android:padding="10dp">
 
-                <LinearLayout
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:background="@drawable/bg_jbd_hero"
-                    android:orientation="horizontal"
-                    android:padding="14dp">
-                    <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1" android:orientation="vertical">
-                        <TextView android:id="@+id/tv_info_no" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="NO. --" android:textColor="#E3F2FD" android:textSize="11sp" />
-                        <TextView android:id="@+id/tv_info_model" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10dp" android:text="--" android:textColor="#FFFFFF" android:textSize="20sp" android:textStyle="bold" />
-                        <TextView android:id="@+id/tv_info_sn" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="6dp" android:text="SN: --" android:textColor="#E3F2FD" android:textSize="11sp" />
+                <!-- 电池基本信息 -->
+                <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="2dp" android:gravity="center" android:text="—  电池基本信息  —" android:textColor="@color/text_secondary" android:textSize="13sp" />
+                <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="8dp" android:background="@drawable/bg_card" android:orientation="vertical" android:padding="14dp">
+                    <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="horizontal">
+                        <TextView android:layout_width="78dp" android:layout_height="wrap_content" android:text="设备名称" android:textColor="@color/text_secondary" android:textSize="12sp" />
+                        <TextView android:id="@+id/tv_dev_name" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1" android:text="--" android:textColor="@color/text_primary" android:textSize="12sp" android:textStyle="bold" />
                     </LinearLayout>
-                    <LinearLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:gravity="center" android:orientation="vertical">
-                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:background="@drawable/bg_jbd_warranty" android:paddingLeft="10dp" android:paddingRight="10dp" android:text="质保中" android:textColor="#FFFFFF" android:textSize="11sp" />
-                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10dp" android:text="质保剩余" android:textColor="#E3F2FD" android:textSize="11sp" />
-                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="-- 天" android:textColor="#FFFFFF" android:textSize="22sp" android:textStyle="bold" />
+                    <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="7dp" android:orientation="horizontal">
+                        <TextView android:layout_width="78dp" android:layout_height="wrap_content" android:text="型号解析" android:textColor="@color/text_secondary" android:textSize="12sp" />
+                        <TextView android:id="@+id/tv_model_parse" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1" android:text="--" android:textColor="@color/text_primary" android:textSize="12sp" />
                     </LinearLayout>
+                    <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="7dp" android:orientation="horizontal">
+                        <TextView android:layout_width="78dp" android:layout_height="wrap_content" android:text="标称容量" android:textColor="@color/text_secondary" android:textSize="12sp" />
+                        <TextView android:id="@+id/tv_capacity" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1" android:text="--" android:textColor="@color/text_primary" android:textSize="12sp" />
+                    </LinearLayout>
+                    <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="7dp" android:orientation="horizontal">
+                        <TextView android:layout_width="78dp" android:layout_height="wrap_content" android:text="电池生产商" android:textColor="@color/text_secondary" android:textSize="12sp" />
+                        <TextView android:id="@+id/tv_maker" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1" android:text="--" android:textColor="@color/text_primary" android:textSize="12sp" />
+                    </LinearLayout>
+                    <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="7dp" android:orientation="horizontal">
+                        <TextView android:layout_width="78dp" android:layout_height="wrap_content" android:text="BMS型号" android:textColor="@color/text_secondary" android:textSize="12sp" />
+                        <TextView android:id="@+id/tv_bms_model" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1" android:text="--" android:textColor="@color/text_primary" android:textSize="12sp" />
+                    </LinearLayout>
+                    <TextView
+                        android:id="@+id/tv_v12_info"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10dp"
+                        android:background="@drawable/bg_jbd_data_cell"
+                        android:lineSpacingExtra="3dp"
+                        android:padding="10dp"
+                        android:text="连接设备后自动读取"
+                        android:textColor="@color/text_primary"
+                        android:textSize="11sp" />
                 </LinearLayout>
-
-                <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="8dp" android:background="@drawable/bg_card" android:gravity="center" android:padding="12dp" android:text="质保期：--" android:textColor="@color/jbd_blue" android:textSize="12sp" />
 
                 <LinearLayout android:id="@+id/btn_history_entry" android:layout_width="match_parent" android:layout_height="48dp" android:layout_marginTop="10dp" android:background="@drawable/bg_card" android:gravity="center_vertical" android:orientation="horizontal" android:paddingLeft="14dp" android:paddingRight="14dp">
                     <ImageView android:layout_width="20dp" android:layout_height="20dp" android:src="@drawable/ic_history" />
-                    <TextView android:layout_width="0dp" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:layout_weight="1" android:text="历史记录" android:textColor="@color/text_primary" android:textSize="14sp" />
-                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="›" android:textColor="@color/text_secondary" android:textSize="20sp" />
-                </LinearLayout>
-
-                <LinearLayout android:id="@+id/btn_firmware" android:layout_width="match_parent" android:layout_height="48dp" android:layout_marginTop="8dp" android:background="@drawable/bg_card" android:gravity="center_vertical" android:orientation="horizontal" android:paddingLeft="14dp" android:paddingRight="14dp">
-                    <ImageView android:layout_width="20dp" android:layout_height="20dp" android:src="@drawable/ic_firmware" />
-                    <TextView android:layout_width="0dp" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:layout_weight="1" android:text="固件升级" android:textColor="@color/text_primary" android:textSize="14sp" />
+                    <TextView android:layout_width="0dp" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:layout_weight="1" android:text="本地历史记录" android:textColor="@color/text_primary" android:textSize="14sp" />
                     <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="›" android:textColor="@color/text_secondary" android:textSize="20sp" />
                 </LinearLayout>
 
@@ -349,15 +381,38 @@
                     <Button android:id="@+id/btn_clear_hist" android:layout_width="match_parent" android:layout_height="38dp" android:layout_marginTop="6dp" android:background="@drawable/bg_button" android:text="清空历史" android:textColor="#FFFFFF" android:textSize="12sp" />
                 </LinearLayout>
 
-                <!-- 使用注意事项 -->
-                <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="18dp" android:gravity="center" android:text="—  锂电池使用注意事项  —" android:textColor="@color/text_secondary" android:textSize="13sp" />
-                <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="8dp" android:background="@drawable/bg_card" android:orientation="vertical" android:padding="14dp">
-                    <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="■ 电池组" android:textColor="@color/text_primary" android:textSize="13sp" android:textStyle="bold" />
-                    <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="6dp" android:text="• 严禁剧烈机械撞击、挤压\n• 注意防水，防止电池雨淋、水浸\n• 禁止将电池暴晒或放在热源旁\n• 充电时请选用原配或专用充电器\n• 严禁将电池直接接入电源插座充电" android:textColor="@color/text_secondary" android:textSize="12sp" android:lineSpacingExtra="4dp" />
-                    <TextView android:id="@+id/btn_more_notice" android:layout_width="match_parent" android:layout_height="36dp" android:layout_marginTop="8dp" android:background="@drawable/bg_jbd_notice" android:gravity="center" android:text="展开查看详情" android:textColor="@color/jbd_blue" android:textSize="13sp" />
+                <!-- 保护记录入口 -->
+                <LinearLayout android:id="@+id/btn_protect_log_entry" android:layout_width="match_parent" android:layout_height="48dp" android:layout_marginTop="10dp" android:background="@drawable/bg_card" android:gravity="center_vertical" android:orientation="horizontal" android:paddingLeft="14dp" android:paddingRight="14dp">
+                    <ImageView android:layout_width="20dp" android:layout_height="20dp" android:src="@drawable/ic_history" />
+                    <TextView android:layout_width="0dp" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:layout_weight="1" android:text="保护记录" android:textColor="@color/text_primary" android:textSize="14sp" />
+                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="›" android:textColor="@color/text_secondary" android:textSize="20sp" />
+                </LinearLayout>
+                <LinearLayout android:id="@+id/protect_log_detail" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="8dp" android:background="@drawable/bg_card" android:orientation="vertical" android:padding="10dp" android:visibility="gone">
+                    <TextView android:id="@+id/tv_protect_log" android:layout_width="match_parent" android:layout_height="wrap_content" android:gravity="top" android:text="暂无保护记录。当保护条件触发或解除时会自动记录。" android:textColor="@color/text_primary" android:textSize="11sp" android:typeface="monospace" />
                 </LinearLayout>
 
-                <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="14dp" android:gravity="center" android:text="开发者：ptlgf    版本：v1.0.0" android:textColor="@color/text_secondary" android:textSize="11sp" />
+                <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="14dp" android:gravity="center" android:text="—  保护参数与额定值  —" android:textColor="@color/text_secondary" android:textSize="13sp" />
+                <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="8dp" android:background="@drawable/bg_card" android:orientation="vertical" android:padding="14dp">
+                    <TextView android:id="@+id/tv_v12_params" android:layout_width="match_parent" android:layout_height="wrap_content" android:lineSpacingExtra="3dp" android:text="连接设备后自动读取" android:textColor="@color/text_primary" android:textSize="11sp" />
+                </LinearLayout>
+
+                <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="14dp" android:gravity="center" android:text="—  单体内阻 (0xF6)  —" android:textColor="@color/text_secondary" android:textSize="13sp" />
+                <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="8dp" android:background="@drawable/bg_card" android:orientation="vertical" android:padding="14dp">
+                    <GridLayout
+                        android:id="@+id/grid_internal_res"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:columnCount="3"
+                        android:orientation="horizontal" />
+                </LinearLayout>
+
+                <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="14dp" android:gravity="center" android:text="关于" android:textColor="@color/text_secondary" android:textSize="13sp" />
+                <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="8dp" android:background="@drawable/bg_card" android:orientation="vertical" android:padding="14dp">
+                    <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="嘉佰达 BMS 助手（开源第三方工具）" android:textColor="@color/text_primary" android:textSize="13sp" />
+                    <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="6dp" android:text="协议：嘉佰达软件板通用协议 V4 / V12（只读）" android:textColor="@color/text_secondary" android:textSize="12sp" />
+                    <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="6dp" android:text="开发者：ptlgf    版本：v1.0.0" android:textColor="@color/text_secondary" android:textSize="11sp" />
+                    <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="4dp" android:text="源码：github.com/ptlgf2024/bms-dashboard" android:textColor="@color/text_secondary" android:textSize="11sp" />
+                </LinearLayout>
             </LinearLayout>
         </ScrollView>
     </FrameLayout>

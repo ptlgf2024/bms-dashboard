@@ -1,1 +1,46 @@
-aW1wb3J0IGphdmEuYXd0Lio7DQppbXBvcnQgamF2YS5hd3QuaW1hZ2UuQnVmZmVyZWRJbWFnZTsNCmltcG9ydCBqYXZhLmlvLkZpbGU7DQoNCnB1YmxpYyBjbGFzcyBHZW5JY29uIHsNCiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB0aHJvd3MgRXhjZXB0aW9uIHsNCiAgICAgICAgaW50W10gc2l6ZXMgPSB7NDgsIDcyLCA5NiwgMTQ0LCAxOTJ9Ow0KICAgICAgICBTdHJpbmdbXSBkaXJzID0geyJtZHBpIiwgImhkcGkiLCAieGhkcGkiLCAieHhoZHBpIiwgInh4eGhkcGkifTsNCiAgICAgICAgU3RyaW5nIGJhc2UgPSBhcmdzWzBdOw0KICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IHNpemVzLmxlbmd0aDsgaSsrKSB7DQogICAgICAgICAgICBCdWZmZXJlZEltYWdlIGltZyA9IGRyYXcoc2l6ZXNbaV0pOw0KICAgICAgICAgICAgRmlsZSBvdXQgPSBuZXcgRmlsZShiYXNlICsgIi9taXBtYXAtIiArIGRpcnNbaV0gKyAiL2ljX2xhdW5jaGVyLnBuZyIpOw0KICAgICAgICAgICAgb3V0LmdldFBhcmVudEZpbGUoKS5ta2RpcnMoKTsNCiAgICAgICAgICAgIGphdmF4LmltYWdlaW8uSW1hZ2VJTy53cml0ZShpbWcsICJwbmciLCBvdXQpOw0KICAgICAgICB9DQogICAgfQ0KDQogICAgc3RhdGljIEJ1ZmZlcmVkSW1hZ2UgZHJhdyhpbnQgcykgew0KICAgICAgICBCdWZmZXJlZEltYWdlIGltZyA9IG5ldyBCdWZmZXJlZEltYWdlKHMsIHMsIEJ1ZmZlcmVkSW1hZ2UuVFlQRV9JTlRfQVJHQik7DQogICAgICAgIEdyYXBoaWNzMkQgZyA9IGltZy5jcmVhdGVHcmFwaGljcygpOw0KICAgICAgICBnLnNldFJlbmRlcmluZ0hpbnQoUmVuZGVyaW5nSGludHMuS0VZX0FOVElBTElBU0lORywgUmVuZGVyaW5nSGludHMuVkFMVUVfQU5USUFMSUFTX09OKTsNCiAgICAgICAgZy5zZXRDb2xvcihuZXcgQ29sb3IoMHgxNTY1QzApKTsNCiAgICAgICAgZy5maWxsUm91bmRSZWN0KDAsIDAsIHMsIHMsIChpbnQpKHMqMC4yMiksIChpbnQpKHMqMC4yMikpOw0KICAgICAgICBmbG9hdCB1ID0gcyAvIDEwMGY7DQogICAgICAgIC8vIOeUteaxoOWkluWjsw0KICAgICAgICBnLnNldENvbG9yKENvbG9yLldISVRFKTsNCiAgICAgICAgZy5zZXRTdHJva2UobmV3IEJhc2ljU3Ryb2tlKE1hdGgubWF4KDJmLCA1Zip1KSwgQmFzaWNTdHJva2UuQ0FQX1JPVU5ELCBCYXNpY1N0cm9rZS5KT0lOX1JPVU5EKSk7DQogICAgICAgIGcuZHJhd1JvdW5kUmVjdCgoaW50KSgyMCp1KSwgKGludCkoMzAqdSksIChpbnQpKDU4KnUpLCAoaW50KSg0Mip1KSwgKGludCkoNip1KSwgKGludCkoNip1KSk7DQogICAgICAgIGcuZmlsbFJvdW5kUmVjdCgoaW50KSg3OSp1KSwgKGludCkoNDQqdSksIChpbnQpKDcqdSksIChpbnQpKDE0KnUpLCAoaW50KSgyKnUpLCAoaW50KSgyKnUpKTsNCiAgICAgICAgLy8g55S16YePDQogICAgICAgIGcuc2V0Q29sb3IobmV3IENvbG9yKDB4MDBFNjc2KSk7DQogICAgICAgIGcuZmlsbFJvdW5kUmVjdCgoaW50KSgyNip1KSwgKGludCkoMzYqdSksIChpbnQpKDM0KnUpLCAoaW50KSgzMCp1KSwgKGludCkoMip1KSwgKGludCkoMip1KSk7DQogICAgICAgIC8vIOmXqueUtQ0KICAgICAgICBnLnNldENvbG9yKG5ldyBDb2xvcigweEZGRDYwMCkpOw0KICAgICAgICBQb2x5Z29uIHAgPSBuZXcgUG9seWdvbigpOw0KICAgICAgICBwLmFkZFBvaW50KChpbnQpKDU2KnUpLCAoaW50KSgzMCp1KSk7DQogICAgICAgIHAuYWRkUG9pbnQoKGludCkoNDIqdSksIChpbnQpKDU1KnUpKTsNCiAgICAgICAgcC5hZGRQb2ludCgoaW50KSg1Mip1KSwgKGludCkoNTUqdSkpOw0KICAgICAgICBwLmFkZFBvaW50KChpbnQpKDQ2KnUpLCAoaW50KSg3NCp1KSk7DQogICAgICAgIHAuYWRkUG9pbnQoKGludCkoNjYqdSksIChpbnQpKDQ4KnUpKTsNCiAgICAgICAgcC5hZGRQb2ludCgoaW50KSg1NSp1KSwgKGludCkoNDgqdSkpOw0KICAgICAgICBnLmZpbGxQb2x5Z29uKHApOw0KICAgICAgICBnLmRpc3Bvc2UoKTsNCiAgICAgICAgcmV0dXJuIGltZzsNCiAgICB9DQp9DQo=
+import java.awt.*;
+import java.awt.image.BufferedImage;
+import java.io.File;
+
+public class GenIcon {
+    public static void main(String[] args) throws Exception {
+        int[] sizes = {48, 72, 96, 144, 192};
+        String[] dirs = {"mdpi", "hdpi", "xhdpi", "xxhdpi", "xxxhdpi"};
+        String base = args[0];
+        for (int i = 0; i < sizes.length; i++) {
+            BufferedImage img = draw(sizes[i]);
+            File out = new File(base + "/mipmap-" + dirs[i] + "/ic_launcher.png");
+            out.getParentFile().mkdirs();
+            javax.imageio.ImageIO.write(img, "png", out);
+        }
+    }
+
+    static BufferedImage draw(int s) {
+        BufferedImage img = new BufferedImage(s, s, BufferedImage.TYPE_INT_ARGB);
+        Graphics2D g = img.createGraphics();
+        g.setRenderingHint(RenderingHints.KEY_ANTIALIASING, RenderingHints.VALUE_ANTIALIAS_ON);
+        g.setColor(new Color(0x1565C0));
+        g.fillRoundRect(0, 0, s, s, (int)(s*0.22), (int)(s*0.22));
+        float u = s / 100f;
+        // 电池外壳
+        g.setColor(Color.WHITE);
+        g.setStroke(new BasicStroke(Math.max(2f, 5f*u), BasicStroke.CAP_ROUND, BasicStroke.JOIN_ROUND));
+        g.drawRoundRect((int)(20*u), (int)(30*u), (int)(58*u), (int)(42*u), (int)(6*u), (int)(6*u));
+        g.fillRoundRect((int)(79*u), (int)(44*u), (int)(7*u), (int)(14*u), (int)(2*u), (int)(2*u));
+        // 电量
+        g.setColor(new Color(0x00E676));
+        g.fillRoundRect((int)(26*u), (int)(36*u), (int)(34*u), (int)(30*u), (int)(2*u), (int)(2*u));
+        // 闪电
+        g.setColor(new Color(0xFFD600));
+        Polygon p = new Polygon();
+        p.addPoint((int)(56*u), (int)(30*u));
+        p.addPoint((int)(42*u), (int)(55*u));
+        p.addPoint((int)(52*u), (int)(55*u));
+        p.addPoint((int)(46*u), (int)(74*u));
+        p.addPoint((int)(66*u), (int)(48*u));
+        p.addPoint((int)(55*u), (int)(48*u));
+        g.fillPolygon(p);
+        g.dispose();
+        return img;
+    }
+}

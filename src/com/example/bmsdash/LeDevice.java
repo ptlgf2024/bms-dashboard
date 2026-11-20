@@ -1,1 +1,21 @@
-cGFja2FnZSBjb20uZXhhbXBsZS5ibXNkYXNoOw0KDQppbXBvcnQgYW5kcm9pZC5ibHVldG9vdGguQmx1ZXRvb3RoRGV2aWNlOw0KDQpwdWJsaWMgY2xhc3MgTGVEZXZpY2Ugew0KICAgIHB1YmxpYyBmaW5hbCBCbHVldG9vdGhEZXZpY2UgZGV2aWNlOw0KICAgIHB1YmxpYyBmaW5hbCBTdHJpbmcgbmFtZTsNCiAgICBwdWJsaWMgZmluYWwgU3RyaW5nIGFkZHJlc3M7DQogICAgcHVibGljIGludCByc3NpOw0KDQogICAgcHVibGljIExlRGV2aWNlKEJsdWV0b290aERldmljZSBkLCBTdHJpbmcgbmFtZSwgaW50IHJzc2kpIHsNCiAgICAgICAgdGhpcy5kZXZpY2UgPSBkOw0KICAgICAgICB0aGlzLmFkZHJlc3MgPSBkLmdldEFkZHJlc3MoKTsNCiAgICAgICAgU3RyaW5nIG4gPSBuYW1lOw0KICAgICAgICBpZiAobiA9PSBudWxsIHx8IG4udHJpbSgpLmlzRW1wdHkoKSkgew0KICAgICAgICAgICAgdHJ5IHsgbiA9IGQuZ2V0TmFtZSgpOyB9IGNhdGNoIChFeGNlcHRpb24gZSkgeyBuID0gbnVsbDsgfQ0KICAgICAgICB9DQogICAgICAgIHRoaXMubmFtZSA9IChuID09IG51bGwgfHwgbi50cmltKCkuaXNFbXB0eSgpKSA/ICIo5pyq5ZG95ZCNKSIgOiBuOw0KICAgICAgICB0aGlzLnJzc2kgPSByc3NpOw0KICAgIH0NCn0NCg==
+package com.example.bmsdash;
+
+import android.bluetooth.BluetoothDevice;
+
+public class LeDevice {
+    public final BluetoothDevice device;
+    public final String name;
+    public final String address;
+    public int rssi;
+
+    public LeDevice(BluetoothDevice d, String name, int rssi) {
+        this.device = d;
+        this.address = d.getAddress();
+        String n = name;
+        if (n == null || n.trim().isEmpty()) {
+            try { n = d.getName(); } catch (Exception e) { n = null; }
+        }
+        this.name = (n == null || n.trim().isEmpty()) ? "(未命名)" : n;
+        this.rssi = rssi;
+    }
+}

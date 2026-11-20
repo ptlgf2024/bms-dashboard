@@ -1,1 +1,89 @@
-cGFja2FnZSBjb20uZXhhbXBsZS5ibXNkYXNoOw0KDQppbXBvcnQgYW5kcm9pZC5jb250ZW50LkNvbnRleHQ7DQoNCmltcG9ydCBqYXZhLmlvLkJ1ZmZlcmVkUmVhZGVyOw0KaW1wb3J0IGphdmEuaW8uRmlsZUlucHV0U3RyZWFtOw0KaW1wb3J0IGphdmEuaW8uRmlsZU91dHB1dFN0cmVhbTsNCmltcG9ydCBqYXZhLmlvLklucHV0U3RyZWFtUmVhZGVyOw0KaW1wb3J0IGphdmEuaW8uT3V0cHV0U3RyZWFtV3JpdGVyOw0KaW1wb3J0IGphdmEuaW8uV3JpdGVyOw0KaW1wb3J0IGphdmEudXRpbC5BcnJheUxpc3Q7DQppbXBvcnQgamF2YS51dGlsLkxpc3Q7DQppbXBvcnQgamF2YS51dGlsLkxvY2FsZTsNCg0KLyoqIOacrOWcsOWOhuWPsuWtmOWCqO+8mkNTViDmlofmnKzvvIzkuIDooYzkuIDmnaHorrDlvZUgKi8NCnB1YmxpYyBjbGFzcyBIaXN0b3J5U3RvcmUgew0KICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBGSUxFID0gImJtc19oaXN0b3J5LmNzdiI7DQogICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgaW50IE1BWCA9IDIwMDA7IC8vIOacgOWkmuS/neeVmeadoeaVsA0KICAgIHByaXZhdGUgZmluYWwgQ29udGV4dCBjdHg7DQoNCiAgICBwdWJsaWMgSGlzdG9yeVN0b3JlKENvbnRleHQgY3R4KSB7IHRoaXMuY3R4ID0gY3R4OyB9DQoNCiAgICAvKiog5LiA5p2h5Y6G5Y+y6K6w5b2VICovDQogICAgcHVibGljIHN0YXRpYyBjbGFzcyBQb2ludCB7DQogICAgICAgIHB1YmxpYyBsb25nIHRpbWU7DQogICAgICAgIHB1YmxpYyBkb3VibGUgdm9sdGFnZTsNCiAgICAgICAgcHVibGljIGludCBzb2M7DQogICAgICAgIHB1YmxpYyBkb3VibGUgdGVtcE1heDsNCiAgICAgICAgcHVibGljIGludCBkaWZmOw0KICAgICAgICBwdWJsaWMgaW50IGNlbGxNaW47DQogICAgfQ0KDQogICAgcHVibGljIHN5bmNocm9uaXplZCB2b2lkIGFwcGVuZChCbXNEYXRhIGQpIHsNCiAgICAgICAgaWYgKGQudm9sdGFnZSA8PSAwKSByZXR1cm47DQogICAgICAgIHRyeSB7DQogICAgICAgICAgICBMaXN0PFN0cmluZz4gbGluZXMgPSByZWFkTGluZXMoKTsNCiAgICAgICAgICAgIFN0cmluZ0J1aWxkZXIgc2IgPSBuZXcgU3RyaW5nQnVpbGRlcigpOw0KICAgICAgICAgICAgc2IuYXBwZW5kKFN0cmluZy5mb3JtYXQoTG9jYWxlLmdldERlZmF1bHQoKSwgIiVkLCUuMmYsJWQsJS4xZiwlZCwlZCIsDQogICAgICAgICAgICAgICAgICAgIGQudGltZXN0YW1wLCBkLnZvbHRhZ2UsIGQuc29jLCBkLnRlbXBNYXgsIGQuZGlmZiwgZC5jZWxsTWluKSk7DQogICAgICAgICAgICBsaW5lcy5hZGQoc2IudG9TdHJpbmcoKSk7DQogICAgICAgICAgICB3aGlsZSAobGluZXMuc2l6ZSgpID4gTUFYKSBsaW5lcy5yZW1vdmUoMCk7DQogICAgICAgICAgICB3cml0ZUxpbmVzKGxpbmVzKTsNCiAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGlnbm9yZWQpIHt9DQogICAgfQ0KDQogICAgcHVibGljIHN5bmNocm9uaXplZCBMaXN0PFBvaW50PiBsb2FkKCkgew0KICAgICAgICBMaXN0PFBvaW50PiBvdXQgPSBuZXcgQXJyYXlMaXN0PD4oKTsNCiAgICAgICAgZm9yIChTdHJpbmcgbGluZSA6IHJlYWRMaW5lcygpKSB7DQogICAgICAgICAgICBTdHJpbmdbXSBwID0gbGluZS5zcGxpdCgiLCIpOw0KICAgICAgICAgICAgaWYgKHAubGVuZ3RoIDwgNikgY29udGludWU7DQogICAgICAgICAgICB0cnkgew0KICAgICAgICAgICAgICAgIFBvaW50IHB0ID0gbmV3IFBvaW50KCk7DQogICAgICAgICAgICAgICAgcHQudGltZSA9IExvbmcucGFyc2VMb25nKHBbMF0pOw0KICAgICAgICAgICAgICAgIHB0LnZvbHRhZ2UgPSBEb3VibGUucGFyc2VEb3VibGUocFsxXSk7DQogICAgICAgICAgICAgICAgcHQuc29jID0gSW50ZWdlci5wYXJzZUludChwWzJdKTsNCiAgICAgICAgICAgICAgICBwdC50ZW1wTWF4ID0gRG91YmxlLnBhcnNlRG91YmxlKHBbM10pOw0KICAgICAgICAgICAgICAgIHB0LmRpZmYgPSBJbnRlZ2VyLnBhcnNlSW50KHBbNF0pOw0KICAgICAgICAgICAgICAgIHB0LmNlbGxNaW4gPSBJbnRlZ2VyLnBhcnNlSW50KHBbNV0pOw0KICAgICAgICAgICAgICAgIG91dC5hZGQocHQpOw0KICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGlnbm9yZWQpIHt9DQogICAgICAgIH0NCiAgICAgICAgcmV0dXJuIG91dDsNCiAgICB9DQoNCiAgICBwdWJsaWMgc3luY2hyb25pemVkIHZvaWQgY2xlYXIoKSB7DQogICAgICAgIHRyeSB7IGN0eC5kZWxldGVGaWxlKEZJTEUpOyB9IGNhdGNoIChFeGNlcHRpb24gaWdub3JlZCkge30NCiAgICB9DQoNCiAgICBwcml2YXRlIExpc3Q8U3RyaW5nPiByZWFkTGluZXMoKSB7DQogICAgICAgIExpc3Q8U3RyaW5nPiBsaW5lcyA9IG5ldyBBcnJheUxpc3Q8PigpOw0KICAgICAgICB0cnkgew0KICAgICAgICAgICAgRmlsZUlucHV0U3RyZWFtIGluID0gY3R4Lm9wZW5GaWxlSW5wdXQoRklMRSk7DQogICAgICAgICAgICBCdWZmZXJlZFJlYWRlciBiciA9IG5ldyBCdWZmZXJlZFJlYWRlcihuZXcgSW5wdXRTdHJlYW1SZWFkZXIoaW4pKTsNCiAgICAgICAgICAgIFN0cmluZyBsOw0KICAgICAgICAgICAgd2hpbGUgKChsID0gYnIucmVhZExpbmUoKSkgIT0gbnVsbCkgaWYgKGwudHJpbSgpLmxlbmd0aCgpID4gMCkgbGluZXMuYWRkKGwudHJpbSgpKTsNCiAgICAgICAgICAgIGJyLmNsb3NlKCk7DQogICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBpZ25vcmVkKSB7fQ0KICAgICAgICByZXR1cm4gbGluZXM7DQogICAgfQ0KDQogICAgcHJpdmF0ZSB2b2lkIHdyaXRlTGluZXMoTGlzdDxTdHJpbmc+IGxpbmVzKSB7DQogICAgICAgIHRyeSB7DQogICAgICAgICAgICBXcml0ZXIgdyA9IG5ldyBPdXRwdXRTdHJlYW1Xcml0ZXIoY3R4Lm9wZW5GaWxlT3V0cHV0KEZJTEUsIENvbnRleHQuTU9ERV9QUklWQVRFKSk7DQogICAgICAgICAgICBmb3IgKFN0cmluZyBsIDogbGluZXMpIHcud3JpdGUobCArICJcbiIpOw0KICAgICAgICAgICAgdy5mbHVzaCgpOw0KICAgICAgICAgICAgdy5jbG9zZSgpOw0KICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gaWdub3JlZCkge30NCiAgICB9DQp9DQo=
+package com.example.bmsdash;
+
+import android.content.Context;
+
+import java.io.BufferedReader;
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.InputStreamReader;
+import java.io.OutputStreamWriter;
+import java.io.Writer;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Locale;
+
+/** 本地历史存储：CSV 文本，一行一条记录 */
+public class HistoryStore {
+    private static final String FILE = "bms_history.csv";
+    private static final int MAX = 2000; // 最多保留条数
+    private final Context ctx;
+
+    public HistoryStore(Context ctx) { this.ctx = ctx; }
+
+    /** 一条历史记录 */
+    public static class Point {
+        public long time;
+        public double voltage;
+        public int soc;
+        public double tempMax;
+        public int diff;
+        public int cellMin;
+    }
+
+    public synchronized void append(BmsData d) {
+        if (d.voltage <= 0) return;
+        try {
+            List<String> lines = readLines();
+            StringBuilder sb = new StringBuilder();
+            sb.append(String.format(Locale.getDefault(), "%d,%.2f,%d,%.1f,%d,%d",
+                    d.timestamp, d.voltage, d.soc, d.tempMax, d.diff, d.cellMin));
+            lines.add(sb.toString());
+            while (lines.size() > MAX) lines.remove(0);
+            writeLines(lines);
+        } catch (Exception ignored) {}
+    }
+
+    public synchronized List<Point> load() {
+        List<Point> out = new ArrayList<>();
+        for (String line : readLines()) {
+            String[] p = line.split(",");
+            if (p.length < 6) continue;
+            try {
+                Point pt = new Point();
+                pt.time = Long.parseLong(p[0]);
+                pt.voltage = Double.parseDouble(p[1]);
+                pt.soc = Integer.parseInt(p[2]);
+                pt.tempMax = Double.parseDouble(p[3]);
+                pt.diff = Integer.parseInt(p[4]);
+                pt.cellMin = Integer.parseInt(p[5]);
+                out.add(pt);
+            } catch (Exception ignored) {}
+        }
+        return out;
+    }
+
+    public synchronized void clear() {
+        try { ctx.deleteFile(FILE); } catch (Exception ignored) {}
+    }
+
+    private List<String> readLines() {
+        List<String> lines = new ArrayList<>();
+        try {
+            FileInputStream in = ctx.openFileInput(FILE);
+            BufferedReader br = new BufferedReader(new InputStreamReader(in));
+            String l;
+            while ((l = br.readLine()) != null) if (l.trim().length() > 0) lines.add(l.trim());
+            br.close();
+        } catch (Exception ignored) {}
+        return lines;
+    }
+
+    private void writeLines(List<String> lines) {
+        try {
+            Writer w = new OutputStreamWriter(ctx.openFileOutput(FILE, Context.MODE_PRIVATE));
+            for (String l : lines) w.write(l + "\n");
+            w.flush();
+            w.close();
+        } catch (Exception ignored) {}
+    }
+}

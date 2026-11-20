@@ -1,1 +1,40 @@
-cGFja2FnZSBjb20uZXhhbXBsZS5ibXNkYXNoOw0KDQppbXBvcnQgYW5kcm9pZC5jb250ZW50LkNvbnRleHQ7DQppbXBvcnQgYW5kcm9pZC52aWV3LkxheW91dEluZmxhdGVyOw0KaW1wb3J0IGFuZHJvaWQudmlldy5WaWV3Ow0KaW1wb3J0IGFuZHJvaWQudmlldy5WaWV3R3JvdXA7DQppbXBvcnQgYW5kcm9pZC53aWRnZXQuQmFzZUFkYXB0ZXI7DQppbXBvcnQgYW5kcm9pZC53aWRnZXQuVGV4dFZpZXc7DQoNCmltcG9ydCBqYXZhLnV0aWwuTGlzdDsNCg0KcHVibGljIGNsYXNzIERldmljZUFkYXB0ZXIgZXh0ZW5kcyBCYXNlQWRhcHRlciB7DQogICAgcHJpdmF0ZSBmaW5hbCBDb250ZXh0IGN0eDsNCiAgICBwcml2YXRlIGZpbmFsIExpc3Q8TGVEZXZpY2U+IGRhdGE7DQogICAgcHVibGljIERldmljZUFkYXB0ZXIoQ29udGV4dCBjLCBMaXN0PExlRGV2aWNlPiBkKSB7IGN0eCA9IGM7IGRhdGEgPSBkOyB9DQoNCiAgICBAT3ZlcnJpZGUgcHVibGljIGludCBnZXRDb3VudCgpIHsgcmV0dXJuIGRhdGEuc2l6ZSgpOyB9DQogICAgQE92ZXJyaWRlIHB1YmxpYyBPYmplY3QgZ2V0SXRlbShpbnQgaSkgeyByZXR1cm4gZGF0YS5nZXQoaSk7IH0NCiAgICBAT3ZlcnJpZGUgcHVibGljIGxvbmcgZ2V0SXRlbUlkKGludCBpKSB7IHJldHVybiBpOyB9DQoNCiAgICBAT3ZlcnJpZGUgcHVibGljIFZpZXcgZ2V0VmlldyhpbnQgaSwgVmlldyB2LCBWaWV3R3JvdXAgcGFyZW50KSB7DQogICAgICAgIFZpZXdIb2xkZXIgaDsNCiAgICAgICAgaWYgKHYgPT0gbnVsbCkgew0KICAgICAgICAgICAgdiA9IExheW91dEluZmxhdGVyLmZyb20oY3R4KS5pbmZsYXRlKGFuZHJvaWQuUi5sYXlvdXQuc2ltcGxlX2xpc3RfaXRlbV8yLCBwYXJlbnQsIGZhbHNlKTsNCiAgICAgICAgICAgIGggPSBuZXcgVmlld0hvbGRlcigpOw0KICAgICAgICAgICAgaC5uID0gKFRleHRWaWV3KSB2LmZpbmRWaWV3QnlJZChhbmRyb2lkLlIuaWQudGV4dDEpOw0KICAgICAgICAgICAgaC5zID0gKFRleHRWaWV3KSB2LmZpbmRWaWV3QnlJZChhbmRyb2lkLlIuaWQudGV4dDIpOw0KICAgICAgICAgICAgdi5zZXRUYWcoaCk7DQogICAgICAgIH0gZWxzZSBoID0gKFZpZXdIb2xkZXIpIHYuZ2V0VGFnKCk7DQogICAgICAgIExlRGV2aWNlIGQgPSBkYXRhLmdldChpKTsNCiAgICAgICAgaC5uLnNldFRleHRTaXplKDE1KTsNCiAgICAgICAgaC5uLnNldFRleHRDb2xvcihjdHguZ2V0UmVzb3VyY2VzKCkuZ2V0Q29sb3IoUi5jb2xvci50ZXh0X3ByaW1hcnkpKTsNCiAgICAgICAgaC5zLnNldFRleHRTaXplKDExKTsNCiAgICAgICAgaC5zLnNldFRleHRDb2xvcihjdHguZ2V0UmVzb3VyY2VzKCkuZ2V0Q29sb3IoUi5jb2xvci50ZXh0X3NlY29uZGFyeSkpOw0KICAgICAgICBoLm4uc2V0VGV4dChkLm5hbWUpOw0KICAgICAgICBoLnMuc2V0VGV4dChkLmFkZHJlc3MgKyAiICAiICsgZC5yc3NpICsgIiBkQm0iKTsNCiAgICAgICAgcmV0dXJuIHY7DQogICAgfQ0KICAgIHN0YXRpYyBjbGFzcyBWaWV3SG9sZGVyIHsgVGV4dFZpZXcgbiwgczsgfQ0KfQ0K
+package com.example.bmsdash;
+
+import android.content.Context;
+import android.view.LayoutInflater;
+import android.view.View;
+import android.view.ViewGroup;
+import android.widget.BaseAdapter;
+import android.widget.TextView;
+
+import java.util.List;
+
+public class DeviceAdapter extends BaseAdapter {
+    private final Context ctx;
+    private final List<LeDevice> data;
+    public DeviceAdapter(Context c, List<LeDevice> d) { ctx = c; data = d; }
+
+    @Override public int getCount() { return data.size(); }
+    @Override public Object getItem(int i) { return data.get(i); }
+    @Override public long getItemId(int i) { return i; }
+
+    @Override public View getView(int i, View v, ViewGroup parent) {
+        ViewHolder h;
+        if (v == null) {
+            v = LayoutInflater.from(ctx).inflate(android.R.layout.simple_list_item_2, parent, false);
+            h = new ViewHolder();
+            h.n = (TextView) v.findViewById(android.R.id.text1);
+            h.s = (TextView) v.findViewById(android.R.id.text2);
+            v.setTag(h);
+        } else h = (ViewHolder) v.getTag();
+        LeDevice d = data.get(i);
+        h.n.setTextSize(15);
+        h.n.setTextColor(ctx.getResources().getColor(R.color.text_primary));
+        h.s.setTextSize(11);
+        h.s.setTextColor(ctx.getResources().getColor(R.color.text_secondary));
+        h.n.setText(d.name);
+        h.s.setText(d.address + "  " + d.rssi + " dBm");
+        return v;
+    }
+    static class ViewHolder { TextView n, s; }
+}

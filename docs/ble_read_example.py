@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-超威芯界 BMS 蓝牙连接与数据读取示例（Python）
+嘉佰达 BMS 蓝牙连接与数据读取示例（Python，兼容嘉佰达软件板通用协议 V4）
 
 依赖：bleak（跨平台 BLE 库，支持 Windows / Linux / macOS）
     pip install bleak

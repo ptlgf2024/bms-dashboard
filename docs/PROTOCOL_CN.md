@@ -1,1 +1,214 @@
-IyDotoXlqIHoiq/nlYwgQk1TIOiTneeJmeWNj+iuru+8iOi2heWogemUgueUtSBEQiDns7vliJfkv53miqTmnb/vvIkNCg0KPiDmnKzmlofmoaPln7rkuo4gYERCMjRTQU8zTDI0UzYwQUJVYCDkv53miqTmnb/lrp7mtYvmipPljIUgKyDlrpjmlrnjgIzotoXlqIHplILnlLXjgI3lsI/nqIvluo/lr7nnhafpgIblkJHmlbTnkIbjgIINCj4g55uu5YmN5LuF6aqM6K+B6L+H6L+Z5LiA5qy+6K6+5aSH77yM6K6+5aSH5ZCN57yW56CB5ZCr5LmJ5pyq55+l77yI5b2i5aaCIGBEQlhYWFhYWFhYWFhYWFhYYO+8ie+8jOWFtuS7luWei+WPt+WPr+iDveW3ruW8gu+8jOasoui/juihpeWFheOAgg0KDQotLS0NCg0KIyMgMS4g5qaC6L+wDQoNCi0gKirpgJrkv6HmlrnlvI8qKu+8mkJMRe+8iEJsdWV0b290aCBMb3cgRW5lcmd577yJR0FUVA0KLSAqKuacjeWKoSBVVUlEKirvvJpgMDAwMGZmMDAtMDAwMC0xMDAwLTgwMDAtMDA4MDVmOWIzNGZiYA0KLSAqKueJueW+geWAvCoq77yaDQogIC0gYEZGMDFg77yaTm90aWZ577yMQk1TIOKGkiDmiYvmnLrnmoTmlbDmja7ov5Tlm57lj6MNCiAgLSBgRkYwMmDvvJpXcml0ZSAvIFdyaXRlLU5vLVJlc3BvbnNl77yM5omL5py6IOKGkiBCTVMg55qE5ZG95Luk5Y+jDQotICoq5bin57uT5p6EKirvvJroh6rlrprkuYkgYEREIC4uLiA3N2Ag5qC85byP77yM5pWw5o2u57uPIGBGRjAxYCDliIblpJrkuKogMjAg5a2X6IqC6YCa55+l5YyF5LiK5oql77yM6ZyA5oyJ6ZW/5bqm5a2X5q616YeN57uEDQotICoq6L2u6K+i6aKR546HKirvvJrlu7rorq4gMzB+NjAg56eS77yI55S15rGg5pWw5o2u5Y+Y5YyW5oWi77yJDQoNCi0tLQ0KDQojIyAyLiBHQVRUIOe7k+aehA0KDQpgYGANClNlcnZpY2UgRkYwMA0KIOKUnOKUgOKUgCBDaGFyYWN0ZXJpc3RpYyBGRjAxIChOb3RpZnkpICAg4oaQIOiuoumYheWQjuaOpeaUtiBCTVMg6L+U5Zue5binDQog4pSCICAgIOKUlOKUgOKUgCBEZXNjcmlwdG9yIENDQ0QgKDB4MjkwMikgIOKGkCDlhpnlhaUgMHgwMTAwIOW8gOWQr+mAmuefpQ0KIOKUlOKUgOKUgCBDaGFyYWN0ZXJpc3RpYyBGRjAyIChXcml0ZSAvIFdyaXRlIE5vIFJlc3BvbnNlKQ0KICAgICAgICAg4pSU4pSA4pSAIOaJi+acuuWGmeWFpeWRveS7pOW4pw0KYGBgDQoNCui/nuaOpeWQjuWFiOWPkeeOsOacjeWKoe+8jOmqjOivgeWtmOWcqCBgRkYwMGAg5pyN5Yqh5L2c5Li66K6+5aSH5oyH57q577yM54S25ZCO77yaDQoxLiDlr7kgYEZGMDFgIOiwg+eUqCBgc2V0Q2hhcmFjdGVyaXN0aWNOb3RpZmljYXRpb24odHJ1ZSlgDQoyLiDlkJEgYEZGMDFgIOeahCBDQ0NEIOWGmeWFpSBgRU5BQkxFX05PVElGSUNBVElPTl9WQUxVRWDvvIhgMDEgMDBg77yJDQozLiDlu7bov5/nuqYgNTAwbXMg5ZCO5ZCRIGBGRjAyYCDlhpnlkb3ku6TluKcNCg0KPiDms6jmhI/vvJpgV1JJVEVfTk9fUkVTUE9OU0VgIOWGmeaTjeS9nOWPr+iDveS4jeinpuWPkSBgb25DaGFyYWN0ZXJpc3RpY1dyaXRlYCDlm57osIPvvIzkuI3opoHkvp3otZbor6Xlm57osIPpqbHliqjlkI7nu63lkb3ku6TvvIzlkKbliJnpmJ/liJfkvJrljaHmrbvjgIINCg0KLS0tDQoNCiMjIDMuIOW4p+agvOW8jw0KDQojIyMgMy4xIOWRveS7pOW4p++8iOaJi+acuiDihpIgQk1T77yJDQoNCmBgYA0KREQgQTUgW0NNRF0gMDAgW0NIS19IXSBbQ0hLX0xdIDc3ICAgICAg77yI5YWxIDcg5a2X6IqC77yJDQpgYGANCg0KfCDlrZfoioIgfCDlkKvkuYkgfA0KfC0tLXwtLS18DQp8IGBERCBBNWAgfCDlm7rlrprluKflpLQgfA0KfCBgQ01EYCB8IOWRveS7pOeggSB8DQp8IGAwMGAgfCDmlbDmja7plb/luqbvvIjlkb3ku6Tml6DmlbDmja7vvIkgfA0KfCBgQ0hLX0ggQ0hLX0xgIHwg5qCh6aqM77yM5aSn56uvIDE2IOS9jSB8DQp8IGA3N2AgfCDlm7rlrprluKflsL4gfA0KDQoqKuagoemqjOeul+azlSoq77yaYENISyA9IDB4MTAwMDAg4oiSIENNRGDvvIjlkb3ku6TnoIHnmoQgMTYg5L2N6KGl56CB77yJDQoNCnwgQ01EIHwg5a6M5pW05ZG95Luk5binIHwg6K+05piOIHwNCnwtLS18LS0tfC0tLXwNCnwgYDB4MDFgIHwgYEREIEE1IDAxIDAwIEZGIEZGIDc3YCB8IOWfuuacrOS/oeaBr++8iOacrOasoeaXoOacieaViOi/lOWbnu+8iSB8DQp8IGAweDAyYCB8IGBERCBBNSAwMiAwMCBGRiBGRSA3N2AgfCDkv53nlZkgfA0KfCBgMHgwM2AgfCBgREQgQTUgMDMgMDAgRkYgRkQgNzdgIHwgKirlrp7ml7bmlbDmja4qKiB8DQp8IGAweDA0YCB8IGBERCBBNSAwNCAwMCBGRiBGQyA3N2AgfCAqKjI0IOS4suWNleS9k+eUteWOiyoqIHwNCnwgYDB4MDVgIHwgYEREIEE1IDA1IDAwIEZGIEZCIDc3YCB8IOiuvuWkh+WQje+8iEFTQ0lJ77yJIHwNCg0KIyMjIDMuMiDov5Tlm57luKfvvIhCTVMg4oaSIOaJi+acuu+8iQ0KDQpgYGANCkREIFtDTURdIFtMRU5fSF0gW0xFTl9MXSBbREFUQSAuLi5dIFtDSEtfSF0gW0NIS19MXSA3Nw0KYGBgDQoNCnwg5a2X6IqCIHwg5ZCr5LmJIHwNCnwtLS18LS0tfA0KfCBgRERgIHwg5Zu65a6a5bin5aS0IHwNCnwgYENNRGAgfCDlkb3ku6TnoIEgfA0KfCBgTEVOX0ggTEVOX0xgIHwg5pWw5o2u5Yy66ZW/5bqm77yI5aSn56uvIDE2IOS9je+8iSB8DQp8IGBEQVRBYCB8IOaVsOaNruWMuu+8jOmVv+W6piA9IExFTiB8DQp8IGBDSEtfSCBDSEtfTGAgfCDmoKHpqozvvIjop6PmnpDml7blj6/lv73nlaXvvIkgfA0KfCBgNzdgIHwg5Zu65a6a5bin5bC+IHwNCg0K5LiA5bin57uPIGBGRjAxYCDliIbmiJDlpJrkuKogMjAg5a2X6IqC6YCa55+l5YyF5LiK5oql44CCKirkuI3og73nroDljZXku6UgYDc3YCDmiKrmlq0qKu+8iOaVsOaNruWtl+iKguS4reWPr+iDveWHuueOsCBgMHg3N2DvvInvvIzlv4XpobvmjInjgIzluKflpLQgYEREYCArIOmVv+W6puWtl+auteOAjemHjee7hO+8mg0KDQpgYGANCm5lZWQgPSA0ICsgTEVOICsgMyAgIO+8iOW4p+WktDQgKyDmlbDmja5MRU4gKyDmoKHpqowyICsg5bin5bC+Me+8iQ0KYGBgDQoNCiMjIyAzLjMg5YiG5bin6YeN57uE566X5rOV77yI5Lyq5Luj56CB77yJDQoNCmBgYA0KYnVmZmVyID0g56m6DQpmb3Ig5q+P5Liq6YCa55+l5YyFIGNodW5rOg0KICAgIGZvciDmr4/kuKrlrZfoioIgYiBpbiBjaHVuazoNCiAgICAgICAgaWYgYnVmZmVyIOS4uuepuiBhbmQgYiAhPSAweEREOiBjb250aW51ZSAgIC8vIOS4ouW8g+WZquWjsA0KICAgICAgICBidWZmZXIuYXBwZW5kKGIpDQogICAgICAgIGlmIGJ1ZmZlci5sZW5ndGggPj0gNDoNCiAgICAgICAgICAgIGxlbiA9IChidWZmZXJbMl08PDgpIHwgYnVmZmVyWzNdDQogICAgICAgICAgICBuZWVkID0gNCArIGxlbiArIDMNCiAgICAgICAgICAgIGlmIGJ1ZmZlci5sZW5ndGggPj0gbmVlZDoNCiAgICAgICAgICAgICAgICBmcmFtZSA9IGJ1ZmZlclswOm5lZWRdDQogICAgICAgICAgICAgICAgcGFyc2UoZnJhbWUpDQogICAgICAgICAgICAgICAgYnVmZmVyID0gYnVmZmVyW25lZWQ6XSAgICAgICAgICAvLyDlpITnkIbnspjljIUNCiAgICAgICAgaWYgYnVmZmVyLmxlbmd0aCA+IDEwMjQ6IGJ1ZmZlciA9IOepuiAgICAgLy8g6Ziy5rqi5Ye6DQpgYGANCg0KLS0tDQoNCiMjIDQuIOaVsOaNruWtl+auteWumuS5iQ0KDQojIyMgNC4xIOWRveS7pCAweDAzIOKAlCDlrp7ml7bmlbDmja7luKcNCg0K5pWw5o2u5Yy66ZW/5bqmIGAweDI2YCA9IDM4IOWtl+iKguOAguWunua1i+W4p++8mg0KDQpgYGANCkREIDAzIDAwIDI2IDFFIEREIDAwIDAwIDBCIDY0IDEzIDg4IDAwIDAxIDM1IDMzIDAwIDAwIDAwIDAwDQowMCAwMCA4MCAzQSAwMyAxOCAwMyAwQiBBMyAwQiA5RCAwQiA5RSAwMCAwMCAwMCAxMyA4OCAwQiA2NA0KMDAgMDAgRjkgOEIgNzcNCmBgYA0KDQrlrZfmrrXluIPlsYDvvIjntKLlvJXku47mlbDmja7ljLrnrKwgMCDlrZfoioLotbfvvInvvJoNCg0KfCDlgY/np7sgfCDplb/luqYgfCDnsbvlnosgfCDmjaLnrpcgfCDnpLrkvosgfCDlr7nnhaflsI/nqIvluo8gfA0KfC0tLXwtLS18LS0tfC0tLXwtLS18LS0tfA0KfCBgWzAtMV1gIHwgMiB8IHVpbnQxNiBCRSB8IGDDtyAxMDBgIOKGkiBWIHwgYDFFIEREYCA9IDc5MDEg4oaSICoqNzkuMDEgVioqIHwgNzkuMDEgViDinJMgfA0KfCBgWzItM11gIHwgMiB8IGludDE2IEJFIHwgYMO3IDEwMGAg4oaSIEHvvIwqKuatoz3lhYXnlLXvvIzotJ895pS+55S1KiogfCBgMDAgMDBgIOKGkiAwLjAwIEEgfCDpnZnnva4gLS0g4pyTIHwNCnwgYFsxOV1gIHwgMSB8IHVpbnQ4IHwg55u05o6lIOKGkiAlIHwgYDNBYCA9IDU4IOKGkiAqKjU4ICUqKiB8IDU4ICUg4pyTIHwNCnwgYFsyMy0yNF1gIHwgMiB8IHVpbnQxNiBCRSB8IGDDtzEwIOKIkiAyNzMuMTVgIOKGkiDihIMgfCBgMEIgQTNgIOKGkiAyNC4yIOKEgyB8IHwNCnwgYFsyNS0yNl1gIHwgMiB8IHVpbnQxNiBCRSB8IOWQjOS4iiB8IGAwQiA5RGAg4oaSIDI0LjEg4oSDIHwgMjQuMn4yNC43IOKEgyDinJMgfA0KfCBgWzI3LTI4XWAgfCAyIHwgdWludDE2IEJFIHwg5ZCM5LiKIHwgYDBCIDlFYCDihpIgMjQuMiDihIMgfCB8DQoNCioq5rip5bqm5Y2V5L2NKirvvJowLjEg5byA5bCU5paH77yM5YePIDI3My4xNSDlvpfmkYTmsI/luqbjgILkuInkuKrmjqLlpLTlj5bmnIDlsI8v5pyA5aSn5YC85pi+56S65rip5bqm6IyD5Zu044CCDQoNCuWFtuS7luWtl+aute+8iGBbNC01XWA9MjkxNuOAgWBbNi03XWA9NTAwMCDnrYnvvInnlpHkuLrliankvZkv5ruh5a656YeP77yIMjkxNi81MDAwIOKJiCA1OC4zJe+8jOS4jiBTT0Mg5LiA6Ie077yJ77yM5pyq57qz5YWl6Kej5p6Q44CCDQoNCiMjIyA0LjIg5ZG95LukIDB4MDQg4oCUIDI0IOS4suWNleS9k+eUteWOi+W4pw0KDQrmlbDmja7ljLrplb/luqYgYDB4MzBgID0gNDgg5a2X6IqCID0gMjQg5LiyIMOXIDIg5a2X6IqC44CCDQoNCnwg5YGP56e7IHwg6ZW/5bqmIHwg57G75Z6LIHwg5o2i566XIHwNCnwtLS18LS0tfC0tLXwtLS18DQp8IGBbMC0xXWAgfiBgWzQ2LTQ3XWAgfCAyNMOXMiB8IHVpbnQxNiBCRe+8iG1W77yJIHwgYMO3IDEwMDBgIOKGkiBWIHwNCg0K56S65L6L77yaYDBDIEREYCA9IDMyOTMg4oaSIDMuMjkzIFbjgIIyNCDkuLLmsYLlkowg4omIIDc5LjAxIFbvvIzljovlt64gPSDmnIDpq5jkuLIg4oiSIOacgOS9juS4su+8iOWunua1i+e6piAzIG1W77yJ44CCDQoNCiMjIyA0LjMg5ZG95LukIDB4MDUg4oCUIOiuvuWkh+WQjeW4pw0KDQrmlbDmja7ljLrplb/luqYgYDB4MTFgID0gMTcg5a2X6IqC77yMQVNDSUnvvJpgREIyNFNBTzNMMjRTNjBBQlVg44CCDQoNCi0tLQ0KDQojIyA1LiDph43opoHlrp7njrDpmbfpmLENCg0KMS4gKirnlLXmtYHlrZfmrrXooqvopobnm5YqKu+8muWRveS7pCAwMyDlkKvnlLXmtYHjgIHlkb3ku6QgMDQg5LiN5ZCr55S15rWB44CC5ZCI5bm25Lik5bin5pWw5o2u5pe277yM5b+F6aG755So5qCH5b+X5L2N77yIYGhhc0N1cnJlbnRg77yJ5Yy65YiG77yM5ZCm5YiZ5ZG95LukIDA0IOeahCBgY3VycmVudD0wYCDkvJrmiorlkb3ku6QgMDMg6K+75Yiw55qE5YWF55S155S15rWB6KaG55uW5oiQIDDjgIINCjIuICoq5LiN6KaB5L6d6LWW5YaZ5Zue6LCD6amx5Yqo6Zif5YiXKirvvJpgV1JJVEVfTk9fUkVTUE9OU0VgIOWGmeaTjeS9nOWPr+iDveaXoCBgb25DaGFyYWN0ZXJpc3RpY1dyaXRlYCDlm57osIPvvIznm7TmjqXlrprml7blj5HpgIHlkb3ku6TljbPlj6/jgIINCjMuICoq5YiG5bin6YeN57uEKirvvJrmlbDmja7lrZfoioLlj6/og73nrYnkuo4gYDB4Nzdg77yI5bin5bC+77yJ5oiWIGAweEREYO+8iOW4p+WktO+8ie+8jOW/hemhu+aMiemVv+W6puWtl+auteWPluW4p++8jOS4jeiDveaMiSBgNzdgIOWIh+WIhuOAgg0KNC4gKirmnYPpmZAqKu+8mkFuZHJvaWQgMTIrIOmcgOimgSBgQkxVRVRPT1RIX1NDQU5gIC8gYEJMVUVUT09USF9DT05ORUNUYCDov5DooYzml7bmnYPpmZDvvIzmiavmj4/ov5jpnIDlrprkvY3mnYPpmZDjgIINCjUuICoqVUkg57q/56iLKirvvJpCTEUg5Zue6LCD5ZyoIEJpbmRlciDnur/nqIvvvIzmm7TmlrAgVUkg6ZyA5YiH5Zue5Li757q/56iL44CCDQoNCi0tLQ0KDQojIyA2LiDlrozmlbTlt6XkvZzmtYHnqIsNCg0KYGBgDQrmiavmj4/orr7lpIfvvIjov4fmu6TlkI3np7Dku6UgREIg5byA5aS077yJDQogICAgICDihpMNCmNvbm5lY3RHYXR0KCkg6L+e5o6lDQogICAgICDihpMNCm9uQ29ubmVjdGlvblN0YXRlQ2hhbmdlKENPTk5FQ1RFRCkg4oaSIGRpc2NvdmVyU2VydmljZXMoKQ0KICAgICAg4oaTDQpvblNlcnZpY2VzRGlzY292ZXJlZDoNCiAgIOmqjOivgSBGRjAwIOacjeWKoQ0KICAg6K6i6ZiFIEZGMDEg6YCa55+l77yIc2V0Q2hhcmFjdGVyaXN0aWNOb3RpZmljYXRpb24gKyDlhpkgQ0NDRO+8iQ0KICAgICAg4oaTDQrlu7bov58gNTAwbXMg4oaSIOWGmeWRveS7pCAweDAz77yI5a6e5pe25pWw5o2u77yJDQogICAgICDihpMNCuW7tui/nyAzMDBtcyDihpIg5YaZ5ZG95LukIDB4MDTvvIjljZXkvZPnlLXljovvvIkNCiAgICAgIOKGkw0Kb25DaGFyYWN0ZXJpc3RpY0NoYW5nZWQg5pS25Yiw6YCa55+l5YiG54mHIOKGkiDmjInplb/luqbph43nu4Qg4oaSIOino+aekOWtl+autQ0KICAgICAg4oaTDQrmr48gNjAg56eS6YeN5aSN5Y+R6YCBIDB4MDMgLyAweDA0DQpgYGANCg0KLS0tDQoNCiMjIDcuIOeoi+W6j+ekuuS+iw0KDQrop4HlkIznm67lvZXvvJoNCi0gKipgQmxlUmVhZEV4YW1wbGUuamF2YWAqKiDigJQg5a6M5pW055qEIEFuZHJvaWQgQkxFIOi/nuaOpSArIOivu+WPluaVsOaNruekuuS+i++8iOWQq+azqOmHiu+8iQ0KDQror6XnpLrkvovmvJTnpLrvvJrmnYPpmZDlpITnkIbjgIHmiavmj4/ov4fmu6TjgIHov57mjqXjgIHorqLpmIXpgJrnn6XjgIHlj5HpgIHlkb3ku6TjgIHliIbluKfph43nu4TjgIHlrZfmrrXop6PmnpDjgILlj6/nm7TmjqXmlL7liLAgYHNyYy9jb20vZXhhbXBsZS9ibXNkYXNoL2Ag5LiL5Y+C6ICD44CCDQoNCi0tLQ0KDQojIyA4LiDpqozor4Hnu5PmnpwNCg0K5LiO5a6Y5pa55bCP56iL5bqP5a+554Wn77yaDQoNCnwg5a2X5q61IHwg5pys5a6e546wIHwg5bCP56iL5bqPIHwNCnwtLS18LS0tfC0tLXwNCnwg5oC755S15Y6LIHwgNzkuMDEgLyA3OS4wMiBWIHwgNzkuMDEgViDinJMgfA0KfCBTT0MgfCA1OCAlIHwgNTggJSDinJMgfA0KfCDmuKnluqYgfCAyNC4yfjI0Ljgg4oSDIHwgMjQuMn4yNC43IOKEgyDinJMgfA0KfCDljovlt64gfCAzIG1WIHwgMyBtViDinJMgfA0KfCAyNCDkuLLnlLXljosgfCAzLjI5MX4zLjI5NCBWIHwg5LiA6Ie0IOKckyB8DQp8IOeUtea1gSB8IOWFheeUtSA5Ljc4IEHvvIjkv67lpI3opobnm5YgYnVnIOWQju+8iSB8IDkuNzggQSDinJMgfA0KDQotLS0NCg0KIyMgOS4g5Y+C6ICDDQoNCi0g5pys6aG555uu5rqQ56CB77yaYEJsZU1hbmFnZXIuamF2YWDvvIjov57mjqXkuI7lkb3ku6TvvInjgIFgQm1zUGFyc2VyLmphdmFg77yI5bin6YeN57uE5LiO6Kej5p6Q77yJ44CBYEJtc0RhdGEuamF2YWDvvIjmlbDmja7lkIjlubbvvIkNCi0g6K6+5aSH77ya6LaF5aiB6Iqv55WMIEJNU++8jGBEQjI0U0FPM0wyNFM2MEFCVWDvvIzno7fphbjpk4HplIIgMjQg5LiyIDUwQWgNCg==
+# 嘉佰达 BMS 蓝牙协议（DB 系列保护板）
+
+> 本协议出自公开的《嘉佰达软件板通用协议 V4-20180907》，并在实测保护板（设备名形如 `DBXXXXXXXXXXXXXX`）上抓包验证。
+> 该保护板可被「嘉佰达BMS」官方 App 直接连接、读取参数并查看历史保护记录（BMS 型号 `DB24SF01 V1.0`，电池生产商标识 `DGJBD`），确认为嘉佰达（JBD）方案。
+> 目前仅验证过一款设备，设备名编码含义未做推断，其他型号可能差异，欢迎补充。
+
+---
+
+## 1. 概述
+
+- **通信方式**：BLE（Bluetooth Low Energy）GATT
+- **服务 UUID**：`0000ff00-0000-1000-8000-00805f9b34fb`
+- **特征值**：
+  - `FF01`：Notify，BMS → 手机的数据返回口
+  - `FF02`：Write / Write-No-Response，手机 → BMS 的命令口
+- **帧结构**：自定义 `DD ... 77` 格式，数据经 `FF01` 分多个 20 字节通知包上报，需按长度字段重组
+- **轮询频率**：建议 30~60 秒（电池数据变化慢）
+
+---
+
+## 2. GATT 结构
+
+```
+Service FF00
+ ├── Characteristic FF01 (Notify)   ← 订阅后接收 BMS 返回帧
+ │    └── Descriptor CCCD (0x2902)  ← 写入 0x0100 开启通知
+ └── Characteristic FF02 (Write / Write No Response)
+         └── 手机写入命令帧
+```
+
+连接后先发现服务，验证存在 `FF00` 服务作为设备指纹，然后：
+1. 对 `FF01` 调用 `setCharacteristicNotification(true)`
+2. 向 `FF01` 的 CCCD 写入 `ENABLE_NOTIFICATION_VALUE`（`01 00`）
+3. 延迟约 500ms 后向 `FF02` 写命令帧
+
+> 注意：`WRITE_NO_RESPONSE` 写操作可能不触发 `onCharacteristicWrite` 回调，不要依赖该回调驱动后续命令，否则队列会卡死。
+
+---
+
+## 3. 帧格式
+
+### 3.1 命令帧（手机 → BMS）
+
+```
+DD A5 [CMD] 00 [CHK_H] [CHK_L] 77      （共 7 字节）
+```
+
+| 字节 | 含义 |
+|---|---|
+| `DD A5` | 固定帧头 |
+| `CMD` | 命令码 |
+| `00` | 数据长度（命令无数据） |
+| `CHK_H CHK_L` | 校验，大端 16 位 |
+| `77` | 固定帧尾 |
+
+**校验算法**：`CHK = 0x10000 − CMD`（命令码的 16 位补码）
+
+| CMD | 完整命令帧 | 说明 |
+|---|---|---|
+| `0x01` | `DD A5 01 00 FF FF 77` | 基本信息（本次无有效返回） |
+| `0x02` | `DD A5 02 00 FF FE 77` | 保留 |
+| `0x03` | `DD A5 03 00 FF FD 77` | **实时数据** |
+| `0x04` | `DD A5 04 00 FF FC 77` | **24 串单体电压** |
+| `0x05` | `DD A5 05 00 FF FB 77` | 设备名（ASCII） |
+
+### 3.2 返回帧（BMS → 手机）
+
+```
+DD [CMD] [LEN_H] [LEN_L] [DATA ...] [CHK_H] [CHK_L] 77
+```
+
+| 字节 | 含义 |
+|---|---|
+| `DD` | 固定帧头 |
+| `CMD` | 命令码 |
+| `LEN_H LEN_L` | 数据区长度（大端 16 位） |
+| `DATA` | 数据区，长度 = LEN |
+| `CHK_H CHK_L` | 校验（解析时可忽略） |
+| `77` | 固定帧尾 |
+
+一帧经 `FF01` 分成多个 20 字节通知包上报。**不能简单以 `77` 截断**（数据字节中可能出现 `0x77`），必须按「帧头 `DD` + 长度字段」重组：
+
+```
+need = 4 + LEN + 3   （帧头4 + 数据LEN + 校验2 + 帧尾1）
+```
+
+### 3.3 分帧重组算法（伪代码）
+
+```
+buffer = 空
+for 每个通知包 chunk:
+    for 每个字节 b in chunk:
+        if buffer 为空 and b != 0xDD: continue   // 丢弃噪声
+        buffer.append(b)
+        if buffer.length >= 4:
+            len = (buffer[2]<<8) | buffer[3]
+            need = 4 + len + 3
+            if buffer.length >= need:
+                frame = buffer[0:need]
+                parse(frame)
+                buffer = buffer[need:]          // 处理粘包
+        if buffer.length > 1024: buffer = 空     // 防溢出
+```
+
+---
+
+## 4. 数据字段定义
+
+### 4.1 命令 0x03 — 实时数据帧
+
+数据区长度 `0x26` = 38 字节。实测帧：
+
+```
+DD 03 00 26 1E DD 00 00 0B 64 13 88 00 01 35 33 00 00 00 00
+00 00 80 3A 03 18 03 0B A3 0B 9D 0B 9E 00 00 00 13 88 0B 64
+00 00 F9 8B 77
+```
+
+字段布局（索引从数据区第 0 字节起）：
+
+| 偏移 | 长度 | 类型 | 换算 | 示例 | 对照小程序 |
+|---|---|---|---|---|---|
+| `[0-1]` | 2 | uint16 BE | `÷ 100` → V | `1E DD` = 7901 → **79.01 V** | 79.01 V ✓ |
+| `[2-3]` | 2 | int16 BE | `÷ 100` → A，**正=充电，负=放电** | `00 00` → 0.00 A | 静置 -- ✓ |
+| `[19]` | 1 | uint8 | 直接 → % | `3A` = 58 → **58 %** | 58 % ✓ |
+| `[23-24]` | 2 | uint16 BE | `÷10 − 273.15` → ℃ | `0B A3` → 24.2 ℃ | |
+| `[25-26]` | 2 | uint16 BE | 同上 | `0B 9D` → 24.1 ℃ | 24.2~24.7 ℃ ✓ |
+| `[27-28]` | 2 | uint16 BE | 同上 | `0B 9E` → 24.2 ℃ | |
+
+字段布局与嘉佰达 V4 协议一致：`[4-5]` 剩余容量、`[6-7]` 标称容量（单位 10mAh），`[8-9]` 循环次数，`[10-11]` 生产日期，`[12-13]/[14-15]` 均衡状态低/高位，`[16-17]` 保护状态位，`[18]` 软件版本，`[19]` RSOC，`[20]` FET 状态，`[21]` 电池串数（实测 24），`[22]` NTC 探头数（实测 3），`[23]` 起为 N 个探头温度。
+
+**温度单位**：协议定义为绝对温度，单位为 0.1K（即 `2731 + 摄氏度×10`）。本实现按 `÷10 − 273.15` 换算，与协议等价（相差取整 0.05℃）。三个探头取最小/最大值显示温度范围。
+
+其他字段（剩余/标称容量、保护状态位等）已明确，当前版本未纳入界面展示。App 历史记录中的"单体过压保护""软件锁定MOS"等事件即来自 `[16-17]` 保护状态位与嘉佰达协议注 1 的 bit 定义。
+
+### 4.2 命令 0x04 — 24 串单体电压帧
+
+数据区长度 `0x30` = 48 字节 = 24 串 × 2 字节。
+
+| 偏移 | 长度 | 类型 | 换算 |
+|---|---|---|---|
+| `[0-1]` ~ `[46-47]` | 24×2 | uint16 BE（mV） | `÷ 1000` → V |
+
+示例：`0C DD` = 3293 → 3.293 V。24 串求和 ≈ 79.01 V，压差 = 最高串 − 最低串（实测约 3 mV）。
+
+### 4.3 命令 0x05 — 设备名帧
+
+数据区长度 `0x11` = 17 字节，ASCII：`DB24SAO3L24S60ABU`。
+
+---
+
+## 5. 重要实现陷阱
+
+1. **电流字段被覆盖**：命令 03 含电流、命令 04 不含电流。合并两帧数据时，必须用标志位（`hasCurrent`）区分，否则命令 04 的 `current=0` 会把命令 03 读到的充电电流覆盖成 0。
+2. **不要依赖写回调驱动队列**：`WRITE_NO_RESPONSE` 写操作可能无 `onCharacteristicWrite` 回调，直接定时发送命令即可。
+3. **分帧重组**：数据字节可能等于 `0x77`（帧尾）或 `0xDD`（帧头），必须按长度字段取帧，不能按 `77` 切分。
+4. **权限**：Android 12+ 需要 `BLUETOOTH_SCAN` / `BLUETOOTH_CONNECT` 运行时权限，扫描还需定位权限。
+5. **UI 线程**：BLE 回调在 Binder 线程，更新 UI 需切回主线程。
+
+---
+
+## 6. 完整工作流程
+
+```
+扫描设备（过滤名称以 DB 开头）
+      ↓
+connectGatt() 连接
+      ↓
+onConnectionStateChange(CONNECTED) → discoverServices()
+      ↓
+onServicesDiscovered:
+   验证 FF00 服务
+   订阅 FF01 通知（setCharacteristicNotification + 写 CCCD）
+      ↓
+延迟 500ms → 写命令 0x03（实时数据）
+      ↓
+延迟 300ms → 写命令 0x04（单体电压）
+      ↓
+onCharacteristicChanged 收到通知分片 → 按长度重组 → 解析字段
+      ↓
+每 60 秒重复发送 0x03 / 0x04
+```
+
+---
+
+## 7. 程序示例
+
+见同目录：
+- **`BleReadExample.java`** — 完整的 Android BLE 连接 + 读取数据示例（含注释）
+
+该示例演示：权限处理、扫描过滤、连接、订阅通知、发送命令、分帧重组、字段解析。可直接放到 `src/com/example/bmsdash/` 下参考。
+
+---
+
+## 8. 验证结果
+
+与嘉佰达BMS 官方 App 对照：
+
+| 字段 | 本实现 | 小程序 |
+|---|---|---|
+| 总电压 | 79.01 / 79.02 V | 79.01 V ✓ |
+| SOC | 58 % | 58 % ✓ |
+| 温度 | 24.2~24.8 ℃ | 24.2~24.7 ℃ ✓ |
+| 压差 | 3 mV | 3 mV ✓ |
+| 24 串电压 | 3.291~3.294 V | 一致 ✓ |
+| 电流 | 充电 9.78 A（修复覆盖 bug 后） | 9.78 A ✓ |
+
+---
+
+## 9. 参考
+
+- 协议来源：《嘉佰达软件板通用协议 V4-20180907（增加蓝牙 UUID）》
+- 本项目源码：`BleManager.java`（连接与命令）、`BmsParser.java`（帧重组与解析）、`BmsData.java`（数据合并）
+- 实测设备：嘉佰达（JBD）BMS 保护板，`DB24SF01 V1.0`，磷酸铁锂 24 串 50Ah，可由嘉佰达BMS 官方 App 直连读写

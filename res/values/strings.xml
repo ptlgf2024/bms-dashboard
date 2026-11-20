@@ -1,1 +1,5 @@
-PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjxyZXNvdXJjZXM+DQogICAgPHN0cmluZyBuYW1lPSJhcHBfbmFtZSI+6LaF5aiB6Iqv55WMQk1TPC9zdHJpbmc+DQogICAgPHN0cmluZyBuYW1lPSJmaWx0ZXJfaGludCI+5LuF5pi+56S66LaF5aiB6K6+5aSH77yI5ZCN56ew5LulIERCIOW8gOWktO+8iTwvc3RyaW5nPg0KPC9yZXNvdXJjZXM+DQo=
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">嘉佰达BMS 助手</string>
+    <string name="filter_hint">仅显示嘉佰达 BMS 设备（名称以 DB 开头）</string>
+</resources>

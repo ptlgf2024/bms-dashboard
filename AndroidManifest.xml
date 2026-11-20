@@ -1,1 +1,43 @@
-PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjxtYW5pZmVzdCB4bWxuczphbmRyb2lkPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS9hcGsvcmVzL2FuZHJvaWQiDQogICAgcGFja2FnZT0iY29tLmV4YW1wbGUuYm1zZGFzaCI+DQoNCiAgICA8dXNlcy1wZXJtaXNzaW9uIGFuZHJvaWQ6bmFtZT0iYW5kcm9pZC5wZXJtaXNzaW9uLkJMVUVUT09USCIgYW5kcm9pZDptYXhTZGtWZXJzaW9uPSIzMCIgLz4NCiAgICA8dXNlcy1wZXJtaXNzaW9uIGFuZHJvaWQ6bmFtZT0iYW5kcm9pZC5wZXJtaXNzaW9uLkJMVUVUT09USF9BRE1JTiIgYW5kcm9pZDptYXhTZGtWZXJzaW9uPSIzMCIgLz4NCiAgICA8dXNlcy1wZXJtaXNzaW9uIGFuZHJvaWQ6bmFtZT0iYW5kcm9pZC5wZXJtaXNzaW9uLkFDQ0VTU19GSU5FX0xPQ0FUSU9OIiAvPg0KICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uQUNDRVNTX0NPQVJTRV9MT0NBVElPTiIgLz4NCiAgICA8dXNlcy1mZWF0dXJlIGFuZHJvaWQ6bmFtZT0iYW5kcm9pZC5oYXJkd2FyZS5ibHVldG9vdGhfbGUiIGFuZHJvaWQ6cmVxdWlyZWQ9InRydWUiIC8+DQogICAgPHVzZXMtcGVybWlzc2lvbiBhbmRyb2lkOm5hbWU9ImFuZHJvaWQucGVybWlzc2lvbi5CTFVFVE9PVEhfU0NBTiIgLz4NCiAgICA8dXNlcy1wZXJtaXNzaW9uIGFuZHJvaWQ6bmFtZT0iYW5kcm9pZC5wZXJtaXNzaW9uLkJMVUVUT09USF9DT05ORUNUIiAvPg0KICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uVklCUkFURSIgLz4NCg0KICAgIDxhcHBsaWNhdGlvbg0KICAgICAgICBhbmRyb2lkOmxhYmVsPSJAc3RyaW5nL2FwcF9uYW1lIg0KICAgICAgICBhbmRyb2lkOmljb249IkBtaXBtYXAvaWNfbGF1bmNoZXIiDQogICAgICAgIGFuZHJvaWQ6dGhlbWU9IkBzdHlsZS9BcHBUaGVtZSINCiAgICAgICAgYW5kcm9pZDphbGxvd0JhY2t1cD0idHJ1ZSI+DQoNCiAgICAgICAgPGFjdGl2aXR5IGFuZHJvaWQ6bmFtZT0iLk1haW5BY3Rpdml0eSIgYW5kcm9pZDpleHBvcnRlZD0idHJ1ZSI+DQogICAgICAgICAgICA8aW50ZW50LWZpbHRlcj4NCiAgICAgICAgICAgICAgICA8YWN0aW9uIGFuZHJvaWQ6bmFtZT0iYW5kcm9pZC5pbnRlbnQuYWN0aW9uLk1BSU4iIC8+DQogICAgICAgICAgICAgICAgPGNhdGVnb3J5IGFuZHJvaWQ6bmFtZT0iYW5kcm9pZC5pbnRlbnQuY2F0ZWdvcnkuTEFVTkNIRVIiIC8+DQogICAgICAgICAgICA8L2ludGVudC1maWx0ZXI+DQogICAgICAgIDwvYWN0aXZpdHk+DQoNCiAgICAgICAgPHJlY2VpdmVyIGFuZHJvaWQ6bmFtZT0iLldpZGdldFByb3ZpZGVyIg0KICAgICAgICAgICAgYW5kcm9pZDpsYWJlbD0i6LaF5aiB6Iqv55WMQk1TIg0KICAgICAgICAgICAgYW5kcm9pZDpleHBvcnRlZD0idHJ1ZSI+DQogICAgICAgICAgICA8aW50ZW50LWZpbHRlcj4NCiAgICAgICAgICAgICAgICA8YWN0aW9uIGFuZHJvaWQ6bmFtZT0iYW5kcm9pZC5hcHB3aWRnZXQuYWN0aW9uLkFQUFdJREdFVF9VUERBVEUiIC8+DQogICAgICAgICAgICAgICAgPGFjdGlvbiBhbmRyb2lkOm5hbWU9ImNvbS5leGFtcGxlLmJtc2Rhc2guUkVGUkVTSCIgLz4NCiAgICAgICAgICAgIDwvaW50ZW50LWZpbHRlcj4NCiAgICAgICAgICAgIDxtZXRhLWRhdGENCiAgICAgICAgICAgICAgICBhbmRyb2lkOm5hbWU9ImFuZHJvaWQuYXBwd2lkZ2V0LnByb3ZpZGVyIg0KICAgICAgICAgICAgICAgIGFuZHJvaWQ6cmVzb3VyY2U9IkB4bWwvd2lkZ2V0X2luZm8iIC8+DQogICAgICAgIDwvcmVjZWl2ZXI+DQoNCiAgICAgICAgPHNlcnZpY2UgYW5kcm9pZDpuYW1lPSIuV2lkZ2V0UmVmcmVzaEpvYlNlcnZpY2UiDQogICAgICAgICAgICBhbmRyb2lkOmV4cG9ydGVkPSJ0cnVlIg0KICAgICAgICAgICAgYW5kcm9pZDpwZXJtaXNzaW9uPSJhbmRyb2lkLnBlcm1pc3Npb24uQklORF9KT0JfU0VSVklDRSIgLz4NCiAgICA8L2FwcGxpY2F0aW9uPg0KPC9tYW5pZmVzdD4NCg==
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.bmsdash">
+
+    <uses-permission android:name="android.permission.BLUETOOTH" android:maxSdkVersion="30" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" android:maxSdkVersion="30" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-feature android:name="android.hardware.bluetooth_le" android:required="true" />
+    <uses-permission android:name="android.permission.BLUETOOTH_SCAN" />
+    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <application
+        android:label="@string/app_name"
+        android:icon="@mipmap/ic_launcher"
+        android:theme="@style/AppTheme"
+        android:allowBackup="true">
+
+        <activity android:name=".MainActivity" android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <receiver android:name=".WidgetProvider"
+            android:label="嘉佰达BMS 助手"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+                <action android:name="com.example.bmsdash.REFRESH" />
+            </intent-filter>
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/widget_info" />
+        </receiver>
+
+        <service android:name=".WidgetRefreshJobService"
+            android:exported="true"
+            android:permission="android.permission.BIND_JOB_SERVICE" />
+    </application>
+</manifest>

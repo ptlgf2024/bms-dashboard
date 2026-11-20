@@ -1,1 +1,273 @@
-cGFja2FnZSBjb20uZXhhbXBsZS5ibXNkYXNoOw0KDQppbXBvcnQgYW5kcm9pZC5NYW5pZmVzdDsNCmltcG9ydCBhbmRyb2lkLmFwcC5BY3Rpdml0eTsNCmltcG9ydCBhbmRyb2lkLmJsdWV0b290aC5CbHVldG9vdGhBZGFwdGVyOw0KaW1wb3J0IGFuZHJvaWQuYmx1ZXRvb3RoLkJsdWV0b290aERldmljZTsNCmltcG9ydCBhbmRyb2lkLmJsdWV0b290aC5CbHVldG9vdGhHYXR0Ow0KaW1wb3J0IGFuZHJvaWQuYmx1ZXRvb3RoLkJsdWV0b290aEdhdHRDYWxsYmFjazsNCmltcG9ydCBhbmRyb2lkLmJsdWV0b290aC5CbHVldG9vdGhHYXR0Q2hhcmFjdGVyaXN0aWM7DQppbXBvcnQgYW5kcm9pZC5ibHVldG9vdGguQmx1ZXRvb3RoR2F0dERlc2NyaXB0b3I7DQppbXBvcnQgYW5kcm9pZC5ibHVldG9vdGguQmx1ZXRvb3RoR2F0dFNlcnZpY2U7DQppbXBvcnQgYW5kcm9pZC5ibHVldG9vdGguQmx1ZXRvb3RoTWFuYWdlcjsNCmltcG9ydCBhbmRyb2lkLmJsdWV0b290aC5CbHVldG9vdGhQcm9maWxlOw0KaW1wb3J0IGFuZHJvaWQuYmx1ZXRvb3RoLmxlLkJsdWV0b290aExlU2Nhbm5lcjsNCmltcG9ydCBhbmRyb2lkLmJsdWV0b290aC5sZS5TY2FuQ2FsbGJhY2s7DQppbXBvcnQgYW5kcm9pZC5ibHVldG9vdGgubGUuU2NhblJlc3VsdDsNCmltcG9ydCBhbmRyb2lkLmNvbnRlbnQuQ29udGV4dDsNCmltcG9ydCBhbmRyb2lkLmNvbnRlbnQucG0uUGFja2FnZU1hbmFnZXI7DQppbXBvcnQgYW5kcm9pZC5vcy5CdW5kbGU7DQppbXBvcnQgYW5kcm9pZC5vcy5IYW5kbGVyOw0KaW1wb3J0IGFuZHJvaWQud2lkZ2V0LlRleHRWaWV3Ow0KDQppbXBvcnQgamF2YS5pby5CeXRlQXJyYXlPdXRwdXRTdHJlYW07DQppbXBvcnQgamF2YS51dGlsLkFycmF5czsNCmltcG9ydCBqYXZhLnV0aWwuTG9jYWxlOw0KDQovKioNCiAqIOi2heWogeiKr+eVjCBCTVMg6JOd54mZ6L+e5o6l5LiO5pWw5o2u6K+75Y+WIOekuuS+i+eoi+W6jw0KICoNCiAqIOa8lOekuu+8muaJq+aPj+iuvuWkh++8iERCIOW8gOWktO+8ieKGkiDov57mjqUg4oaSIOiuoumYhSBGRjAxIOmAmuefpSDihpIg5Y+R6YCBIDB4MDMvMHgwNCDlkb3ku6QNCiAqICAgICAgIOKGkiDliIbluKfph43nu4Qg4oaSIOino+aekOeUteWOiy/nlLXmtYEvU09DL+a4qeW6pi8yNOS4suWNleS9k+eUteWOiw0KICoNCiAqIOeUqOazle+8muaKiuacrOexu+aUvuWIsCBzcmMvY29tL2V4YW1wbGUvYm1zZGFzaC8g5LiL5Y2z5Y+v57yW6K+R77yb5oiW5L2c5Li654us56uLIEFjdGl2aXR5IOi/kOihjOOAgg0KICogICAgICDmnYPpmZDlnKggTWFuaWZlc3Qg5Lit5aOw5piO5bm25Zyo6L+Q6KGM5pe255Sz6K+377yIQW5kcm9pZCAxMivvvInjgIINCiAqLw0KcHVibGljIGNsYXNzIEJsZVJlYWRFeGFtcGxlIGV4dGVuZHMgQWN0aXZpdHkgew0KDQogICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgU3RyaW5nIFVVSURfU0VSVklDRSA9ICIwMDAwZmYwMC0wMDAwLTEwMDAtODAwMC0wMDgwNWY5YjM0ZmIiOw0KICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBVVUlEX05PVElGWSA9ICIwMDAwZmYwMS0wMDAwLTEwMDAtODAwMC0wMDgwNWY5YjM0ZmIiOw0KICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBVVUlEX1dSSVRFID0gIjAwMDBmZjAyLTAwMDAtMTAwMC04MDAwLTAwODA1ZjliMzRmYiI7DQogICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgU3RyaW5nIFVVSURfQ0NDRCA9ICIwMDAwMjkwMi0wMDAwLTEwMDAtODAwMC0wMDgwNWY5YjM0ZmIiOw0KICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGxvbmcgUE9MTF9JTlRFUlZBTCA9IDYwMDAwTDsgLy8gNjAg56eS6L2u6K+iDQoNCiAgICBwcml2YXRlIEJsdWV0b290aEFkYXB0ZXIgYWRhcHRlcjsNCiAgICBwcml2YXRlIEJsdWV0b290aExlU2Nhbm5lciBzY2FubmVyOw0KICAgIHByaXZhdGUgQmx1ZXRvb3RoR2F0dCBnYXR0Ow0KICAgIHByaXZhdGUgQmx1ZXRvb3RoR2F0dENoYXJhY3RlcmlzdGljIG5vdGlmeUNoYXIsIHdyaXRlQ2hhcjsNCiAgICBwcml2YXRlIGZpbmFsIEhhbmRsZXIgaGFuZGxlciA9IG5ldyBIYW5kbGVyKCk7DQogICAgcHJpdmF0ZSBmaW5hbCBCeXRlQXJyYXlPdXRwdXRTdHJlYW0gZnJhbWVCdWZmZXIgPSBuZXcgQnl0ZUFycmF5T3V0cHV0U3RyZWFtKCk7DQogICAgcHJpdmF0ZSBUZXh0VmlldyB0dkxvZzsNCg0KICAgIEBPdmVycmlkZQ0KICAgIHByb3RlY3RlZCB2b2lkIG9uQ3JlYXRlKEJ1bmRsZSBzYXZlZEluc3RhbmNlU3RhdGUpIHsNCiAgICAgICAgc3VwZXIub25DcmVhdGUoc2F2ZWRJbnN0YW5jZVN0YXRlKTsNCiAgICAgICAgdHZMb2cgPSBuZXcgVGV4dFZpZXcodGhpcyk7DQogICAgICAgIHNldENvbnRlbnRWaWV3KHR2TG9nKTsNCiAgICAgICAgYWRhcHRlciA9ICgoQmx1ZXRvb3RoTWFuYWdlcikgZ2V0U3lzdGVtU2VydmljZShDb250ZXh0LkJMVUVUT09USF9TRVJWSUNFKSkuZ2V0QWRhcHRlcigpOw0KICAgICAgICByZXF1ZXN0UGVybWlzc2lvbnMoKTsNCiAgICB9DQoNCiAgICBwcml2YXRlIHZvaWQgcmVxdWVzdFBlcm1pc3Npb25zKCkgew0KICAgICAgICBTdHJpbmdbXSBwZXJtcyA9IHsNCiAgICAgICAgICAgICAgICBNYW5pZmVzdC5wZXJtaXNzaW9uLkJMVUVUT09USF9TQ0FOLA0KICAgICAgICAgICAgICAgIE1hbmlmZXN0LnBlcm1pc3Npb24uQkxVRVRPT1RIX0NPTk5FQ1QsDQogICAgICAgICAgICAgICAgTWFuaWZlc3QucGVybWlzc2lvbi5BQ0NFU1NfRklORV9MT0NBVElPTg0KICAgICAgICB9Ow0KICAgICAgICAvLyDnroDljJbnpLrkvovvvJrlrp7pmYXlupTmo4Dmn6UgU0RLIOeJiOacrOS4juaOiOadg+e7k+aenOWQjuWGjeaJq+aPjw0KICAgICAgICByZXF1ZXN0UGVybWlzc2lvbnMocGVybXMsIDEpOw0KICAgIH0NCg0KICAgIEBPdmVycmlkZQ0KICAgIHB1YmxpYyB2b2lkIG9uUmVxdWVzdFBlcm1pc3Npb25zUmVzdWx0KGludCBjb2RlLCBTdHJpbmdbXSBwLCBpbnRbXSBncmFudCkgew0KICAgICAgICBzdGFydFNjYW4oKTsNCiAgICB9DQoNCiAgICAvLyAtLS0tLS0tLS0tIDEuIOaJq+aPj+iuvuWkhyAtLS0tLS0tLS0tDQogICAgcHJpdmF0ZSB2b2lkIHN0YXJ0U2NhbigpIHsNCiAgICAgICAgaWYgKGFkYXB0ZXIgPT0gbnVsbCB8fCAhYWRhcHRlci5pc0VuYWJsZWQoKSkgeyBsb2coIuiTneeJmeacquW8gOWQryIpOyByZXR1cm47IH0NCiAgICAgICAgc2Nhbm5lciA9IGFkYXB0ZXIuZ2V0Qmx1ZXRvb3RoTGVTY2FubmVyKCk7DQogICAgICAgIHNjYW5uZXIuc3RhcnRTY2FuKHNjYW5DYik7DQogICAgICAgIGxvZygi5byA5aeL5omr5o+P4oCmIik7DQogICAgICAgIGhhbmRsZXIucG9zdERlbGF5ZWQobmV3IFJ1bm5hYmxlKCkgew0KICAgICAgICAgICAgcHVibGljIHZvaWQgcnVuKCkgeyBpZiAoc2Nhbm5lciAhPSBudWxsKSBzY2FubmVyLnN0b3BTY2FuKHNjYW5DYik7IH0NCiAgICAgICAgfSwgMTAwMDApOw0KICAgIH0NCg0KICAgIHByaXZhdGUgZmluYWwgU2NhbkNhbGxiYWNrIHNjYW5DYiA9IG5ldyBTY2FuQ2FsbGJhY2soKSB7DQogICAgICAgIEBPdmVycmlkZSBwdWJsaWMgdm9pZCBvblNjYW5SZXN1bHQoaW50IGNhbGxiYWNrVHlwZSwgU2NhblJlc3VsdCByZXN1bHQpIHsNCiAgICAgICAgICAgIEJsdWV0b290aERldmljZSBkZXYgPSByZXN1bHQuZ2V0RGV2aWNlKCk7DQogICAgICAgICAgICBTdHJpbmcgbmFtZSA9IGRldi5nZXROYW1lKCk7DQogICAgICAgICAgICAvLyDov4fmu6TvvJrlkI3np7Dku6UgREIg5byA5aS077yI5LiN5Yy65YiG5aSn5bCP5YaZ77yJDQogICAgICAgICAgICBpZiAobmFtZSA9PSBudWxsIHx8ICFuYW1lLnRvVXBwZXJDYXNlKExvY2FsZS5nZXREZWZhdWx0KCkpLnN0YXJ0c1dpdGgoIkRCIikpIHJldHVybjsNCiAgICAgICAgICAgIGxvZygi5Y+R546w6K6+5aSH77yaIiArIG5hbWUgKyAiICAiICsgZGV2LmdldEFkZHJlc3MoKSk7DQogICAgICAgICAgICBpZiAoc2Nhbm5lciAhPSBudWxsKSBzY2FubmVyLnN0b3BTY2FuKHNjYW5DYik7DQogICAgICAgICAgICBjb25uZWN0KGRldik7DQogICAgICAgIH0NCiAgICB9Ow0KDQogICAgLy8gLS0tLS0tLS0tLSAyLiDov57mjqUgR0FUVCAtLS0tLS0tLS0tDQogICAgcHJpdmF0ZSB2b2lkIGNvbm5lY3QoQmx1ZXRvb3RoRGV2aWNlIGRldikgew0KICAgICAgICBsb2coIui/nuaOpSAiICsgZGV2LmdldEFkZHJlc3MoKSk7DQogICAgICAgIGdhdHQgPSBkZXYuY29ubmVjdEdhdHQodGhpcywgZmFsc2UsIGdhdHRDYik7DQogICAgfQ0KDQogICAgcHJpdmF0ZSBmaW5hbCBCbHVldG9vdGhHYXR0Q2FsbGJhY2sgZ2F0dENiID0gbmV3IEJsdWV0b290aEdhdHRDYWxsYmFjaygpIHsNCiAgICAgICAgQE92ZXJyaWRlIHB1YmxpYyB2b2lkIG9uQ29ubmVjdGlvblN0YXRlQ2hhbmdlKEJsdWV0b290aEdhdHQgZywgaW50IHN0YXR1cywgaW50IG5ld1N0YXRlKSB7DQogICAgICAgICAgICBpZiAobmV3U3RhdGUgPT0gQmx1ZXRvb3RoUHJvZmlsZS5TVEFURV9DT05ORUNURUQpIHsNCiAgICAgICAgICAgICAgICBsb2coIuW3sui/nuaOpe+8jOWPkeeOsOacjeWKoeKApiIpOw0KICAgICAgICAgICAgICAgIGcuZGlzY292ZXJTZXJ2aWNlcygpOw0KICAgICAgICAgICAgfSBlbHNlIGlmIChuZXdTdGF0ZSA9PSBCbHVldG9vdGhQcm9maWxlLlNUQVRFX0RJU0NPTk5FQ1RFRCkgew0KICAgICAgICAgICAgICAgIGxvZygi5pat5byA6L+e5o6lIHN0YXR1cz0iICsgc3RhdHVzKTsNCiAgICAgICAgICAgICAgICBoYW5kbGVyLnJlbW92ZUNhbGxiYWNrcyhwb2xsVGFzayk7DQogICAgICAgICAgICB9DQogICAgICAgIH0NCg0KICAgICAgICBAT3ZlcnJpZGUgcHVibGljIHZvaWQgb25TZXJ2aWNlc0Rpc2NvdmVyZWQoQmx1ZXRvb3RoR2F0dCBnLCBpbnQgc3RhdHVzKSB7DQogICAgICAgICAgICBpZiAoc3RhdHVzICE9IEJsdWV0b290aEdhdHQuR0FUVF9TVUNDRVNTKSB7IGxvZygi5pyN5Yqh5Y+R546w5aSx6LSlIik7IHJldHVybjsgfQ0KICAgICAgICAgICAgQmx1ZXRvb3RoR2F0dFNlcnZpY2Ugc3ZjID0gZy5nZXRTZXJ2aWNlKGphdmEudXRpbC5VVUlELmZyb21TdHJpbmcoVVVJRF9TRVJWSUNFKSk7DQogICAgICAgICAgICBpZiAoc3ZjID09IG51bGwpIHsgbG9nKCLmnKrlj5HnjrAgRkYwMCDmnI3liqHvvIzpnZ7nm67moIforr7lpIciKTsgcmV0dXJuOyB9DQogICAgICAgICAgICBsb2coIuiuvuWkh+aMh+e6uemqjOivgemAmui/h++8iEZGMDAg5pyN5Yqh77yJIik7DQoNCiAgICAgICAgICAgIG5vdGlmeUNoYXIgPSBmaW5kQ2hhcihzdmMsIFVVSURfTk9USUZZLCBCbHVldG9vdGhHYXR0Q2hhcmFjdGVyaXN0aWMuUFJPUEVSVFlfTk9USUZZKTsNCiAgICAgICAgICAgIHdyaXRlQ2hhciA9IGZpbmRDaGFyKHN2YywgVVVJRF9XUklURSwNCiAgICAgICAgICAgICAgICAgICAgQmx1ZXRvb3RoR2F0dENoYXJhY3RlcmlzdGljLlBST1BFUlRZX1dSSVRFDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgfCBCbHVldG9vdGhHYXR0Q2hhcmFjdGVyaXN0aWMuUFJPUEVSVFlfV1JJVEVfTk9fUkVTUE9OU0UpOw0KICAgICAgICAgICAgaWYgKG5vdGlmeUNoYXIgPT0gbnVsbCB8fCB3cml0ZUNoYXIgPT0gbnVsbCkgeyBsb2coIueJueW+geWAvOe8uuWksSIpOyByZXR1cm47IH0NCg0KICAgICAgICAgICAgLy8g6K6i6ZiF6YCa55+l77ya5pys5Zyw5byA5ZCvICsg5YaZIENDQ0QNCiAgICAgICAgICAgIGcuc2V0Q2hhcmFjdGVyaXN0aWNOb3RpZmljYXRpb24obm90aWZ5Q2hhciwgdHJ1ZSk7DQogICAgICAgICAgICBCbHVldG9vdGhHYXR0RGVzY3JpcHRvciBjY2NkID0gbm90aWZ5Q2hhci5nZXREZXNjcmlwdG9yKGphdmEudXRpbC5VVUlELmZyb21TdHJpbmcoVVVJRF9DQ0NEKSk7DQogICAgICAgICAgICBpZiAoY2NjZCAhPSBudWxsKSB7DQogICAgICAgICAgICAgICAgY2NjZC5zZXRWYWx1ZShCbHVldG9vdGhHYXR0RGVzY3JpcHRvci5FTkFCTEVfTk9USUZJQ0FUSU9OX1ZBTFVFKTsNCiAgICAgICAgICAgICAgICBnLndyaXRlRGVzY3JpcHRvcihjY2NkKTsNCiAgICAgICAgICAgICAgICBsb2coIuW3suiuoumYhSBGRjAxIOmAmuefpSIpOw0KICAgICAgICAgICAgfQ0KDQogICAgICAgICAgICAvLyDlu7bov5/lj5Hlkb3ku6TvvIznrYnorqLpmIXnlJ/mlYgNCiAgICAgICAgICAgIGhhbmRsZXIucG9zdERlbGF5ZWQobmV3IFJ1bm5hYmxlKCkgew0KICAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIHJ1bigpIHsgcmVhZERhdGEoKTsgfQ0KICAgICAgICAgICAgfSwgNTAwKTsNCiAgICAgICAgfQ0KDQogICAgICAgIC8vIEFuZHJvaWQgMTMrIOaWsOWbnuiwg++8iOW4piB2YWx1ZSDlj4LmlbDvvIkNCiAgICAgICAgQE92ZXJyaWRlIHB1YmxpYyB2b2lkIG9uQ2hhcmFjdGVyaXN0aWNDaGFuZ2VkKEJsdWV0b290aEdhdHQgZywNCiAgICAgICAgICAgICAgICBCbHVldG9vdGhHYXR0Q2hhcmFjdGVyaXN0aWMgYywgYnl0ZVtdIHZhbHVlKSB7DQogICAgICAgICAgICBvbk5vdGlmeSh2YWx1ZSk7DQogICAgICAgIH0NCiAgICAgICAgLy8g5pen54mI5pys5Zue6LCDDQogICAgICAgIEBPdmVycmlkZSBwdWJsaWMgdm9pZCBvbkNoYXJhY3RlcmlzdGljQ2hhbmdlZChCbHVldG9vdGhHYXR0IGcsDQogICAgICAgICAgICAgICAgQmx1ZXRvb3RoR2F0dENoYXJhY3RlcmlzdGljIGMpIHsNCiAgICAgICAgICAgIG9uTm90aWZ5KGMuZ2V0VmFsdWUoKSk7DQogICAgICAgIH0NCiAgICB9Ow0KDQogICAgcHJpdmF0ZSBCbHVldG9vdGhHYXR0Q2hhcmFjdGVyaXN0aWMgZmluZENoYXIoQmx1ZXRvb3RoR2F0dFNlcnZpY2Ugc3ZjLCBTdHJpbmcgdXVpZCwgaW50IHByb3ApIHsNCiAgICAgICAgZm9yIChCbHVldG9vdGhHYXR0Q2hhcmFjdGVyaXN0aWMgYyA6IHN2Yy5nZXRDaGFyYWN0ZXJpc3RpY3MoKSkgew0KICAgICAgICAgICAgaWYgKGMuZ2V0VXVpZCgpLnRvU3RyaW5nKCkuZXF1YWxzSWdub3JlQ2FzZSh1dWlkKSAmJiAoYy5nZXRQcm9wZXJ0aWVzKCkgJiBwcm9wKSAhPSAwKSByZXR1cm4gYzsNCiAgICAgICAgfQ0KICAgICAgICByZXR1cm4gbnVsbDsNCiAgICB9DQoNCiAgICAvLyAtLS0tLS0tLS0tIDMuIOWPkemAgeWRveS7pCAtLS0tLS0tLS0tDQogICAgcHJpdmF0ZSB2b2lkIHJlYWREYXRhKCkgew0KICAgICAgICBpZiAoZ2F0dCA9PSBudWxsIHx8IHdyaXRlQ2hhciA9PSBudWxsKSByZXR1cm47DQogICAgICAgIHNlbmRDb21tYW5kKDB4MDMpOyAvLyDlrp7ml7bmlbDmja4NCiAgICAgICAgaGFuZGxlci5wb3N0RGVsYXllZChuZXcgUnVubmFibGUoKSB7DQogICAgICAgICAgICBwdWJsaWMgdm9pZCBydW4oKSB7IHNlbmRDb21tYW5kKDB4MDQpOyB9IC8vIOWNleS9k+eUteWOiw0KICAgICAgICB9LCAzMDApOw0KICAgICAgICAvLyDlm7rlrprpl7TpmpTova7or6INCiAgICAgICAgaGFuZGxlci5yZW1vdmVDYWxsYmFja3MocG9sbFRhc2spOw0KICAgICAgICBoYW5kbGVyLnBvc3REZWxheWVkKHBvbGxUYXNrLCBQT0xMX0lOVEVSVkFMKTsNCiAgICB9DQoNCiAgICBwcml2YXRlIGZpbmFsIFJ1bm5hYmxlIHBvbGxUYXNrID0gbmV3IFJ1bm5hYmxlKCkgew0KICAgICAgICBwdWJsaWMgdm9pZCBydW4oKSB7IHJlYWREYXRhKCk7IH0NCiAgICB9Ow0KDQogICAgLyoqIOaehOmAoOWRveS7pOW4pyBERCBBNSBDTUQgMDAgQ0hLX0ggQ0hLX0wgNzfvvIxDSEsgPSAweDEwMDAwIC0gQ01EICovDQogICAgcHJpdmF0ZSB2b2lkIHNlbmRDb21tYW5kKGludCBjbWQpIHsNCiAgICAgICAgaWYgKGdhdHQgPT0gbnVsbCB8fCB3cml0ZUNoYXIgPT0gbnVsbCkgcmV0dXJuOw0KICAgICAgICBpbnQgY2hrID0gMHgxMDAwMCAtIGNtZDsNCiAgICAgICAgYnl0ZVtdIGZyYW1lID0gew0KICAgICAgICAgICAgICAgIChieXRlKSAweERELCAoYnl0ZSkgMHhBNSwgKGJ5dGUpIGNtZCwgMHgwMCwNCiAgICAgICAgICAgICAgICAoYnl0ZSkgKChjaGsgPj4gOCkgJiAweEZGKSwgKGJ5dGUpIChjaGsgJiAweEZGKSwgKGJ5dGUpIDB4NzcNCiAgICAgICAgfTsNCiAgICAgICAgaWYgKCh3cml0ZUNoYXIuZ2V0UHJvcGVydGllcygpICYgQmx1ZXRvb3RoR2F0dENoYXJhY3RlcmlzdGljLlBST1BFUlRZX1dSSVRFX05PX1JFU1BPTlNFKSAhPSAwDQogICAgICAgICAgICAgICAgJiYgKHdyaXRlQ2hhci5nZXRQcm9wZXJ0aWVzKCkgJiBCbHVldG9vdGhHYXR0Q2hhcmFjdGVyaXN0aWMuUFJPUEVSVFlfV1JJVEUpID09IDApIHsNCiAgICAgICAgICAgIHdyaXRlQ2hhci5zZXRXcml0ZVR5cGUoQmx1ZXRvb3RoR2F0dENoYXJhY3RlcmlzdGljLldSSVRFX1RZUEVfTk9fUkVTUE9OU0UpOw0KICAgICAgICB9IGVsc2Ugew0KICAgICAgICAgICAgd3JpdGVDaGFyLnNldFdyaXRlVHlwZShCbHVldG9vdGhHYXR0Q2hhcmFjdGVyaXN0aWMuV1JJVEVfVFlQRV9ERUZBVUxUKTsNCiAgICAgICAgfQ0KICAgICAgICB3cml0ZUNoYXIuc2V0VmFsdWUoZnJhbWUpOw0KICAgICAgICBib29sZWFuIG9rID0gZ2F0dC53cml0ZUNoYXJhY3RlcmlzdGljKHdyaXRlQ2hhcik7DQogICAgICAgIGxvZygi5Y+R5ZG95LukICIgKyBTdHJpbmcuZm9ybWF0KCIlMDJYIiwgY21kKSArIChvayA/ICIg5oiQ5YqfIiA6ICIg5aSx6LSlIikpOw0KICAgIH0NCg0KICAgIC8vIC0tLS0tLS0tLS0gNC4g5o6l5pS26YCa55+l5bm26YeN57uE5binIC0tLS0tLS0tLS0NCiAgICBwcml2YXRlIHZvaWQgb25Ob3RpZnkoYnl0ZVtdIGNodW5rKSB7DQogICAgICAgIGlmIChjaHVuayA9PSBudWxsIHx8IGNodW5rLmxlbmd0aCA9PSAwKSByZXR1cm47DQogICAgICAgIGZvciAoYnl0ZSBiYiA6IGNodW5rKSB7DQogICAgICAgICAgICBpbnQgdiA9IGJiICYgMHhGRjsNCiAgICAgICAgICAgIGJ5dGVbXSBjdXIgPSBmcmFtZUJ1ZmZlci50b0J5dGVBcnJheSgpOw0KICAgICAgICAgICAgaWYgKGN1ci5sZW5ndGggPT0gMCAmJiB2ICE9IDB4REQpIGNvbnRpbnVlOyAvLyDkuKLlvIPlmarlo7ANCiAgICAgICAgICAgIGZyYW1lQnVmZmVyLndyaXRlKHYpOw0KICAgICAgICAgICAgY3VyID0gZnJhbWVCdWZmZXIudG9CeXRlQXJyYXkoKTsNCiAgICAgICAgICAgIGlmIChjdXIubGVuZ3RoID49IDQpIHsNCiAgICAgICAgICAgICAgICBpbnQgbGVuID0gKChjdXJbMl0gJiAweEZGKSA8PCA4KSB8IChjdXJbM10gJiAweEZGKTsNCiAgICAgICAgICAgICAgICBpbnQgbmVlZCA9IDQgKyBsZW4gKyAzOyAvLyDluKflpLQ0ICsg5pWw5o2uTEVOICsg5qCh6aqMMiArIOW4p+WwvjENCiAgICAgICAgICAgICAgICBpZiAoY3VyLmxlbmd0aCA+PSBuZWVkKSB7DQogICAgICAgICAgICAgICAgICAgIGJ5dGVbXSBmcmFtZSA9IEFycmF5cy5jb3B5T2YoY3VyLCBuZWVkKTsNCiAgICAgICAgICAgICAgICAgICAgcGFyc2VGcmFtZShmcmFtZSk7DQogICAgICAgICAgICAgICAgICAgIGZyYW1lQnVmZmVyLnJlc2V0KCk7DQogICAgICAgICAgICAgICAgICAgIGlmIChjdXIubGVuZ3RoID4gbmVlZCkgeyAvLyDnspjljIXvvJrliankvZnlrZfoioLph43mlrDlhaXpmJ8NCiAgICAgICAgICAgICAgICAgICAgICAgIGZyYW1lQnVmZmVyLndyaXRlKEFycmF5cy5jb3B5T2ZSYW5nZShjdXIsIG5lZWQsIGN1ci5sZW5ndGgpKTsNCiAgICAgICAgICAgICAgICAgICAgfQ0KICAgICAgICAgICAgICAgIH0NCiAgICAgICAgICAgIH0NCiAgICAgICAgICAgIGlmIChmcmFtZUJ1ZmZlci5zaXplKCkgPiAxMDI0KSBmcmFtZUJ1ZmZlci5yZXNldCgpOyAvLyDpmLLmuqLlh7oNCiAgICAgICAgfQ0KICAgIH0NCg0KICAgIC8vIC0tLS0tLS0tLS0gNS4g6Kej5p6Q5a2X5q61IC0tLS0tLS0tLS0NCiAgICBwcml2YXRlIHZvaWQgcGFyc2VGcmFtZShieXRlW10gZnJhbWUpIHsNCiAgICAgICAgaWYgKGZyYW1lLmxlbmd0aCA8IDcpIHJldHVybjsNCiAgICAgICAgaW50IGNtZCA9IGZyYW1lWzFdICYgMHhGRjsNCiAgICAgICAgaW50IGxlbiA9ICgoZnJhbWVbMl0gJiAweEZGKSA8PCA4KSB8IChmcmFtZVszXSAmIDB4RkYpOw0KICAgICAgICBpZiAobGVuID4gZnJhbWUubGVuZ3RoIC0gNykgbGVuID0gZnJhbWUubGVuZ3RoIC0gNzsNCiAgICAgICAgYnl0ZVtdIGQgPSBBcnJheXMuY29weU9mUmFuZ2UoZnJhbWUsIDQsIDQgKyBsZW4pOw0KDQogICAgICAgIGlmIChjbWQgPT0gMHgwMyAmJiBkLmxlbmd0aCA+PSAyOSkgew0KICAgICAgICAgICAgZG91YmxlIHZvbHRhZ2UgPSAoKChkWzBdICYgMHhGRikgPDwgOCkgfCAoZFsxXSAmIDB4RkYpKSAvIDEwMC4wOw0KICAgICAgICAgICAgaW50IHJhdyA9ICgoZFsyXSAmIDB4RkYpIDw8IDgpIHwgKGRbM10gJiAweEZGKTsNCiAgICAgICAgICAgIGRvdWJsZSBjdXJyZW50ID0gKHJhdyA+PSAweDgwMDAgPyByYXcgLSAweDEwMDAwIDogcmF3KSAvIDEwMC4wOyAvLyDmraPlhYXnlLUv6LSf5pS+55S1DQogICAgICAgICAgICBpbnQgc29jID0gZFsxOV0gJiAweEZGOw0KICAgICAgICAgICAgZG91YmxlIHQxID0gKCgoZFsyM10gJiAweEZGKSA8PCA4KSB8IChkWzI0XSAmIDB4RkYpKSAvIDEwLjAgLSAyNzMuMTU7DQogICAgICAgICAgICBkb3VibGUgdDIgPSAoKChkWzI1XSAmIDB4RkYpIDw8IDgpIHwgKGRbMjZdICYgMHhGRikpIC8gMTAuMCAtIDI3My4xNTsNCiAgICAgICAgICAgIGRvdWJsZSB0MyA9ICgoKGRbMjddICYgMHhGRikgPDwgOCkgfCAoZFsyOF0gJiAweEZGKSkgLyAxMC4wIC0gMjczLjE1Ow0KICAgICAgICAgICAgbG9nKFN0cmluZy5mb3JtYXQoTG9jYWxlLmdldERlZmF1bHQoKSwNCiAgICAgICAgICAgICAgICAgICAgIuWunuaXtjog55S15Y6LICUuMmYgViwg55S15rWBICUuMmYgQSwgU09DICVkJSUsIOa4qeW6piAlLjFmfiUuMWYg4oSDIiwNCiAgICAgICAgICAgICAgICAgICAgdm9sdGFnZSwgY3VycmVudCwgc29jLCBNYXRoLm1pbih0MSwgTWF0aC5taW4odDIsIHQzKSksIE1hdGgubWF4KHQxLCBNYXRoLm1heCh0MiwgdDMpKSkpOw0KICAgICAgICB9IGVsc2UgaWYgKGNtZCA9PSAweDA0ICYmIGQubGVuZ3RoID49IDQ4KSB7DQogICAgICAgICAgICBpbnRbXSBjZWxscyA9IG5ldyBpbnRbMjRdOw0KICAgICAgICAgICAgaW50IG1pbiA9IEludGVnZXIuTUFYX1ZBTFVFLCBtYXggPSAwOw0KICAgICAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCAyNDsgaSsrKSB7DQogICAgICAgICAgICAgICAgY2VsbHNbaV0gPSAoKGRbaSAqIDJdICYgMHhGRikgPDwgOCkgfCAoZFtpICogMiArIDFdICYgMHhGRik7IC8vIG1WDQogICAgICAgICAgICAgICAgaWYgKGNlbGxzW2ldIDwgbWluKSBtaW4gPSBjZWxsc1tpXTsNCiAgICAgICAgICAgICAgICBpZiAoY2VsbHNbaV0gPiBtYXgpIG1heCA9IGNlbGxzW2ldOw0KICAgICAgICAgICAgfQ0KICAgICAgICAgICAgbG9nKFN0cmluZy5mb3JtYXQoTG9jYWxlLmdldERlZmF1bHQoKSwNCiAgICAgICAgICAgICAgICAgICAgIuWNleS9kzogMjTkuLIgJWR+JWQgbVYsIOWOi+W3riAlZCBtViwg5oC75Y6LICUuMmYgViIsDQogICAgICAgICAgICAgICAgICAgIG1pbiwgbWF4LCBtYXggLSBtaW4sIHN1bShjZWxscykgLyAxMDAwLjApKTsNCiAgICAgICAgfSBlbHNlIGlmIChjbWQgPT0gMHgwNSkgew0KICAgICAgICAgICAgU3RyaW5nIG5hbWUgPSBuZXcgU3RyaW5nKGQpOw0KICAgICAgICAgICAgbG9nKCLorr7lpIflkI06ICIgKyBuYW1lKTsNCiAgICAgICAgfQ0KICAgIH0NCg0KICAgIHByaXZhdGUgZG91YmxlIHN1bShpbnRbXSBjZWxscykgew0KICAgICAgICBpbnQgcyA9IDA7DQogICAgICAgIGZvciAoaW50IHYgOiBjZWxscykgcyArPSB2Ow0KICAgICAgICByZXR1cm4gczsNCiAgICB9DQoNCiAgICBwcml2YXRlIHZvaWQgbG9nKFN0cmluZyBzKSB7DQogICAgICAgIHR2TG9nLmFwcGVuZChzICsgIlxuIik7DQogICAgfQ0KDQogICAgQE92ZXJyaWRlIHByb3RlY3RlZCB2b2lkIG9uRGVzdHJveSgpIHsNCiAgICAgICAgc3VwZXIub25EZXN0cm95KCk7DQogICAgICAgIGhhbmRsZXIucmVtb3ZlQ2FsbGJhY2tzQW5kTWVzc2FnZXMobnVsbCk7DQogICAgICAgIGlmIChnYXR0ICE9IG51bGwpIHsgZ2F0dC5kaXNjb25uZWN0KCk7IGdhdHQuY2xvc2UoKTsgfQ0KICAgIH0NCn0NCg==
+package com.example.bmsdash;
+
+import android.Manifest;
+import android.app.Activity;
+import android.bluetooth.BluetoothAdapter;
+import android.bluetooth.BluetoothDevice;
+import android.bluetooth.BluetoothGatt;
+import android.bluetooth.BluetoothGattCallback;
+import android.bluetooth.BluetoothGattCharacteristic;
+import android.bluetooth.BluetoothGattDescriptor;
+import android.bluetooth.BluetoothGattService;
+import android.bluetooth.BluetoothManager;
+import android.bluetooth.BluetoothProfile;
+import android.bluetooth.le.BluetoothLeScanner;
+import android.bluetooth.le.ScanCallback;
+import android.bluetooth.le.ScanResult;
+import android.content.Context;
+import android.content.pm.PackageManager;
+import android.os.Bundle;
+import android.os.Handler;
+import android.widget.TextView;
+
+import java.io.ByteArrayOutputStream;
+import java.util.Arrays;
+import java.util.Locale;
+
+/**
+ * 嘉佰达 BMS 蓝牙连接与数据读取 示例程序（兼容嘉佰达软件板通用协议 V4）
+ *
+ * 演示：扫描设备（DB 开头）→ 连接 → 订阅 FF01 通知 → 发送 0x03/0x04 命令
+ *       → 分帧重组 → 解析电压/电流/SOC/温度/24串单体电压
+ *
+ * 用法：把本类放到 src/com/example/bmsdash/ 下即可编译；或作为独立 Activity 运行。
+ *      权限在 Manifest 中声明并在运行时申请（Android 12+）。
+ */
+public class BleReadExample extends Activity {
+
+    private static final String UUID_SERVICE = "0000ff00-0000-1000-8000-00805f9b34fb";
+    private static final String UUID_NOTIFY = "0000ff01-0000-1000-8000-00805f9b34fb";
+    private static final String UUID_WRITE = "0000ff02-0000-1000-8000-00805f9b34fb";
+    private static final String UUID_CCCD = "00002902-0000-1000-8000-00805f9b34fb";
+    private static final long POLL_INTERVAL = 60000L; // 60 秒轮询
+
+    private BluetoothAdapter adapter;
+    private BluetoothLeScanner scanner;
+    private BluetoothGatt gatt;
+    private BluetoothGattCharacteristic notifyChar, writeChar;
+    private final Handler handler = new Handler();
+    private final ByteArrayOutputStream frameBuffer = new ByteArrayOutputStream();
+    private TextView tvLog;
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        tvLog = new TextView(this);
+        setContentView(tvLog);
+        adapter = ((BluetoothManager) getSystemService(Context.BLUETOOTH_SERVICE)).getAdapter();
+        requestPermissions();
+    }
+
+    private void requestPermissions() {
+        String[] perms = {
+                Manifest.permission.BLUETOOTH_SCAN,
+                Manifest.permission.BLUETOOTH_CONNECT,
+                Manifest.permission.ACCESS_FINE_LOCATION
+        };
+        // 简化示例：实际应检查 SDK 版本与授权结果后再扫描
+        requestPermissions(perms, 1);
+    }
+
+    @Override
+    public void onRequestPermissionsResult(int code, String[] p, int[] grant) {
+        startScan();
+    }
+
+    // ---------- 1. 扫描设备 ----------
+    private void startScan() {
+        if (adapter == null || !adapter.isEnabled()) { log("蓝牙未开启"); return; }
+        scanner = adapter.getBluetoothLeScanner();
+        scanner.startScan(scanCb);
+        log("开始扫描…");
+        handler.postDelayed(new Runnable() {
+            public void run() { if (scanner != null) scanner.stopScan(scanCb); }
+        }, 10000);
+    }
+
+    private final ScanCallback scanCb = new ScanCallback() {
+        @Override public void onScanResult(int callbackType, ScanResult result) {
+            BluetoothDevice dev = result.getDevice();
+            String name = dev.getName();
+            // 过滤：名称以 DB 开头（不区分大小写）
+            if (name == null || !name.toUpperCase(Locale.getDefault()).startsWith("DB")) return;
+            log("发现设备：" + name + "  " + dev.getAddress());
+            if (scanner != null) scanner.stopScan(scanCb);
+            connect(dev);
+        }
+    };
+
+    // ---------- 2. 连接 GATT ----------
+    private void connect(BluetoothDevice dev) {
+        log("连接 " + dev.getAddress());
+        gatt = dev.connectGatt(this, false, gattCb);
+    }
+
+    private final BluetoothGattCallback gattCb = new BluetoothGattCallback() {
+        @Override public void onConnectionStateChange(BluetoothGatt g, int status, int newState) {
+            if (newState == BluetoothProfile.STATE_CONNECTED) {
+                log("已连接，发现服务…");
+                g.discoverServices();
+            } else if (newState == BluetoothProfile.STATE_DISCONNECTED) {
+                log("断开连接 status=" + status);
+                handler.removeCallbacks(pollTask);
+            }
+        }
+
+        @Override public void onServicesDiscovered(BluetoothGatt g, int status) {
+            if (status != BluetoothGatt.GATT_SUCCESS) { log("服务发现失败"); return; }
+            BluetoothGattService svc = g.getService(java.util.UUID.fromString(UUID_SERVICE));
+            if (svc == null) { log("未发现 FF00 服务，非目标设备"); return; }
+            log("设备指纹验证通过（FF00 服务）");
+
+            notifyChar = findChar(svc, UUID_NOTIFY, BluetoothGattCharacteristic.PROPERTY_NOTIFY);
+            writeChar = findChar(svc, UUID_WRITE,
+                    BluetoothGattCharacteristic.PROPERTY_WRITE
+                            | BluetoothGattCharacteristic.PROPERTY_WRITE_NO_RESPONSE);
+            if (notifyChar == null || writeChar == null) { log("特征值缺失"); return; }
+
+            // 订阅通知：本地开启 + 写 CCCD
+            g.setCharacteristicNotification(notifyChar, true);
+            BluetoothGattDescriptor cccd = notifyChar.getDescriptor(java.util.UUID.fromString(UUID_CCCD));
+            if (cccd != null) {
+                cccd.setValue(BluetoothGattDescriptor.ENABLE_NOTIFICATION_VALUE);
+                g.writeDescriptor(cccd);
+                log("已订阅 FF01 通知");
+            }
+
+            // 延迟发命令，等订阅生效
+            handler.postDelayed(new Runnable() {
+                public void run() { readData(); }
+            }, 500);
+        }
+
+        // Android 13+ 新回调（带 value 参数）
+        @Override public void onCharacteristicChanged(BluetoothGatt g,
+                BluetoothGattCharacteristic c, byte[] value) {
+            onNotify(value);
+        }
+        // 旧版本回调
+        @Override public void onCharacteristicChanged(BluetoothGatt g,
+                BluetoothGattCharacteristic c) {
+            onNotify(c.getValue());
+        }
+    };
+
+    private BluetoothGattCharacteristic findChar(BluetoothGattService svc, String uuid, int prop) {
+        for (BluetoothGattCharacteristic c : svc.getCharacteristics()) {
+            if (c.getUuid().toString().equalsIgnoreCase(uuid) && (c.getProperties() & prop) != 0) return c;
+        }
+        return null;
+    }
+
+    // ---------- 3. 发送命令 ----------
+    private void readData() {
+        if (gatt == null || writeChar == null) return;
+        sendCommand(0x03); // 实时数据
+        handler.postDelayed(new Runnable() {
+            public void run() { sendCommand(0x04); } // 单体电压
+        }, 300);
+        // 固定间隔轮询
+        handler.removeCallbacks(pollTask);
+        handler.postDelayed(pollTask, POLL_INTERVAL);
+    }
+
+    private final Runnable pollTask = new Runnable() {
+        public void run() { readData(); }
+    };
+
+    /** 构造命令帧 DD A5 CMD 00 CHK_H CHK_L 77，CHK = 0x10000 - CMD */
+    private void sendCommand(int cmd) {
+        if (gatt == null || writeChar == null) return;
+        int chk = 0x10000 - cmd;
+        byte[] frame = {
+                (byte) 0xDD, (byte) 0xA5, (byte) cmd, 0x00,
+                (byte) ((chk >> 8) & 0xFF), (byte) (chk & 0xFF), (byte) 0x77
+        };
+        if ((writeChar.getProperties() & BluetoothGattCharacteristic.PROPERTY_WRITE_NO_RESPONSE) != 0
+                && (writeChar.getProperties() & BluetoothGattCharacteristic.PROPERTY_WRITE) == 0) {
+            writeChar.setWriteType(BluetoothGattCharacteristic.WRITE_TYPE_NO_RESPONSE);
+        } else {
+            writeChar.setWriteType(BluetoothGattCharacteristic.WRITE_TYPE_DEFAULT);
+        }
+        writeChar.setValue(frame);
+        boolean ok = gatt.writeCharacteristic(writeChar);
+        log("发命令 " + String.format("%02X", cmd) + (ok ? " 成功" : " 失败"));
+    }
+
+    // ---------- 4. 接收通知并重组帧 ----------
+    private void onNotify(byte[] chunk) {
+        if (chunk == null || chunk.length == 0) return;
+        for (byte bb : chunk) {
+            int v = bb & 0xFF;
+            byte[] cur = frameBuffer.toByteArray();
+            if (cur.length == 0 && v != 0xDD) continue; // 丢弃噪声
+            frameBuffer.write(v);
+            cur = frameBuffer.toByteArray();
+            if (cur.length >= 4) {
+                int len = ((cur[2] & 0xFF) << 8) | (cur[3] & 0xFF);
+                int need = 4 + len + 3; // 帧头4 + 数据LEN + 校验2 + 帧尾1
+                if (cur.length >= need) {
+                    byte[] frame = Arrays.copyOf(cur, need);
+                    parseFrame(frame);
+                    frameBuffer.reset();
+                    if (cur.length > need) { // 粘包：剩余字节重新入队
+                        frameBuffer.write(Arrays.copyOfRange(cur, need, cur.length));
+                    }
+                }
+            }
+            if (frameBuffer.size() > 1024) frameBuffer.reset(); // 防溢出
+        }
+    }
+
+    // ---------- 5. 解析字段 ----------
+    private void parseFrame(byte[] frame) {
+        if (frame.length < 7) return;
+        int cmd = frame[1] & 0xFF;
+        int len = ((frame[2] & 0xFF) << 8) | (frame[3] & 0xFF);
+        if (len > frame.length - 7) len = frame.length - 7;
+        byte[] d = Arrays.copyOfRange(frame, 4, 4 + len);
+
+        if (cmd == 0x03 && d.length >= 29) {
+            double voltage = (((d[0] & 0xFF) << 8) | (d[1] & 0xFF)) / 100.0;
+            int raw = ((d[2] & 0xFF) << 8) | (d[3] & 0xFF);
+            double current = (raw >= 0x8000 ? raw - 0x10000 : raw) / 100.0; // 正充电/负放电
+            int soc = d[19] & 0xFF;
+            double t1 = (((d[23] & 0xFF) << 8) | (d[24] & 0xFF)) / 10.0 - 273.15;
+            double t2 = (((d[25] & 0xFF) << 8) | (d[26] & 0xFF)) / 10.0 - 273.15;
+            double t3 = (((d[27] & 0xFF) << 8) | (d[28] & 0xFF)) / 10.0 - 273.15;
+            log(String.format(Locale.getDefault(),
+                    "实时: 电压 %.2f V, 电流 %.2f A, SOC %d%%, 温度 %.1f~%.1f ℃",
+                    voltage, current, soc, Math.min(t1, Math.min(t2, t3)), Math.max(t1, Math.max(t2, t3))));
+        } else if (cmd == 0x04 && d.length >= 48) {
+            int[] cells = new int[24];
+            int min = Integer.MAX_VALUE, max = 0;
+            for (int i = 0; i < 24; i++) {
+                cells[i] = ((d[i * 2] & 0xFF) << 8) | (d[i * 2 + 1] & 0xFF); // mV
+                if (cells[i] < min) min = cells[i];
+                if (cells[i] > max) max = cells[i];
+            }
+            log(String.format(Locale.getDefault(),
+                    "单体: 24串 %d~%d mV, 压差 %d mV, 总压 %.2f V",
+                    min, max, max - min, sum(cells) / 1000.0));
+        } else if (cmd == 0x05) {
+            String name = new String(d);
+            log("设备名: " + name);
+        }
+    }
+
+    private double sum(int[] cells) {
+        int s = 0;
+        for (int v : cells) s += v;
+        return s;
+    }
+
+    private void log(String s) {
+        tvLog.append(s + "\n");
+    }
+
+    @Override protected void onDestroy() {
+        super.onDestroy();
+        handler.removeCallbacksAndMessages(null);
+        if (gatt != null) { gatt.disconnect(); gatt.close(); }
+    }
+}

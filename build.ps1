@@ -1,1 +1,94 @@
-JEVycm9yQWN0aW9uUHJlZmVyZW5jZSA9ICdTdG9wJw0KJFJPT1QgPSAkUFNTY3JpcHRSb290DQokV09SSyA9ICdDOlxibXNkYXNoX2J1aWxkJw0KDQokU0RLICA9ICdDOlxBbmRyb2lkXHNkaycNCiRCVDM0ID0gIiRTREtcYnVpbGQtdG9vbHNcMzQuMC4wIg0KJEQ4ICAgPSAiJFNES1xidWlsZC10b29sc1wzNi4wLjBcbGliXGQ4LmphciINCiRBSkFSID0gIiRTREtccGxhdGZvcm1zXGFuZHJvaWQtMzRcYW5kcm9pZC5qYXIiDQokT1VUICA9ICIkV09SS1xidWlsZCINCiRHRU4gID0gIiRPVVRcZ2VuIg0KJENMUyAgPSAiJE9VVFxjbGFzc2VzIg0KJEFQSyAgPSAiJE9VVFxhcGsiDQoNClJlbW92ZS1JdGVtIC1SZWN1cnNlIC1Gb3JjZSAkV09SSyAtRXJyb3JBY3Rpb24gU2lsZW50bHlDb250aW51ZQ0KTmV3LUl0ZW0gLUl0ZW1UeXBlIERpcmVjdG9yeSAtRm9yY2UgLVBhdGggIiRXT1JLXHNyYyIsICIkV09SS1xyZXMiLCAkR0VOLCAkQ0xTLCAkQVBLIHwgT3V0LU51bGwNCkNvcHktSXRlbSAtUGF0aCAiJFJPT1Rcc3JjXCoiIC1EZXN0aW5hdGlvbiAiJFdPUktcc3JjIiAtUmVjdXJzZSAtRm9yY2UNCkNvcHktSXRlbSAtUGF0aCAiJFJPT1RccmVzXCoiIC1EZXN0aW5hdGlvbiAiJFdPUktccmVzIiAtUmVjdXJzZSAtRm9yY2UNCkNvcHktSXRlbSAtUGF0aCAiJFJPT1RcQW5kcm9pZE1hbmlmZXN0LnhtbCIgLURlc3RpbmF0aW9uICIkV09SS1xBbmRyb2lkTWFuaWZlc3QueG1sIiAtRm9yY2UNCg0KV3JpdGUtSG9zdCAnPT0gMS4gYWFwdDIgY29tcGlsZSA9PScNCiYgIiRCVDM0XGFhcHQyLmV4ZSIgY29tcGlsZSAtLWRpciAiJFdPUktccmVzIiAtbyAiJE9VVFxjb21waWxlZC56aXAiDQppZiAoJExBU1RFWElUQ09ERSAtbmUgMCkgeyB0aHJvdyAnYWFwdDIgY29tcGlsZSBmYWlsZWQnIH0NCg0KV3JpdGUtSG9zdCAnPT0gMi4gYWFwdDIgbGluayA9PScNCiYgIiRCVDM0XGFhcHQyLmV4ZSIgbGluayAtbyAiJE9VVFxiYXNlLmFwayIgYA0KICAgIC1JICRBSkFSIGANCiAgICAtLW1hbmlmZXN0ICIkV09SS1xBbmRyb2lkTWFuaWZlc3QueG1sIiBgDQogICAgLS1qYXZhICRHRU4gYA0KICAgIC0tbWluLXNkay12ZXJzaW9uIDI0IGANCiAgICAtLXRhcmdldC1zZGstdmVyc2lvbiAzNCBgDQogICAgIiRPVVRcY29tcGlsZWQuemlwIg0KaWYgKCRMQVNURVhJVENPREUgLW5lIDApIHsgdGhyb3cgJ2FhcHQyIGxpbmsgZmFpbGVkJyB9DQoNCldyaXRlLUhvc3QgJz09IDMuIGphdmFjID09Jw0KJHNyY3MgPSBHZXQtQ2hpbGRJdGVtIC1QYXRoICIkV09SS1xzcmMiIC1GaWx0ZXIgKi5qYXZhIC1SZWN1cnNlIHwgRm9yRWFjaC1PYmplY3QgeyAkXy5GdWxsTmFtZSB9DQokZ2VuICA9IEdldC1DaGlsZEl0ZW0gLVBhdGggJEdFTiAtRmlsdGVyICouamF2YSAtUmVjdXJzZSB8IEZvckVhY2gtT2JqZWN0IHsgJF8uRnVsbE5hbWUgfQ0KJiBqYXZhYyAtc291cmNlIDggLXRhcmdldCA4IC1lbmNvZGluZyBVVEYtOCAtYm9vdGNsYXNzcGF0aCAkQUpBUiAtZCAkQ0xTICgkc3JjcyArICRnZW4pDQppZiAoJExBU1RFWElUQ09ERSAtbmUgMCkgeyB0aHJvdyAnamF2YWMgZmFpbGVkJyB9DQoNCldyaXRlLUhvc3QgJz09IDQuIGphciA9PScNCiYgamFyIGNmICIkQVBLXGNsYXNzZXMuamFyIiAtQyAkQ0xTIC4NCmlmICgkTEFTVEVYSVRDT0RFIC1uZSAwKSB7IHRocm93ICdqYXIgZmFpbGVkJyB9DQoNCldyaXRlLUhvc3QgJz09IDUuIGQ4ID09Jw0KJiBqYXZhIC1jcCAkRDggY29tLmFuZHJvaWQudG9vbHMucjguRDggLS1saWIgJEFKQVIgLS1taW4tYXBpIDI0IC0tb3V0cHV0ICIkQVBLIiAiJEFQS1xjbGFzc2VzLmphciINCmlmICgkTEFTVEVYSVRDT0RFIC1uZSAwKSB7IHRocm93ICdkOCBmYWlsZWQnIH0NCg0KV3JpdGUtSG9zdCAnPT0gNi4gbWVyZ2UgZGV4ID09Jw0KQWRkLVR5cGUgLUFzc2VtYmx5TmFtZSBTeXN0ZW0uSU8uQ29tcHJlc3Npb24uRmlsZVN5c3RlbQ0KZnVuY3Rpb24gQWRkLUZpbGVUb1ppcCgkemlwUGF0aCwgJGZpbGVQYXRoLCAkZW50cnlOYW1lKSB7DQogICAgJHppcCA9IFtTeXN0ZW0uSU8uQ29tcHJlc3Npb24uWmlwRmlsZV06Ok9wZW4oJHppcFBhdGgsICdVcGRhdGUnKQ0KICAgIHRyeSB7DQogICAgICAgICRleGlzdGluZyA9ICR6aXAuR2V0RW50cnkoJGVudHJ5TmFtZSkNCiAgICAgICAgaWYgKCRleGlzdGluZykgeyAkZXhpc3RpbmcuRGVsZXRlKCkgfQ0KICAgICAgICAkZnMgPSBbU3lzdGVtLklPLkZpbGVdOjpPcGVuUmVhZCgkZmlsZVBhdGgpDQogICAgICAgIHRyeSB7DQogICAgICAgICAgICAkZW50cnkgPSAkemlwLkNyZWF0ZUVudHJ5KCRlbnRyeU5hbWUsIFtTeXN0ZW0uSU8uQ29tcHJlc3Npb24uQ29tcHJlc3Npb25MZXZlbF06Ok9wdGltYWwpDQogICAgICAgICAgICAkZXMgPSAkZW50cnkuT3BlbigpDQogICAgICAgICAgICB0cnkgeyAkZnMuQ29weVRvKCRlcykgfSBmaW5hbGx5IHsgJGVzLkRpc3Bvc2UoKSB9DQogICAgICAgIH0gZmluYWxseSB7ICRmcy5EaXNwb3NlKCkgfQ0KICAgIH0gZmluYWxseSB7ICR6aXAuRGlzcG9zZSgpIH0NCn0NCkNvcHktSXRlbSAiJE9VVFxiYXNlLmFwayIgIiRBUEtcYXBwLXVuc2lnbmVkLmFwayIgLUZvcmNlDQpBZGQtRmlsZVRvWmlwICIkQVBLXGFwcC11bnNpZ25lZC5hcGsiICIkQVBLXGNsYXNzZXMuZGV4IiAnY2xhc3Nlcy5kZXgnDQoNCldyaXRlLUhvc3QgJz09IDcuIHppcGFsaWduID09Jw0KJiAiJEJUMzRcemlwYWxpZ24uZXhlIiAtZiAtcCA0ICIkQVBLXGFwcC11bnNpZ25lZC5hcGsiICIkQVBLXGFwcC1hbGlnbmVkLmFwayINCmlmICgkTEFTVEVYSVRDT0RFIC1uZSAwKSB7IHRocm93ICd6aXBhbGlnbiBmYWlsZWQnIH0NCg0KV3JpdGUtSG9zdCAnPT0gOC4gc2lnbiA9PScNCiMg562+5ZCN5a+G56CB5LuO546v5aKD5Y+Y6YeP6K+75Y+W77yM6YG/5YWN56Gs57yW56CB5rOE6Zyy77yaDQojICAgJGVudjpCTVNfS1NfUEFTUyA9ICfkvaDnmoTlr4bnoIEnOyAuXGJ1aWxkLnBzMQ0KJEtTX1BBU1MgPSAkZW52OkJNU19LU19QQVNTDQppZiAoLW5vdCAkS1NfUEFTUykgeyB0aHJvdyAn6K+36K6+572u546v5aKD5Y+Y6YePIEJNU19LU19QQVNT77yI562+5ZCN5a+G6ZKl5a+G56CB77yJJyB9DQokS1NfQUxJQVMgPSBpZiAoJGVudjpCTVNfS1NfQUxJQVMpIHsgJGVudjpCTVNfS1NfQUxJQVMgfSBlbHNlIHsgJ3NpbGVudG1vbml0b3InIH0NCiYgamF2YSAtamFyICIkQlQzNFxsaWJcYXBrc2lnbmVyLmphciIgc2lnbiBgDQogICAgLS1rcyAiJFJPT1RccmVsZWFzZS5rZXlzdG9yZSIgYA0KICAgIC0ta3Mta2V5LWFsaWFzICRLU19BTElBUyBgDQogICAgLS1rcy1wYXNzICJwYXNzOiRLU19QQVNTIiBgDQogICAgLS1rZXktcGFzcyAicGFzczokS1NfUEFTUyIgYA0KICAgIC0tdjEtc2lnbmluZy1lbmFibGVkIHRydWUgLS12Mi1zaWduaW5nLWVuYWJsZWQgdHJ1ZSBgDQogICAgLS1vdXQgIiRBUEtcYm1zLWRhc2hib2FyZC0xLjAuYXBrIiAiJEFQS1xhcHAtYWxpZ25lZC5hcGsiDQppZiAoJExBU1RFWElUQ09ERSAtbmUgMCkgeyB0aHJvdyAnYXBrc2lnbmVyIGZhaWxlZCcgfQ0KDQpXcml0ZS1Ib3N0ICc9PSA5LiB2ZXJpZnkgPT0nDQomIGphdmEgLWphciAiJEJUMzRcbGliXGFwa3NpZ25lci5qYXIiIHZlcmlmeSAtLXByaW50LWNlcnRzICIkQVBLXGJtcy1kYXNoYm9hcmQtMS4wLmFwayINCg0KJERFU1QgPSAiJFJPT1RcYnVpbGRcYXBrIg0KTmV3LUl0ZW0gLUl0ZW1UeXBlIERpcmVjdG9yeSAtRm9yY2UgLVBhdGggJERFU1QgfCBPdXQtTnVsbA0KQ29weS1JdGVtICIkQVBLXGJtcy1kYXNoYm9hcmQtMS4wLmFwayIgIiRERVNUXGJtcy1kYXNoYm9hcmQtMS4wLmFwayIgLUZvcmNlDQpXcml0ZS1Ib3N0ICc9PSBET05FID09Jw0KR2V0LUl0ZW0gIiRERVNUXGJtcy1kYXNoYm9hcmQtMS4wLmFwayIgfCBTZWxlY3QtT2JqZWN0IEZ1bGxOYW1lLCBMZW5ndGgNCg==
+$ErrorActionPreference = 'Continue'
+# 外部工具（javac / java / aapt2）常将提示写入 stderr，PowerShell 5.1 在 Stop 模式下
+# 会误判为终止错误；改为 Continue 后依赖下方每步的 $LASTEXITCODE 检查捕获真实失败。
+$ROOT = $PSScriptRoot
+$WORK = 'C:\bmsdash_build'
+
+$SDK  = 'C:\Android\sdk'
+$BT34 = "$SDK\build-tools\34.0.0"
+$D8   = "$SDK\build-tools\36.0.0\lib\d8.jar"
+$AJAR = "$SDK\platforms\android-34\android.jar"
+$OUT  = "$WORK\build"
+$GEN  = "$OUT\gen"
+$CLS  = "$OUT\classes"
+$APK  = "$OUT\apk"
+
+Remove-Item -Recurse -Force $WORK -ErrorAction SilentlyContinue
+New-Item -ItemType Directory -Force -Path "$WORK\src", "$WORK\res", $GEN, $CLS, $APK | Out-Null
+Copy-Item -Path "$ROOT\src\*" -Destination "$WORK\src" -Recurse -Force
+Copy-Item -Path "$ROOT\res\*" -Destination "$WORK\res" -Recurse -Force
+Copy-Item -Path "$ROOT\AndroidManifest.xml" -Destination "$WORK\AndroidManifest.xml" -Force
+
+Write-Host '== 1. aapt2 compile =='
+& "$BT34\aapt2.exe" compile --dir "$WORK\res" -o "$OUT\compiled.zip"
+if ($LASTEXITCODE -ne 0) { throw 'aapt2 compile failed' }
+
+Write-Host '== 2. aapt2 link =='
+& "$BT34\aapt2.exe" link -o "$OUT\base.apk" `
+    -I $AJAR `
+    --manifest "$WORK\AndroidManifest.xml" `
+    --java $GEN `
+    --min-sdk-version 24 `
+    --target-sdk-version 34 `
+    "$OUT\compiled.zip"
+if ($LASTEXITCODE -ne 0) { throw 'aapt2 link failed' }
+
+Write-Host '== 3. javac =='
+$srcs = Get-ChildItem -Path "$WORK\src" -Filter *.java -Recurse | ForEach-Object { $_.FullName }
+$gen  = Get-ChildItem -Path $GEN -Filter *.java -Recurse | ForEach-Object { $_.FullName }
+& javac -nowarn -source 8 -target 8 -encoding UTF-8 -bootclasspath $AJAR -d $CLS ($srcs + $gen)
+if ($LASTEXITCODE -ne 0) { throw 'javac failed' }
+
+Write-Host '== 4. jar =='
+& jar cf "$APK\classes.jar" -C $CLS .
+if ($LASTEXITCODE -ne 0) { throw 'jar failed' }
+
+Write-Host '== 5. d8 =='
+& java -cp $D8 com.android.tools.r8.D8 --lib $AJAR --min-api 24 --output "$APK" "$APK\classes.jar"
+if ($LASTEXITCODE -ne 0) { throw 'd8 failed' }
+
+Write-Host '== 6. merge dex =='
+Add-Type -AssemblyName System.IO.Compression.FileSystem
+function Add-FileToZip($zipPath, $filePath, $entryName) {
+    $zip = [System.IO.Compression.ZipFile]::Open($zipPath, 'Update')
+    try {
+        $existing = $zip.GetEntry($entryName)
+        if ($existing) { $existing.Delete() }
+        $fs = [System.IO.File]::OpenRead($filePath)
+        try {
+            $entry = $zip.CreateEntry($entryName, [System.IO.Compression.CompressionLevel]::Optimal)
+            $es = $entry.Open()
+            try { $fs.CopyTo($es) } finally { $es.Dispose() }
+        } finally { $fs.Dispose() }
+    } finally { $zip.Dispose() }
+}
+Copy-Item "$OUT\base.apk" "$APK\app-unsigned.apk" -Force
+Add-FileToZip "$APK\app-unsigned.apk" "$APK\classes.dex" 'classes.dex'
+
+Write-Host '== 7. zipalign =='
+& "$BT34\zipalign.exe" -f -p 4 "$APK\app-unsigned.apk" "$APK\app-aligned.apk"
+if ($LASTEXITCODE -ne 0) { throw 'zipalign failed' }
+
+Write-Host '== 8. sign =='
+# 签名密码从环境变量读取，避免硬编码泄露：
+#   $env:BMS_KS_PASS = '你的密码'; .\build.ps1
+$KS_PASS = $env:BMS_KS_PASS
+if (-not $KS_PASS) { throw '请设置环境变量 BMS_KS_PASS（签名密钥密码）' }
+$KS_ALIAS = if ($env:BMS_KS_ALIAS) { $env:BMS_KS_ALIAS } else { 'silentmonitor' }
+& java -jar "$BT34\lib\apksigner.jar" sign `
+    --ks "$ROOT\release.keystore" `
+    --ks-key-alias $KS_ALIAS `
+    --ks-pass "pass:$KS_PASS" `
+    --key-pass "pass:$KS_PASS" `
+    --v1-signing-enabled true --v2-signing-enabled true `
+    --out "$APK\bms-dashboard-1.0.apk" "$APK\app-aligned.apk"
+if ($LASTEXITCODE -ne 0) { throw 'apksigner failed' }
+
+Write-Host '== 9. verify =='
+& java -jar "$BT34\lib\apksigner.jar" verify --print-certs "$APK\bms-dashboard-1.0.apk"
+
+$DEST = "$ROOT\build\apk"
+New-Item -ItemType Directory -Force -Path $DEST | Out-Null
+Copy-Item "$APK\bms-dashboard-1.0.apk" "$DEST\bms-dashboard-1.0.apk" -Force
+Write-Host '== DONE =='
+Get-Item "$DEST\bms-dashboard-1.0.apk" | Select-Object FullName, Length

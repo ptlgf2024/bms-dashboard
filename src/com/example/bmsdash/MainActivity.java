@@ -177,7 +177,31 @@ public class MainActivity extends Activity implements BleManager.Callback {
             }
         });
 
+        restoreCachedData();
         ensurePermissions();
+    }
+
+    /** 冷启动时恢复桌面卡片缓存的最后一次读数，避免显示 -- */
+    private void restoreCachedData() {
+        SharedPreferences wp = getSharedPreferences(WidgetProvider.CACHE, MODE_PRIVATE);
+        float voltage = wp.getFloat("voltage", 0f);
+        if (voltage <= 0) return;
+        BmsData cached = new BmsData();
+        cached.voltage = voltage;
+        cached.soc = wp.getInt("soc", -1);
+        cached.tempMax = wp.getFloat("temp", 0f);
+        cached.tempMin = cached.tempMax;
+        cached.tempMos = cached.tempMax;
+        cached.temp1 = cached.tempMax;
+        cached.temp2 = cached.tempMax;
+        cached.diff = wp.getInt("diff", 0);
+        cached.hasRealtime = true;
+        cached.hasCurrent = true;
+        long time = wp.getLong("time", 0L);
+        if (time > 0) lastUpdate = new SimpleDateFormat("HH:mm:ss", Locale.getDefault()).format(new Date(time));
+        latest = cached;
+        updateDashboard(cached);
+        checkAlarm(cached);
     }
 
     private void switchPage(int p) {

@@ -1,1 +1,120 @@
-PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjxMaW5lYXJMYXlvdXQgeG1sbnM6YW5kcm9pZD0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy9hbmRyb2lkIg0KICAgIGFuZHJvaWQ6aWQ9IkAraWQvd2lkZ2V0X3Jvb3QiDQogICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCINCiAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCINCiAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBkcmF3YWJsZS9iZ19jYXJkIg0KICAgIGFuZHJvaWQ6b3JpZW50YXRpb249InZlcnRpY2FsIg0KICAgIGFuZHJvaWQ6cGFkZGluZz0iOGRwIj4NCg0KICAgIDxMaW5lYXJMYXlvdXQNCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCINCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSIwZHAiDQogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dlaWdodD0iMSINCiAgICAgICAgYW5kcm9pZDpvcmllbnRhdGlvbj0iaG9yaXpvbnRhbCI+DQoNCiAgICAgICAgPEltYWdlVmlldw0KICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC93aWRnZXRfZ2F1Z2UiDQogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iMGRwIg0KICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiDQogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93ZWlnaHQ9IjEiDQogICAgICAgICAgICBhbmRyb2lkOmNvbnRlbnREZXNjcmlwdGlvbj0i55S15Y6L5Luq6KGo55uYIg0KICAgICAgICAgICAgYW5kcm9pZDpzY2FsZVR5cGU9ImZpdENlbnRlciIgLz4NCg0KICAgICAgICA8SW1hZ2VWaWV3DQogICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3dpZGdldF9hcmMiDQogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iMGRwIg0KICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiDQogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93ZWlnaHQ9IjEiDQogICAgICAgICAgICBhbmRyb2lkOmNvbnRlbnREZXNjcmlwdGlvbj0i55S16YeP5Luq6KGo55uYIg0KICAgICAgICAgICAgYW5kcm9pZDpzY2FsZVR5cGU9ImZpdENlbnRlciIgLz4NCg0KICAgICAgICA8TGluZWFyTGF5b3V0DQogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iMGRwIg0KICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiDQogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93ZWlnaHQ9IjEuMTUiDQogICAgICAgICAgICBhbmRyb2lkOmdyYXZpdHk9ImNlbnRlcl92ZXJ0aWNhbCINCiAgICAgICAgICAgIGFuZHJvaWQ6b3JpZW50YXRpb249InZlcnRpY2FsIj4NCg0KICAgICAgICAgICAgPFRleHRWaWV3DQogICAgICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC93aWRnZXRfdm9sdGFnZSINCiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50Ig0KICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50Ig0KICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGV4dD0i55S15Y6LIC0tIFYiDQogICAgICAgICAgICAgICAgYW5kcm9pZDp0ZXh0Q29sb3I9IkBjb2xvci90ZXh0X3ByaW1hcnkiDQogICAgICAgICAgICAgICAgYW5kcm9pZDp0ZXh0U2l6ZT0iMTFzcCIgLz4NCg0KICAgICAgICAgICAgPFRleHRWaWV3DQogICAgICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC93aWRnZXRfc29jIg0KICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiDQogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiDQogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luVG9wPSIyZHAiDQogICAgICAgICAgICAgICAgYW5kcm9pZDp0ZXh0PSJTT0MgLS0gJSINCiAgICAgICAgICAgICAgICBhbmRyb2lkOnRleHRDb2xvcj0iQGNvbG9yL3RleHRfcHJpbWFyeSINCiAgICAgICAgICAgICAgICBhbmRyb2lkOnRleHRTaXplPSIxMXNwIiAvPg0KDQogICAgICAgICAgICA8VGV4dFZpZXcNCiAgICAgICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3dpZGdldF90ZW1wIg0KICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiDQogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiDQogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luVG9wPSIyZHAiDQogICAgICAgICAgICAgICAgYW5kcm9pZDp0ZXh0PSLmuKnluqYgLS0g4oSDIg0KICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGV4dENvbG9yPSJAY29sb3IvdGV4dF9wcmltYXJ5Ig0KICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGV4dFNpemU9IjExc3AiIC8+DQoNCiAgICAgICAgICAgIDxUZXh0Vmlldw0KICAgICAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvd2lkZ2V0X2RpZmYiDQogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCINCiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCINCiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjJkcCINCiAgICAgICAgICAgICAgICBhbmRyb2lkOnRleHQ9IuWOi+W3riAtLSBtViINCiAgICAgICAgICAgICAgICBhbmRyb2lkOnRleHRDb2xvcj0iQGNvbG9yL3RleHRfcHJpbWFyeSINCiAgICAgICAgICAgICAgICBhbmRyb2lkOnRleHRTaXplPSIxMXNwIiAvPg0KICAgICAgICA8L0xpbmVhckxheW91dD4NCiAgICA8L0xpbmVhckxheW91dD4NCg0KICAgIDxMaW5lYXJMYXlvdXQNCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCINCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiDQogICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblRvcD0iNGRwIg0KICAgICAgICBhbmRyb2lkOmdyYXZpdHk9ImNlbnRlcl92ZXJ0aWNhbCINCiAgICAgICAgYW5kcm9pZDpvcmllbnRhdGlvbj0iaG9yaXpvbnRhbCI+DQoNCiAgICAgICAgPFRleHRWaWV3DQogICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3dpZGdldF90aW1lIg0KICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjBkcCINCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50Ig0KICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2VpZ2h0PSIxIg0KICAgICAgICAgICAgYW5kcm9pZDp0ZXh0PSLmnIDlkI7mm7TmlrDvvJotLSINCiAgICAgICAgICAgIGFuZHJvaWQ6dGV4dENvbG9yPSJAY29sb3IvdGV4dF9zZWNvbmRhcnkiDQogICAgICAgICAgICBhbmRyb2lkOnRleHRTaXplPSIxMHNwIg0KICAgICAgICAgICAgYW5kcm9pZDpzaW5nbGVMaW5lPSJ0cnVlIg0KICAgICAgICAgICAgYW5kcm9pZDplbGxpcHNpemU9ImVuZCIgLz4NCg0KICAgICAgICA8QnV0dG9uDQogICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3dpZGdldF9yZWZyZXNoIg0KICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCINCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iMzBkcCINCiAgICAgICAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQGRyYXdhYmxlL2JnX2Nvbm5lY3QiDQogICAgICAgICAgICBhbmRyb2lkOm1pbldpZHRoPSIwZHAiDQogICAgICAgICAgICBhbmRyb2lkOnBhZGRpbmdMZWZ0PSIxNGRwIg0KICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nUmlnaHQ9IjE0ZHAiDQogICAgICAgICAgICBhbmRyb2lkOnRleHQ9IuWIt+aWsCINCiAgICAgICAgICAgIGFuZHJvaWQ6dGV4dENvbG9yPSIjNUQ0MDM3Ig0KICAgICAgICAgICAgYW5kcm9pZDp0ZXh0U2l6ZT0iMTJzcCIgLz4NCiAgICA8L0xpbmVhckxheW91dD4NCjwvTGluZWFyTGF5b3V0Pg0K
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/widget_root"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_jbd_hero"
+    android:orientation="vertical"
+    android:padding="8dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="嘉佰达BMS"
+            android:textColor="#FFFFFF"
+            android:textSize="13sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/widget_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="最后更新：--"
+            android:textColor="#E3F2FD"
+            android:textSize="10sp"
+            android:singleLine="true"
+            android:ellipsize="end" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_marginTop="4dp"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/widget_gauge"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:contentDescription="电压表"
+            android:scaleType="fitCenter" />
+
+        <ImageView
+            android:id="@+id/widget_arc"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:contentDescription="电量环"
+            android:scaleType="fitCenter" />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1.15"
+            android:gravity="center_vertical"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/widget_voltage"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="电压 -- V"
+                android:textColor="#FFFFFF"
+                android:textSize="11sp" />
+
+            <TextView
+                android:id="@+id/widget_soc"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:text="SOC -- %"
+                android:textColor="#FFFFFF"
+                android:textSize="11sp" />
+
+            <TextView
+                android:id="@+id/widget_temp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:text="温度 -- ℃"
+                android:textColor="#FFFFFF"
+                android:textSize="11sp" />
+
+            <TextView
+                android:id="@+id/widget_diff"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:text="压差 -- mV"
+                android:textColor="#FFFFFF"
+                android:textSize="11sp" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/widget_refresh"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:background="@drawable/bg_jbd_widget_refresh"
+            android:minWidth="0dp"
+            android:text="刷新数据"
+            android:textColor="@color/jbd_blue"
+            android:textSize="12sp" />
+    </LinearLayout>
+</LinearLayout>

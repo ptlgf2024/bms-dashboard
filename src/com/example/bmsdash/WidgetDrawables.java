@@ -1,1 +1,85 @@
-cGFja2FnZSBjb20uZXhhbXBsZS5ibXNkYXNoOw0KDQppbXBvcnQgYW5kcm9pZC5ncmFwaGljcy5CaXRtYXA7DQppbXBvcnQgYW5kcm9pZC5ncmFwaGljcy5DYW52YXM7DQppbXBvcnQgYW5kcm9pZC5ncmFwaGljcy5Db2xvcjsNCmltcG9ydCBhbmRyb2lkLmdyYXBoaWNzLlBhaW50Ow0KaW1wb3J0IGFuZHJvaWQuZ3JhcGhpY3MuUmVjdEY7DQoNCmltcG9ydCBqYXZhLnV0aWwuTG9jYWxlOw0KDQovKiog5qGM6Z2i5bCP6YOo5Lu255So77ya5oqK55S15Y6L6KGo55uYIC8g55S16YeP546v57uY5Yi25oiQIEJpdG1hcO+8iFJlbW90ZVZpZXdzIOS4jeaUr+aMgeiHquWumuS5iSBWaWV377yJICovDQpwdWJsaWMgY2xhc3MgV2lkZ2V0RHJhd2FibGVzIHsNCg0KICAgIHB1YmxpYyBzdGF0aWMgQml0bWFwIGdhdWdlKGRvdWJsZSB2b2x0YWdlLCBib29sZWFuIGhhc0RhdGEpIHsNCiAgICAgICAgaW50IHNpemUgPSAyMjA7DQogICAgICAgIEJpdG1hcCBibXAgPSBCaXRtYXAuY3JlYXRlQml0bWFwKHNpemUsIHNpemUsIEJpdG1hcC5Db25maWcuQVJHQl84ODg4KTsNCiAgICAgICAgQ2FudmFzIGMgPSBuZXcgQ2FudmFzKGJtcCk7DQogICAgICAgIGZsb2F0IGN4ID0gc2l6ZSAvIDJmLCBjeSA9IHNpemUgKiAwLjYwZiwgciA9IHNpemUgKiAwLjQwZjsNCiAgICAgICAgUGFpbnQgcCA9IG5ldyBQYWludChQYWludC5BTlRJX0FMSUFTX0ZMQUcpOw0KDQogICAgICAgIHAuc2V0U3R5bGUoUGFpbnQuU3R5bGUuU1RST0tFKTsNCiAgICAgICAgcC5zZXRTdHJva2VXaWR0aCgxNCk7DQogICAgICAgIHAuc2V0Q29sb3IoQ29sb3IucGFyc2VDb2xvcigiI0UwRTBFMCIpKTsNCiAgICAgICAgUmVjdEYgcmVjdCA9IG5ldyBSZWN0RihjeCAtIHIsIGN5IC0gciwgY3ggKyByLCBjeSArIHIpOw0KICAgICAgICBjLmRyYXdBcmMocmVjdCwgMTgwLCAxODAsIGZhbHNlLCBwKTsNCg0KICAgICAgICBwLnNldFN0cm9rZVdpZHRoKDIpOw0KICAgICAgICBwLnNldENvbG9yKENvbG9yLnBhcnNlQ29sb3IoIiM5RTlFOUUiKSk7DQogICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDw9IDY7IGkrKykgew0KICAgICAgICAgICAgZG91YmxlIGEgPSBNYXRoLnRvUmFkaWFucygxODAgKyBpICogMzApOw0KICAgICAgICAgICAgYy5kcmF3TGluZShjeCArIChmbG9hdCkgKE1hdGguY29zKGEpICogKHIgLSAxMikpLCBjeSArIChmbG9hdCkgKE1hdGguc2luKGEpICogKHIgLSAxMikpLA0KICAgICAgICAgICAgICAgICAgICBjeCArIChmbG9hdCkgKE1hdGguY29zKGEpICogKHIgKyAzKSksIGN5ICsgKGZsb2F0KSAoTWF0aC5zaW4oYSkgKiAociArIDMpKSwgcCk7DQogICAgICAgIH0NCg0KICAgICAgICBmbG9hdCByYXRpbyA9IDA7DQogICAgICAgIGlmIChoYXNEYXRhKSB7DQogICAgICAgICAgICByYXRpbyA9IChmbG9hdCkgKCh2b2x0YWdlIC0gNjApIC8gMzAuMCk7DQogICAgICAgICAgICBpZiAocmF0aW8gPCAwKSByYXRpbyA9IDA7DQogICAgICAgICAgICBpZiAocmF0aW8gPiAxKSByYXRpbyA9IDE7DQogICAgICAgICAgICBwLnNldFN0cm9rZVdpZHRoKDE0KTsNCiAgICAgICAgICAgIHAuc2V0Q29sb3IoQ29sb3IucGFyc2VDb2xvcigiI0ZGQzEwNyIpKTsNCiAgICAgICAgICAgIGMuZHJhd0FyYyhyZWN0LCAxODAsIDE4MCAqIHJhdGlvLCBmYWxzZSwgcCk7DQogICAgICAgICAgICBkb3VibGUgYSA9IE1hdGgudG9SYWRpYW5zKDE4MCArIDE4MCAqIHJhdGlvKTsNCiAgICAgICAgICAgIHAuc2V0U3Ryb2tlV2lkdGgoMyk7DQogICAgICAgICAgICBwLnNldENvbG9yKENvbG9yLnBhcnNlQ29sb3IoIiNDNjI4MjgiKSk7DQogICAgICAgICAgICBjLmRyYXdMaW5lKGN4LCBjeSwgY3ggKyAoZmxvYXQpIChNYXRoLmNvcyhhKSAqIChyIC0gMjApKSwNCiAgICAgICAgICAgICAgICAgICAgY3kgKyAoZmxvYXQpIChNYXRoLnNpbihhKSAqIChyIC0gMjApKSwgcCk7DQogICAgICAgIH0NCg0KICAgICAgICBwLnNldFN0eWxlKFBhaW50LlN0eWxlLkZJTEwpOw0KICAgICAgICBwLnNldENvbG9yKENvbG9yLnBhcnNlQ29sb3IoIiNDNjI4MjgiKSk7DQogICAgICAgIGMuZHJhd0NpcmNsZShjeCwgY3ksIDUsIHApOw0KICAgICAgICBwLnNldFRleHRBbGlnbihQYWludC5BbGlnbi5DRU5URVIpOw0KICAgICAgICBwLnNldENvbG9yKENvbG9yLnBhcnNlQ29sb3IoIiMyMTIxMjEiKSk7DQogICAgICAgIHAuc2V0VGV4dFNpemUoMzgpOw0KICAgICAgICBjLmRyYXdUZXh0KGhhc0RhdGEgPyBTdHJpbmcuZm9ybWF0KExvY2FsZS5nZXREZWZhdWx0KCksICIlLjJmIiwgdm9sdGFnZSkgOiAiLS0iLCBjeCwgY3kgLSAyOCwgcCk7DQogICAgICAgIHAuc2V0VGV4dFNpemUoMTYpOw0KICAgICAgICBwLnNldENvbG9yKENvbG9yLnBhcnNlQ29sb3IoIiM3NTc1NzUiKSk7DQogICAgICAgIGMuZHJhd1RleHQoIlYiLCBjeCwgY3kgLSA2LCBwKTsNCiAgICAgICAgcC5zZXRUZXh0U2l6ZSgxNCk7DQogICAgICAgIGMuZHJhd1RleHQoIjYwIC0gOTAgViIsIGN4LCBzaXplIC0gMTAsIHApOw0KICAgICAgICByZXR1cm4gYm1wOw0KICAgIH0NCg0KICAgIHB1YmxpYyBzdGF0aWMgQml0bWFwIGFyYyhpbnQgc29jLCBib29sZWFuIGhhc0RhdGEpIHsNCiAgICAgICAgaW50IHNpemUgPSAyMjA7DQogICAgICAgIEJpdG1hcCBibXAgPSBCaXRtYXAuY3JlYXRlQml0bWFwKHNpemUsIHNpemUsIEJpdG1hcC5Db25maWcuQVJHQl84ODg4KTsNCiAgICAgICAgQ2FudmFzIGMgPSBuZXcgQ2FudmFzKGJtcCk7DQogICAgICAgIGZsb2F0IGN4ID0gc2l6ZSAvIDJmLCBjeSA9IHNpemUgLyAyZiwgciA9IHNpemUgKiAwLjM4ZjsNCiAgICAgICAgUGFpbnQgcCA9IG5ldyBQYWludChQYWludC5BTlRJX0FMSUFTX0ZMQUcpOw0KDQogICAgICAgIHAuc2V0U3R5bGUoUGFpbnQuU3R5bGUuU1RST0tFKTsNCiAgICAgICAgcC5zZXRTdHJva2VXaWR0aCgxNik7DQogICAgICAgIHAuc2V0Q29sb3IoQ29sb3IucGFyc2VDb2xvcigiI0UwRTBFMCIpKTsNCiAgICAgICAgUmVjdEYgcmVjdCA9IG5ldyBSZWN0RihjeCAtIHIsIGN5IC0gciwgY3ggKyByLCBjeSArIHIpOw0KICAgICAgICBjLmRyYXdBcmMocmVjdCwgMCwgMzYwLCBmYWxzZSwgcCk7DQoNCiAgICAgICAgaWYgKGhhc0RhdGEgJiYgc29jID49IDApIHsNCiAgICAgICAgICAgIGZsb2F0IHJhdGlvID0gTWF0aC5tYXgoMCwgTWF0aC5taW4oMTAwLCBzb2MpKSAvIDEwMGY7DQogICAgICAgICAgICBwLnNldENvbG9yKENvbG9yLnBhcnNlQ29sb3IoIiM0Q0FGNTAiKSk7DQogICAgICAgICAgICBjLmRyYXdBcmMocmVjdCwgLTkwLCAzNjAgKiByYXRpbywgZmFsc2UsIHApOw0KICAgICAgICB9DQoNCiAgICAgICAgcC5zZXRTdHlsZShQYWludC5TdHlsZS5GSUxMKTsNCiAgICAgICAgcC5zZXRUZXh0QWxpZ24oUGFpbnQuQWxpZ24uQ0VOVEVSKTsNCiAgICAgICAgcC5zZXRDb2xvcihDb2xvci5wYXJzZUNvbG9yKCIjNzU3NTc1IikpOw0KICAgICAgICBwLnNldFRleHRTaXplKDE2KTsNCiAgICAgICAgYy5kcmF3VGV4dCgiU09DIOeUtemHjyIsIGN4LCBjeSAtIDM0LCBwKTsNCiAgICAgICAgcC5zZXRDb2xvcihDb2xvci5wYXJzZUNvbG9yKCIjMjEyMTIxIikpOw0KICAgICAgICBwLnNldFRleHRTaXplKDQ2KTsNCiAgICAgICAgYy5kcmF3VGV4dChoYXNEYXRhICYmIHNvYyA+PSAwID8gc29jICsgIiUiIDogIi0tIiwgY3gsIGN5ICsgMTQsIHApOw0KICAgICAgICByZXR1cm4gYm1wOw0KICAgIH0NCn0NCg==
+package com.example.bmsdash;
+
+import android.graphics.Bitmap;
+import android.graphics.Canvas;
+import android.graphics.Color;
+import android.graphics.Paint;
+import android.graphics.RectF;
+
+import java.util.Locale;
+
+/** 桌面小部件用：把电压表 / 电量环绘制成 Bitmap（嘉佰达蓝底白字风格） */
+public class WidgetDrawables {
+
+    private static final int WHITE = Color.WHITE;
+    private static final int WHITE_70 = Color.argb(180, 255, 255, 255);
+    private static final int WHITE_35 = Color.argb(90, 255, 255, 255);
+
+    public static Bitmap gauge(double voltage, boolean hasData) {
+        int size = 220;
+        Bitmap bmp = Bitmap.createBitmap(size, size, Bitmap.Config.ARGB_8888);
+        Canvas c = new Canvas(bmp);
+        float cx = size / 2f, cy = size * 0.60f, r = size * 0.40f;
+        Paint p = new Paint(Paint.ANTI_ALIAS_FLAG);
+
+        p.setStyle(Paint.Style.STROKE);
+        p.setStrokeWidth(12);
+        p.setColor(WHITE_35);
+        RectF rect = new RectF(cx - r, cy - r, cx + r, cy + r);
+        c.drawArc(rect, 180, 180, false, p);
+
+        float ratio = 0;
+        if (hasData) {
+            ratio = (float) ((voltage - 60) / 30.0);
+            if (ratio < 0) ratio = 0;
+            if (ratio > 1) ratio = 1;
+            p.setStrokeWidth(12);
+            p.setStrokeCap(Paint.Cap.ROUND);
+            p.setColor(WHITE);
+            c.drawArc(rect, 180, 180 * ratio, false, p);
+        }
+
+        p.setStyle(Paint.Style.FILL);
+        p.setTextAlign(Paint.Align.CENTER);
+        p.setColor(WHITE);
+        p.setTextSize(40);
+        c.drawText(hasData ? String.format(Locale.getDefault(), "%.2f", voltage) : "--", cx, cy - 16, p);
+        p.setTextSize(16);
+        p.setColor(WHITE_70);
+        c.drawText("V", cx, cy + 8, p);
+        p.setTextSize(14);
+        c.drawText("总电压", cx, size - 10, p);
+        return bmp;
+    }
+
+    public static Bitmap arc(int soc, boolean hasData) {
+        int size = 220;
+        Bitmap bmp = Bitmap.createBitmap(size, size, Bitmap.Config.ARGB_8888);
+        Canvas c = new Canvas(bmp);
+        float cx = size / 2f, cy = size / 2f, r = size * 0.38f;
+        Paint p = new Paint(Paint.ANTI_ALIAS_FLAG);
+
+        p.setStyle(Paint.Style.STROKE);
+        p.setStrokeWidth(14);
+        p.setColor(WHITE_35);
+        RectF rect = new RectF(cx - r, cy - r, cx + r, cy + r);
+        c.drawArc(rect, 135, 270, false, p);
+
+        if (hasData && soc >= 0) {
+            float ratio = Math.max(0, Math.min(100, soc)) / 100f;
+            p.setStrokeCap(Paint.Cap.ROUND);
+            p.setColor(WHITE);
+            c.drawArc(rect, 135, 270 * ratio, false, p);
+        }
+
+        p.setStyle(Paint.Style.FILL);
+        p.setTextAlign(Paint.Align.CENTER);
+        p.setColor(WHITE);
+        p.setTextSize(46);
+        c.drawText(hasData && soc >= 0 ? soc + "%" : "--", cx, cy + 10, p);
+        p.setTextSize(15);
+        p.setColor(WHITE_70);
+        c.drawText("剩余电量", cx, cy - 34, p);
+        return bmp;
+    }
+}

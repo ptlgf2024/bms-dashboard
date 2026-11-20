@@ -122,6 +122,12 @@ public class MainActivity extends Activity implements BleManager.Callback {
         tabSettings.setOnClickListener(new View.OnClickListener() { public void onClick(View v) { switchPage(1); refreshSettings(); } });
         tabHistory.setOnClickListener(new View.OnClickListener() { public void onClick(View v) { switchPage(2); refreshHistory(); } });
 
+        findViewById(R.id.btn_back).setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) { finish(); }
+        });
+        findViewById(R.id.btn_scan).setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) { showScanDialog(); }
+        });
         findViewById(R.id.btn_connect).setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
                 if (connected) {
@@ -132,6 +138,18 @@ public class MainActivity extends Activity implements BleManager.Callback {
                     else showScanDialog();
                 }
             }
+        });
+        findViewById(R.id.btn_history_entry).setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+                View d = findViewById(R.id.history_detail);
+                d.setVisibility(d.getVisibility() == View.VISIBLE ? View.GONE : View.VISIBLE);
+            }
+        });
+        findViewById(R.id.btn_firmware).setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) { toast("固件升级请使用嘉佰达官方 App"); }
+        });
+        findViewById(R.id.btn_more_notice).setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) { toast("详细安全说明请参考电池说明书"); }
         });
         findViewById(R.id.btn_clear_hist).setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
@@ -166,9 +184,15 @@ public class MainActivity extends Activity implements BleManager.Callback {
         pageDash.setVisibility(p == 0 ? View.VISIBLE : View.GONE);
         pageSettings.setVisibility(p == 1 ? View.VISIBLE : View.GONE);
         pageHistory.setVisibility(p == 2 ? View.VISIBLE : View.GONE);
-        tabDash.setTextColor(getResources().getColor(p == 0 ? R.color.primary : R.color.text_secondary));
-        tabSettings.setTextColor(getResources().getColor(p == 1 ? R.color.primary : R.color.text_secondary));
-        tabHistory.setTextColor(getResources().getColor(p == 2 ? R.color.primary : R.color.text_secondary));
+        setTab(tabDash, p == 0, R.drawable.ic_tab_realtime_on, R.drawable.ic_tab_realtime);
+        setTab(tabSettings, p == 1, R.drawable.ic_tab_param_on, R.drawable.ic_tab_param);
+        setTab(tabHistory, p == 2, R.drawable.ic_tab_info_on, R.drawable.ic_tab_info);
+    }
+
+    private void setTab(Button tab, boolean on, int iconOn, int iconOff) {
+        tab.setTextColor(getResources().getColor(on ? R.color.jbd_blue : R.color.text_secondary));
+        tab.setCompoundDrawablesWithIntrinsicBounds(null,
+                getResources().getDrawable(on ? iconOn : iconOff), null, null);
     }
 
     // ---------- 权限 ----------
@@ -213,12 +237,12 @@ public class MainActivity extends Activity implements BleManager.Callback {
         }
     }
 
-    /** 用已记住的 MAC 直接连接（不弹扫描框） */
+    /** 用已记住的设备直接连接（不弹扫描框），界面不展示 MAC */
     private void connectSaved(String mac, String prefix) {
         connecting = true;
         updateConnectButton();
         showConnecting("正在连接设备…");
-        setConnStatus(prefix + mac);
+        setConnStatus(prefix + "已记住的 BMS 设备");
         if (!ble.autoConnect(mac)) {
             connecting = false;
             dismissConnecting();
@@ -279,7 +303,8 @@ public class MainActivity extends Activity implements BleManager.Callback {
                 connecting = false;
                 dismissConnecting();
                 updateConnectButton();
-                setConnStatus(msg);
+                String safe = msg == null ? "" : msg.replaceAll("(?i)([0-9a-f]{2}:){5}[0-9a-f]{2}", "BMS 设备");
+                setConnStatus(safe);
                 if (isConnected) {
                     String mac = ble.getTargetMac();
                     if (mac != null) {
@@ -448,7 +473,7 @@ public class MainActivity extends Activity implements BleManager.Callback {
         ((EditText) findViewById(R.id.et_th_soc)).setText(String.valueOf(thSoc));
         ((CheckBox) findViewById(R.id.cb_filter)).setChecked(ble.isFilterEnabled());
         String mac = pref.getString(KEY_MAC, null);
-        tvSavedMac.setText("已记住设备：" + (mac != null ? mac + "（下次自动连接）" : "无"));
+        tvSavedMac.setText("已记住设备：" + (mac != null ? "BMS 设备（下次自动连接）" : "无"));
     }
 
     // ---------- 连接弹窗 / 按钮状态 ----------
@@ -473,10 +498,8 @@ public class MainActivity extends Activity implements BleManager.Callback {
     }
 
     private void updateConnectButton() {
-        Button b = (Button) findViewById(R.id.btn_connect);
-        if (connected) b.setText("断开连接");
-        else if (connecting) b.setText("连接中…");
-        else b.setText("连接设备");
+        View b = findViewById(R.id.btn_connect);
+        b.setContentDescription(connected ? "断开连接" : (connecting ? "连接中" : "蓝牙连接"));
     }
 
     // ---------- 工具 ----------

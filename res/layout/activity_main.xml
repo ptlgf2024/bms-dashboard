@@ -85,10 +85,6 @@
                             android:textColor="#E3F2FD"
                             android:textSize="10sp" />
                         <LinearLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:gravity="center" android:orientation="vertical">
-                            <ImageButton android:id="@+id/btn_scan" android:layout_width="26dp" android:layout_height="26dp" android:background="@android:color/transparent" android:contentDescription="扫码连接" android:src="@drawable/ic_scan" />
-                            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="扫码连接" android:textColor="#E3F2FD" android:textSize="9sp" />
-                        </LinearLayout>
-                        <LinearLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="12dp" android:gravity="center" android:orientation="vertical">
                             <ImageButton android:id="@+id/btn_connect" android:layout_width="26dp" android:layout_height="26dp" android:background="@android:color/transparent" android:contentDescription="蓝牙连接" android:src="@drawable/ic_bluetooth" />
                             <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="蓝牙连接" android:textColor="#E3F2FD" android:textSize="9sp" />
                         </LinearLayout>

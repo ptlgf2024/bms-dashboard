@@ -147,9 +147,6 @@ public class MainActivity extends Activity implements BleManager.Callback {
         findViewById(R.id.btn_back).setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) { finish(); }
         });
-        findViewById(R.id.btn_scan).setOnClickListener(new View.OnClickListener() {
-            public void onClick(View v) { showScanDialog(); }
-        });
         findViewById(R.id.btn_connect).setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
                 if (connected) {

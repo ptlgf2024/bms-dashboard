@@ -47,10 +47,11 @@ public class MainActivity extends Activity implements BleManager.Callback {
     private HistoryStore store;
     private SharedPreferences pref;
 
-    private GaugeView gauge;
     private BatteryArcView arc;
     private ChartView chartLive, chartHistory;
-    private TextView tvConn, tvVoltage, tvChargeCur, tvDischargeCur, tvSoc, tvTemp, tvDiff, tvUpdate, tvMac;
+    private TextView tvConn, tvVoltage, tvCurrent, tvPower, tvCycles, tvTemp, tvDiff, tvUpdate;
+    private TextView tvCellMax, tvCellMin, tvCellAvg;
+    private TextView tvChargeSw, tvDischargeSw, tvBalance, tvHeat, tvBattType;
     private TextView tvAlarm, tvHistory, tvHistCount, tvSavedMac;
     private GridLayout gridCells;
 
@@ -82,19 +83,25 @@ public class MainActivity extends Activity implements BleManager.Callback {
         store = new HistoryStore(this);
         loadThresholds();
 
-        gauge = (GaugeView) findViewById(R.id.gauge);
         arc = (BatteryArcView) findViewById(R.id.arc);
         chartLive = (ChartView) findViewById(R.id.chart_live);
         chartHistory = (ChartView) findViewById(R.id.chart_history);
         tvConn = (TextView) findViewById(R.id.tv_conn);
         tvVoltage = (TextView) findViewById(R.id.tv_voltage);
-        tvChargeCur = (TextView) findViewById(R.id.tv_charge_cur);
-        tvDischargeCur = (TextView) findViewById(R.id.tv_discharge_cur);
-        tvSoc = (TextView) findViewById(R.id.tv_soc);
+        tvCurrent = (TextView) findViewById(R.id.tv_current);
+        tvPower = (TextView) findViewById(R.id.tv_power);
+        tvCycles = (TextView) findViewById(R.id.tv_cycles);
         tvTemp = (TextView) findViewById(R.id.tv_temp);
         tvDiff = (TextView) findViewById(R.id.tv_diff);
         tvUpdate = (TextView) findViewById(R.id.tv_update);
-        tvMac = (TextView) findViewById(R.id.tv_mac);
+        tvCellMax = (TextView) findViewById(R.id.tv_cell_max);
+        tvCellMin = (TextView) findViewById(R.id.tv_cell_min);
+        tvCellAvg = (TextView) findViewById(R.id.tv_cell_avg);
+        tvChargeSw = (TextView) findViewById(R.id.tv_charge_sw);
+        tvDischargeSw = (TextView) findViewById(R.id.tv_discharge_sw);
+        tvBalance = (TextView) findViewById(R.id.tv_balance);
+        tvHeat = (TextView) findViewById(R.id.tv_heat);
+        tvBattType = (TextView) findViewById(R.id.tv_batt_type);
         gridCells = (GridLayout) findViewById(R.id.grid_cells);
         tvAlarm = (TextView) findViewById(R.id.tv_alarm);
         tvHistory = (TextView) findViewById(R.id.tv_history);
@@ -111,11 +118,9 @@ public class MainActivity extends Activity implements BleManager.Callback {
         ble = new BleManager(this, this);
         ble.setFilterEnabled(pref.getBoolean(KEY_FILTER, true));
 
-        gauge.setRange(60, 90);
-
         tabDash.setOnClickListener(new View.OnClickListener() { public void onClick(View v) { switchPage(0); } });
-        tabHistory.setOnClickListener(new View.OnClickListener() { public void onClick(View v) { switchPage(1); refreshHistory(); } });
-        tabSettings.setOnClickListener(new View.OnClickListener() { public void onClick(View v) { switchPage(2); refreshSettings(); } });
+        tabSettings.setOnClickListener(new View.OnClickListener() { public void onClick(View v) { switchPage(1); refreshSettings(); } });
+        tabHistory.setOnClickListener(new View.OnClickListener() { public void onClick(View v) { switchPage(2); refreshHistory(); } });
 
         findViewById(R.id.btn_connect).setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
@@ -159,11 +164,11 @@ public class MainActivity extends Activity implements BleManager.Callback {
 
     private void switchPage(int p) {
         pageDash.setVisibility(p == 0 ? View.VISIBLE : View.GONE);
-        pageHistory.setVisibility(p == 1 ? View.VISIBLE : View.GONE);
-        pageSettings.setVisibility(p == 2 ? View.VISIBLE : View.GONE);
+        pageSettings.setVisibility(p == 1 ? View.VISIBLE : View.GONE);
+        pageHistory.setVisibility(p == 2 ? View.VISIBLE : View.GONE);
         tabDash.setTextColor(getResources().getColor(p == 0 ? R.color.primary : R.color.text_secondary));
-        tabHistory.setTextColor(getResources().getColor(p == 1 ? R.color.primary : R.color.text_secondary));
-        tabSettings.setTextColor(getResources().getColor(p == 2 ? R.color.primary : R.color.text_secondary));
+        tabSettings.setTextColor(getResources().getColor(p == 1 ? R.color.primary : R.color.text_secondary));
+        tabHistory.setTextColor(getResources().getColor(p == 2 ? R.color.primary : R.color.text_secondary));
     }
 
     // ---------- 权限 ----------
@@ -190,10 +195,10 @@ public class MainActivity extends Activity implements BleManager.Callback {
         }
     }
 
-    /** 标题栏连接状态 + 最后更新时间 */
+    /** 顶部连接状态 */
     private void setConnStatus(String s) {
         connStatus = s;
-        tvConn.setText(connStatus + (lastUpdate.equals("--") ? "" : "  ·  更新 " + lastUpdate));
+        tvConn.setText(connStatus);
     }
 
     private void onReady() {
@@ -303,29 +308,30 @@ public class MainActivity extends Activity implements BleManager.Callback {
 
     public void onLog(String msg) { logd(msg); }
 
-    // ---------- 仪表盘更新 ----------
+    // ---------- 仪表盘更新（嘉佰达 App 风格） ----------
     private void updateDashboard(BmsData d) {
-        gauge.setValue(d.voltage);
         arc.setSoc(d.soc);
-        tvVoltage.setText("总电压\n" + (d.voltage > 0 ? String.format(Locale.getDefault(), "%.2f V", d.voltage) : "--"));
-        tvSoc.setText("SOC\n" + (d.soc >= 0 ? d.soc + " %" : "--"));
-        tvTemp.setText("温度\n" + (d.tempMax != 0 ? String.format(Locale.getDefault(), "%.1f ℃", d.tempMax) : "--"));
-        tvDiff.setText("压差\n" + (d.diff > 0 ? d.diff + " mV" : "--"));
-        tvUpdate.setText("更新\n" + lastUpdate);
-        String mac = ble.getTargetMac();
-        tvMac.setText("MAC\n" + (mac != null ? mac : "--"));
+        tvVoltage.setText(String.format(Locale.getDefault(), "%.1f V\n总电压", d.voltage));
+        tvCurrent.setText(String.format(Locale.getDefault(), "%.1f A\n电流", d.current));
+        tvPower.setText(String.format(Locale.getDefault(), "%.0f W\n功率", d.power()));
+        tvCycles.setText((d.cycles >= 0 ? String.valueOf(d.cycles) : "--") + "\n循环次数");
+        tvDiff.setText(String.format(Locale.getDefault(), "%.3f V\n压差", d.diff / 1000.0));
 
-        String curText = String.format(Locale.getDefault(), "%.2f A", Math.abs(d.current));
-        if (d.current > 0.005) {
-            tvChargeCur.setText("充电\n" + curText);
-            tvDischargeCur.setText("放电\n0.00 A");
-        } else if (d.current < -0.005) {
-            tvChargeCur.setText("充电\n0.00 A");
-            tvDischargeCur.setText("放电\n" + curText);
-        } else {
-            tvChargeCur.setText("充电\n0.00 A");
-            tvDischargeCur.setText("放电\n0.00 A");
-        }
+        double avg = 0;
+        int n = 0;
+        for (int v : d.cells) if (v > 0) { avg += v; n++; }
+        if (n > 0) avg /= n;
+        tvCellMax.setText(d.cellMax > 0 ? String.format(Locale.getDefault(), "%.3f V\n最高电压", d.cellMax / 1000.0) : "-- V\n最高电压");
+        tvCellMin.setText(d.cellMin > 0 ? String.format(Locale.getDefault(), "%.3f V\n最低电压", d.cellMin / 1000.0) : "-- V\n最低电压");
+        tvCellAvg.setText(n > 0 ? String.format(Locale.getDefault(), "%.3f V\n平均电压", avg / 1000.0) : "-- V\n平均电压");
+
+        tvTemp.setText("单位：℃  MOS: " + fmtTemp(d.tempMos) + "  T1: " + fmtTemp(d.temp1) + "  T2: " + fmtTemp(d.temp2));
+        tvBalance.setText("均衡状态：" + (d.balanceOn ? "开" : "关"));
+        tvHeat.setText("加热状态：--");
+        tvBattType.setText("电池类型：磷酸铁锂");
+        tvChargeSw.setText(d.hasRealtime ? (d.chargeMos ? "开" : "关") : "--");
+        tvDischargeSw.setText(d.hasRealtime ? (d.dischargeMos ? "开" : "关") : "--");
+        tvUpdate.setText(d.hasRealtime ? lastUpdate : "");
 
         boolean hasCells = false;
         for (int v : d.cells) if (v > 0) { hasCells = true; break; }
@@ -335,11 +341,12 @@ public class MainActivity extends Activity implements BleManager.Callback {
                 int mv = d.cells[i];
                 boolean low = mv > 0 && mv < thCell;
                 TextView cell = new TextView(this);
-                cell.setText((i + 1) + "\n" + (mv > 0 ? String.format(Locale.getDefault(), "%.3f", mv / 1000.0) : "--"));
-                cell.setBackgroundResource(low ? R.drawable.bg_cell_low : R.drawable.bg_cell);
-                cell.setTextColor(getResources().getColor(low ? R.color.danger : R.color.cell_text));
+                cell.setText((i + 1) + "  " + (mv > 0 ? String.format(Locale.getDefault(), "%.3f V", mv / 1000.0) : "--"));
+                int bg = low ? R.drawable.bg_cell_low : (i % 3 == 0 ? R.drawable.bg_jbd_cell_green : (i % 2 == 0 ? R.drawable.bg_jbd_cell_blue : R.drawable.bg_jbd_cell_yellow));
+                cell.setBackgroundResource(bg);
+                cell.setTextColor(getResources().getColor(low ? R.color.danger : R.color.text_primary));
                 cell.setGravity(Gravity.CENTER);
-                cell.setTextSize(11);
+                cell.setTextSize(12);
                 GridLayout.LayoutParams lp = new GridLayout.LayoutParams();
                 lp.width = 0;
                 lp.height = GridLayout.LayoutParams.WRAP_CONTENT;
@@ -351,20 +358,30 @@ public class MainActivity extends Activity implements BleManager.Callback {
         }
     }
 
+    private String fmtTemp(double t) {
+        return Math.abs(t) > 0.05 ? String.format(Locale.getDefault(), "%.1f", t) : "--";
+    }
+
     // ---------- 报警 ----------
     private void checkAlarm(BmsData d) {
         List<String> alarms = new ArrayList<>();
+        // 嘉佰达协议注 1：保护状态位
+        String[] PROTECT = {"单体过压", "单体欠压", "整组过压", "整组欠压", "充电过温", "充电低温",
+                "放电过温", "放电低温", "充电过流", "放电过流", "短路", "前端IC错误", "软件锁定MOS"};
+        for (int i = 0; i < PROTECT.length && i < 16; i++) {
+            if ((d.protectStatus & (1 << i)) != 0) alarms.add(PROTECT[i]);
+        }
         if (d.diff > thDiff) alarms.add("压差过大 " + d.diff + "mV");
         if (d.tempMax > thTemp) alarms.add("温度过高 " + String.format(Locale.getDefault(), "%.1f℃", d.tempMax));
         if (d.cellMin > 0 && d.cellMin < thCell) alarms.add("单体过低 " + d.cellMin + "mV");
         if (d.soc >= 0 && d.soc < thSoc) alarms.add("电量偏低 " + d.soc + "%");
 
         if (alarms.isEmpty()) {
-            tvAlarm.setText("状态：正常 ✓");
+            tvAlarm.setText(d.hasRealtime ? "电池状态：电池运行正常" : "电池状态：等待数据…");
             tvAlarm.setTextColor(getResources().getColor(R.color.ok));
             alarmVibrated = false;
         } else {
-            StringBuilder sb = new StringBuilder("⚠ 报警：");
+            StringBuilder sb = new StringBuilder("电池状态：");
             for (int i = 0; i < alarms.size(); i++) {
                 if (i > 0) sb.append(" / ");
                 sb.append(alarms.get(i));

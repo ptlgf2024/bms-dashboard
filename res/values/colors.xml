@@ -1,1 +1,26 @@
-PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjxyZXNvdXJjZXM+DQogICAgPGNvbG9yIG5hbWU9InByaW1hcnkiPiNGRkMxMDc8L2NvbG9yPg0KICAgIDxjb2xvciBuYW1lPSJwcmltYXJ5X2RhcmsiPiNGRkIzMDA8L2NvbG9yPg0KICAgIDxjb2xvciBuYW1lPSJhY2NlbnQiPiNGRkQ1NEY8L2NvbG9yPg0KICAgIDxjb2xvciBuYW1lPSJiZyI+I0Y1RjVGNTwvY29sb3I+DQogICAgPGNvbG9yIG5hbWU9ImNhcmQiPiNGRkZGRkY8L2NvbG9yPg0KICAgIDxjb2xvciBuYW1lPSJ0ZXh0X3ByaW1hcnkiPiMyMTIxMjE8L2NvbG9yPg0KICAgIDxjb2xvciBuYW1lPSJ0ZXh0X3NlY29uZGFyeSI+Izc1NzU3NTwvY29sb3I+DQogICAgPGNvbG9yIG5hbWU9ImRpdmlkZXIiPiNFRUVFRUU8L2NvbG9yPg0KICAgIDxjb2xvciBuYW1lPSJvayI+IzJFN0QzMjwvY29sb3I+DQogICAgPGNvbG9yIG5hbWU9Indhcm4iPiNGOUE4MjU8L2NvbG9yPg0KICAgIDxjb2xvciBuYW1lPSJkYW5nZXIiPiNDNjI4Mjg8L2NvbG9yPg0KICAgIDwhLS0g5bCP56iL5bqP6aOO5qC8IC0tPg0KICAgIDxjb2xvciBuYW1lPSJoZWFkZXJfeWVsbG93Ij4jRkZDMzAwPC9jb2xvcj4NCiAgICA8Y29sb3IgbmFtZT0icmluZ19ncmVlbiI+IzRDQUY1MDwvY29sb3I+DQogICAgPGNvbG9yIG5hbWU9ImNlbGxfZ3JlZW4iPiNFOEY1RTk8L2NvbG9yPg0KICAgIDxjb2xvciBuYW1lPSJjZWxsX2dyZWVuX2JvcmRlciI+IzY2QkI2QTwvY29sb3I+DQogICAgPGNvbG9yIG5hbWU9ImNlbGxfdGV4dCI+IzJFN0QzMjwvY29sb3I+DQo8L3Jlc291cmNlcz4NCg==
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#FFC107</color>
+    <color name="primary_dark">#FFB300</color>
+    <color name="accent">#FFD54F</color>
+    <color name="bg">#F5F5F5</color>
+    <color name="card">#FFFFFF</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="divider">#EEEEEE</color>
+    <color name="ok">#2E7D32</color>
+    <color name="warn">#F9A825</color>
+    <color name="danger">#C62828</color>
+    <!-- 小程序风格 -->
+    <color name="header_yellow">#FFC300</color>
+    <color name="ring_green">#4CAF50</color>
+    <color name="cell_green">#E8F5E9</color>
+    <color name="cell_green_border">#66BB6A</color>
+    <color name="cell_text">#2E7D32</color>
+    <!-- 嘉佰达 App 风格 -->
+    <color name="jbd_blue">#2196F3</color>
+    <color name="jbd_blue_dark">#1976D2</color>
+    <color name="jbd_cell_blue">#E3F2FD</color>
+    <color name="jbd_cell_green">#E8F5E9</color>
+    <color name="jbd_cell_yellow">#FFF8E1</color>
+</resources>

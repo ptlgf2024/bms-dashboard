@@ -1,1 +1,64 @@
-cGFja2FnZSBjb20uZXhhbXBsZS5ibXNkYXNoOw0KDQppbXBvcnQgYW5kcm9pZC5jb250ZW50LkNvbnRleHQ7DQppbXBvcnQgYW5kcm9pZC5ncmFwaGljcy5DYW52YXM7DQppbXBvcnQgYW5kcm9pZC5ncmFwaGljcy5Db2xvcjsNCmltcG9ydCBhbmRyb2lkLmdyYXBoaWNzLlBhaW50Ow0KaW1wb3J0IGFuZHJvaWQuZ3JhcGhpY3MuUmVjdEY7DQppbXBvcnQgYW5kcm9pZC51dGlsLkF0dHJpYnV0ZVNldDsNCmltcG9ydCBhbmRyb2lkLnZpZXcuVmlldzsNCg0KLyoqIOeUtemHj+eOr+W9oui/m+W6piAqLw0KcHVibGljIGNsYXNzIEJhdHRlcnlBcmNWaWV3IGV4dGVuZHMgVmlldyB7DQogICAgcHJpdmF0ZSBQYWludCBiZywgZmcsIHRleHQsIHN1YjsNCiAgICBwcml2YXRlIGludCBzb2MgPSAtMTsNCg0KICAgIHB1YmxpYyBCYXR0ZXJ5QXJjVmlldyhDb250ZXh0IGMpIHsgc3VwZXIoYyk7IGluaXQoKTsgfQ0KICAgIHB1YmxpYyBCYXR0ZXJ5QXJjVmlldyhDb250ZXh0IGMsIEF0dHJpYnV0ZVNldCBhKSB7IHN1cGVyKGMsIGEpOyBpbml0KCk7IH0NCg0KICAgIHByaXZhdGUgdm9pZCBpbml0KCkgew0KICAgICAgICBiZyA9IG5ldyBQYWludChQYWludC5BTlRJX0FMSUFTX0ZMQUcpOw0KICAgICAgICBiZy5zZXRTdHlsZShQYWludC5TdHlsZS5TVFJPS0UpOw0KICAgICAgICBiZy5zZXRDb2xvcihDb2xvci5yZ2IoMjA3LCAyMTYsIDIyMCkpOw0KICAgICAgICBmZyA9IG5ldyBQYWludChQYWludC5BTlRJX0FMSUFTX0ZMQUcpOw0KICAgICAgICBmZy5zZXRTdHlsZShQYWludC5TdHlsZS5TVFJPS0UpOw0KICAgICAgICBmZy5zZXRTdHJva2VDYXAoUGFpbnQuQ2FwLlJPVU5EKTsNCiAgICAgICAgZmcuc2V0Q29sb3IoQ29sb3IucmdiKDQ2LCAxMjUsIDUwKSk7DQogICAgICAgIHRleHQgPSBuZXcgUGFpbnQoUGFpbnQuQU5USV9BTElBU19GTEFHKTsNCiAgICAgICAgdGV4dC5zZXRDb2xvcihDb2xvci5yZ2IoMzMsIDMzLCAzMykpOw0KICAgICAgICB0ZXh0LnNldFRleHRBbGlnbihQYWludC5BbGlnbi5DRU5URVIpOw0KICAgICAgICBzdWIgPSBuZXcgUGFpbnQoUGFpbnQuQU5USV9BTElBU19GTEFHKTsNCiAgICAgICAgc3ViLnNldENvbG9yKENvbG9yLnJnYig5NiwgMTI1LCAxMzkpKTsNCiAgICAgICAgc3ViLnNldFRleHRBbGlnbihQYWludC5BbGlnbi5DRU5URVIpOw0KICAgIH0NCg0KICAgIHB1YmxpYyB2b2lkIHNldFNvYyhpbnQgdikgeyB0aGlzLnNvYyA9IHY7IGludmFsaWRhdGUoKTsgfQ0KDQogICAgQE92ZXJyaWRlDQogICAgcHJvdGVjdGVkIHZvaWQgb25EcmF3KENhbnZhcyBjKSB7DQogICAgICAgIHN1cGVyLm9uRHJhdyhjKTsNCiAgICAgICAgaW50IHcgPSBnZXRXaWR0aCgpLCBoID0gZ2V0SGVpZ2h0KCk7DQogICAgICAgIGZsb2F0IGN4ID0gdyAvIDJmLCBjeSA9IGggLyAyZjsNCiAgICAgICAgZmxvYXQgcmFkaXVzID0gTWF0aC5taW4odywgaCkgLyAyZiAtIDE0Ow0KICAgICAgICBmbG9hdCBzdHJva2UgPSBNYXRoLm1heCg4ZiwgcmFkaXVzICogMC4xNmYpOw0KICAgICAgICBiZy5zZXRTdHJva2VXaWR0aChzdHJva2UpOw0KICAgICAgICBmZy5zZXRTdHJva2VXaWR0aChzdHJva2UpOw0KDQogICAgICAgIFJlY3RGIHJlY3QgPSBuZXcgUmVjdEYoY3ggLSByYWRpdXMsIGN5IC0gcmFkaXVzLCBjeCArIHJhZGl1cywgY3kgKyByYWRpdXMpOw0KICAgICAgICBpbnQgc3RhcnQgPSAtOTAsIHN3ZWVwQWxsID0gMzYwOw0KICAgICAgICBjLmRyYXdBcmMocmVjdCwgc3RhcnQsIHN3ZWVwQWxsLCBmYWxzZSwgYmcpOw0KDQogICAgICAgIGlmIChzb2MgPj0gMCkgew0KICAgICAgICAgICAgaW50IHMgPSBNYXRoLm1heCgwLCBNYXRoLm1pbigxMDAsIHNvYykpOw0KICAgICAgICAgICAgaW50IGNvbG9yID0gcyA8PSAyMCA/IENvbG9yLnJnYigxOTgsIDQwLCA0MCkgOiAocyA8IDUwID8gQ29sb3IucmdiKDI0OSwgMTY4LCAzNykgOiBDb2xvci5yZ2IoNDYsIDEyNSwgNTApKTsNCiAgICAgICAgICAgIGZnLnNldENvbG9yKGNvbG9yKTsNCiAgICAgICAgICAgIGMuZHJhd0FyYyhyZWN0LCBzdGFydCwgc3dlZXBBbGwgKiBzIC8gMTAwZiwgZmFsc2UsIGZnKTsNCiAgICAgICAgfQ0KDQogICAgICAgIHRleHQuc2V0VGV4dFNpemUocmFkaXVzICogMC41Zik7DQogICAgICAgIGMuZHJhd1RleHQoc29jID49IDAgPyBzb2MgKyAiJSIgOiAiLS0iLCBjeCwgY3kgKyByYWRpdXMgKiAwLjE2ZiwgdGV4dCk7DQogICAgICAgIHN1Yi5zZXRUZXh0U2l6ZShyYWRpdXMgKiAwLjJmKTsNCiAgICAgICAgYy5kcmF3VGV4dCgiU09DIOeUtemHjyIsIGN4LCBjeSAtIHJhZGl1cyAqIDAuNDJmLCBzdWIpOw0KICAgIH0NCn0NCg==
+package com.example.bmsdash;
+
+import android.content.Context;
+import android.graphics.Canvas;
+import android.graphics.Color;
+import android.graphics.Paint;
+import android.graphics.RectF;
+import android.util.AttributeSet;
+import android.view.View;
+
+/** 剩余电量环：嘉佰达 App 风格，蓝色卡片上的白色大环 + 中央百分比 */
+public class BatteryArcView extends View {
+    private Paint bg, fg, num, sub;
+    private int soc = -1;
+    private static final int START = 135, SWEEP = 270; // 开口向下的 270° 弧
+
+    public BatteryArcView(Context c) { super(c); init(); }
+    public BatteryArcView(Context c, AttributeSet a) { super(c, a); init(); }
+
+    private void init() {
+        bg = new Paint(Paint.ANTI_ALIAS_FLAG);
+        bg.setStyle(Paint.Style.STROKE);
+        bg.setColor(Color.argb(90, 255, 255, 255));
+        fg = new Paint(Paint.ANTI_ALIAS_FLAG);
+        fg.setStyle(Paint.Style.STROKE);
+        fg.setStrokeCap(Paint.Cap.ROUND);
+        fg.setColor(Color.WHITE);
+        num = new Paint(Paint.ANTI_ALIAS_FLAG);
+        num.setColor(Color.WHITE);
+        num.setTextAlign(Paint.Align.CENTER);
+        num.setFakeBoldText(true);
+        sub = new Paint(Paint.ANTI_ALIAS_FLAG);
+        sub.setColor(Color.argb(220, 255, 255, 255));
+        sub.setTextAlign(Paint.Align.CENTER);
+    }
+
+    public void setSoc(int v) { this.soc = v; invalidate(); }
+
+    @Override
+    protected void onDraw(Canvas c) {
+        super.onDraw(c);
+        int w = getWidth(), h = getHeight();
+        float cx = w / 2f, cy = h / 2f;
+        float radius = Math.min(w, h) / 2f - 10;
+        float stroke = Math.max(7f, radius * 0.13f);
+        bg.setStrokeWidth(stroke);
+        fg.setStrokeWidth(stroke);
+
+        RectF rect = new RectF(cx - radius, cy - radius, cx + radius, cy + radius);
+        c.drawArc(rect, START, SWEEP, false, bg);
+
+        if (soc >= 0) {
+            int s = Math.max(0, Math.min(100, soc));
+            c.drawArc(rect, START, SWEEP * s / 100f, false, fg);
+        }
+
+        num.setTextSize(radius * 0.78f);
+        String v = soc >= 0 ? soc + "" : "--";
+        c.drawText(v, cx, cy + radius * 0.12f, num);
+        sub.setTextSize(radius * 0.24f);
+        c.drawText("%", cx + radius * 0.52f, cy - radius * 0.34f, sub);
+        c.drawText("剩余电量", cx, cy + radius * 0.52f, sub);
+    }
+}

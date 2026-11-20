@@ -1,1 +1,115 @@
-cGFja2FnZSBjb20uZXhhbXBsZS5ibXNkYXNoOw0KDQppbXBvcnQgamF2YS5pby5CeXRlQXJyYXlPdXRwdXRTdHJlYW07DQppbXBvcnQgamF2YS51dGlsLkFycmF5czsNCmltcG9ydCBqYXZhLnV0aWwuTG9jYWxlOw0KDQovKiogQk1TIOWNj+iuruino+aekOWZqO+8muaKiumAmuefpeWtl+iKgua1geaMiSBERC4uLjc3IOW4p+ino+aekOaIkCBCbXNEYXRhICovDQpwdWJsaWMgY2xhc3MgQm1zUGFyc2VyIHsNCiAgICBwcml2YXRlIGZpbmFsIEJ5dGVBcnJheU91dHB1dFN0cmVhbSBmcmFtZUJ5dGVzID0gbmV3IEJ5dGVBcnJheU91dHB1dFN0cmVhbSgpOw0KDQogICAgcHVibGljIGludGVyZmFjZSBMaXN0ZW5lciB7DQogICAgICAgIHZvaWQgb25GcmFtZShpbnQgY21kLCBCbXNEYXRhIGRhdGEsIFN0cmluZyByYXdIZXgpOw0KICAgIH0NCg0KICAgIHByaXZhdGUgZmluYWwgTGlzdGVuZXIgbGlzdGVuZXI7DQoNCiAgICBwdWJsaWMgQm1zUGFyc2VyKExpc3RlbmVyIGxpc3RlbmVyKSB7IHRoaXMubGlzdGVuZXIgPSBsaXN0ZW5lcjsgfQ0KDQogICAgcHVibGljIHZvaWQgcmVzZXQoKSB7IGZyYW1lQnl0ZXMucmVzZXQoKTsgfQ0KDQogICAgLyoqIOWWguWFpemAmuefpeWIhueJh++8jOWGhemDqOaMieW4p+WktCvplb/luqblrZfmrrXph43nu4QgKi8NCiAgICBwdWJsaWMgdm9pZCBmZWVkKGJ5dGVbXSB2YWwpIHsNCiAgICAgICAgaWYgKHZhbCA9PSBudWxsIHx8IHZhbC5sZW5ndGggPT0gMCkgcmV0dXJuOw0KICAgICAgICBmb3IgKGJ5dGUgYmIgOiB2YWwpIHsNCiAgICAgICAgICAgIGludCB2ID0gYmIgJiAweEZGOw0KICAgICAgICAgICAgYnl0ZVtdIGN1ciA9IGZyYW1lQnl0ZXMudG9CeXRlQXJyYXkoKTsNCiAgICAgICAgICAgIGlmIChjdXIubGVuZ3RoID09IDApIHsNCiAgICAgICAgICAgICAgICBpZiAodiAhPSAweEREKSBjb250aW51ZTsNCiAgICAgICAgICAgIH0NCiAgICAgICAgICAgIGZyYW1lQnl0ZXMud3JpdGUodik7DQogICAgICAgICAgICBjdXIgPSBmcmFtZUJ5dGVzLnRvQnl0ZUFycmF5KCk7DQogICAgICAgICAgICBpZiAoY3VyLmxlbmd0aCA+PSA0KSB7DQogICAgICAgICAgICAgICAgaW50IGxlbiA9ICgoY3VyWzJdICYgMHhGRikgPDwgOCkgfCAoY3VyWzNdICYgMHhGRik7DQogICAgICAgICAgICAgICAgaW50IG5lZWQgPSA0ICsgbGVuICsgMzsNCiAgICAgICAgICAgICAgICBpZiAoY3VyLmxlbmd0aCA+PSBuZWVkKSB7DQogICAgICAgICAgICAgICAgICAgIGJ5dGVbXSBmcmFtZSA9IEFycmF5cy5jb3B5T2YoY3VyLCBNYXRoLm1pbihuZWVkLCBjdXIubGVuZ3RoKSk7DQogICAgICAgICAgICAgICAgICAgIHBhcnNlKGZyYW1lKTsNCiAgICAgICAgICAgICAgICAgICAgZnJhbWVCeXRlcy5yZXNldCgpOw0KICAgICAgICAgICAgICAgICAgICBpZiAoY3VyLmxlbmd0aCA+IG5lZWQpIHsNCiAgICAgICAgICAgICAgICAgICAgICAgIGJ5dGVbXSByZXN0ID0gQXJyYXlzLmNvcHlPZlJhbmdlKGN1ciwgbmVlZCwgY3VyLmxlbmd0aCk7DQogICAgICAgICAgICAgICAgICAgICAgICBmcmFtZUJ5dGVzLnJlc2V0KCk7DQogICAgICAgICAgICAgICAgICAgICAgICBmZWVkKHJlc3QpOw0KICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuOw0KICAgICAgICAgICAgICAgICAgICB9DQogICAgICAgICAgICAgICAgfQ0KICAgICAgICAgICAgfQ0KICAgICAgICAgICAgaWYgKGZyYW1lQnl0ZXMuc2l6ZSgpID4gMTAyNCkgZnJhbWVCeXRlcy5yZXNldCgpOw0KICAgICAgICB9DQogICAgfQ0KDQogICAgcHJpdmF0ZSB2b2lkIHBhcnNlKGJ5dGVbXSBmcmFtZSkgew0KICAgICAgICBpZiAoZnJhbWUubGVuZ3RoIDwgNykgcmV0dXJuOw0KICAgICAgICBpbnQgY21kID0gZnJhbWVbMV0gJiAweEZGOw0KICAgICAgICBpbnQgbGVuID0gKChmcmFtZVsyXSAmIDB4RkYpIDw8IDgpIHwgKGZyYW1lWzNdICYgMHhGRik7DQogICAgICAgIGlmIChsZW4gPiBmcmFtZS5sZW5ndGggLSA3KSBsZW4gPSBmcmFtZS5sZW5ndGggLSA3Ow0KICAgICAgICBieXRlW10gZCA9IEFycmF5cy5jb3B5T2ZSYW5nZShmcmFtZSwgNCwgNCArIGxlbik7DQogICAgICAgIEJtc0RhdGEgZGF0YSA9IG5ldyBCbXNEYXRhKCk7DQogICAgICAgIGRhdGEudGltZXN0YW1wID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCk7DQoNCiAgICAgICAgaWYgKGNtZCA9PSAweDAzICYmIGQubGVuZ3RoID49IDI5KSB7DQogICAgICAgICAgICBkYXRhLnZvbHRhZ2UgPSAoKChkWzBdICYgMHhGRikgPDwgOCkgfCAoZFsxXSAmIDB4RkYpKSAvIDEwMC4wOw0KICAgICAgICAgICAgaW50IHJhdyA9ICgoZFsyXSAmIDB4RkYpIDw8IDgpIHwgKGRbM10gJiAweEZGKTsNCiAgICAgICAgICAgIGRhdGEuY3VycmVudCA9IChyYXcgPj0gMHg4MDAwID8gcmF3IC0gMHgxMDAwMCA6IHJhdykgLyAxMDAuMDsNCiAgICAgICAgICAgIGRhdGEuaGFzQ3VycmVudCA9IHRydWU7DQogICAgICAgICAgICBkYXRhLnNvYyA9IGRbMTldICYgMHhGRjsNCiAgICAgICAgICAgIGludCB0MSA9ICgoZFsyM10gJiAweEZGKSA8PCA4KSB8IChkWzI0XSAmIDB4RkYpOw0KICAgICAgICAgICAgaW50IHQyID0gKChkWzI1XSAmIDB4RkYpIDw8IDgpIHwgKGRbMjZdICYgMHhGRik7DQogICAgICAgICAgICBpbnQgdDMgPSAoKGRbMjddICYgMHhGRikgPDwgOCkgfCAoZFsyOF0gJiAweEZGKTsNCiAgICAgICAgICAgIGRhdGEudGVtcE1pbiA9IE1hdGgubWluKHQxLCBNYXRoLm1pbih0MiwgdDMpKSAvIDEwLjAgLSAyNzMuMTU7DQogICAgICAgICAgICBkYXRhLnRlbXBNYXggPSBNYXRoLm1heCh0MSwgTWF0aC5tYXgodDIsIHQzKSkgLyAxMC4wIC0gMjczLjE1Ow0KICAgICAgICB9IGVsc2UgaWYgKGNtZCA9PSAweDA0ICYmIGQubGVuZ3RoID49IDQ4KSB7DQogICAgICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDI0OyBpKyspIHsNCiAgICAgICAgICAgICAgICBkYXRhLmNlbGxzW2ldID0gKChkW2kgKiAyXSAmIDB4RkYpIDw8IDgpIHwgKGRbaSAqIDIgKyAxXSAmIDB4RkYpOw0KICAgICAgICAgICAgfQ0KICAgICAgICAgICAgZGF0YS5jb21wdXRlQ2VsbHMoKTsNCiAgICAgICAgfSBlbHNlIGlmIChjbWQgPT0gMHgwNSkgew0KICAgICAgICAgICAgLy8g6K6+5aSH5ZCN5bin77yM5b+955WlDQogICAgICAgIH0NCiAgICAgICAgaWYgKGxpc3RlbmVyICE9IG51bGwpIHsNCiAgICAgICAgICAgIGxpc3RlbmVyLm9uRnJhbWUoY21kLCBkYXRhLCBoZXgoZnJhbWUpKTsNCiAgICAgICAgfQ0KICAgIH0NCg0KICAgIHB1YmxpYyBzdGF0aWMgU3RyaW5nIGhleChieXRlW10gYikgew0KICAgICAgICBTdHJpbmdCdWlsZGVyIHNiID0gbmV3IFN0cmluZ0J1aWxkZXIoKTsNCiAgICAgICAgZm9yIChieXRlIHggOiBiKSBzYi5hcHBlbmQoU3RyaW5nLmZvcm1hdChMb2NhbGUuZ2V0RGVmYXVsdCgpLCAiJTAyWCAiLCB4ICYgMHhGRikpOw0KICAgICAgICByZXR1cm4gc2IudG9TdHJpbmcoKS50cmltKCk7DQogICAgfQ0KfQ0K
+package com.example.bmsdash;
+
+import java.io.ByteArrayOutputStream;
+import java.util.Arrays;
+import java.util.Locale;
+
+/** BMS 协议解析器：把通知字节流按 DD...77 帧解析成 BmsData */
+public class BmsParser {
+    private final ByteArrayOutputStream frameBytes = new ByteArrayOutputStream();
+
+    public interface Listener {
+        void onFrame(int cmd, BmsData data, String rawHex);
+    }
+
+    private final Listener listener;
+
+    public BmsParser(Listener listener) { this.listener = listener; }
+
+    public void reset() { frameBytes.reset(); }
+
+    /** 喂入通知分片，内部按帧头+长度字段重组 */
+    public void feed(byte[] val) {
+        if (val == null || val.length == 0) return;
+        for (byte bb : val) {
+            int v = bb & 0xFF;
+            byte[] cur = frameBytes.toByteArray();
+            if (cur.length == 0) {
+                if (v != 0xDD) continue;
+            }
+            frameBytes.write(v);
+            cur = frameBytes.toByteArray();
+            if (cur.length >= 4) {
+                int len = ((cur[2] & 0xFF) << 8) | (cur[3] & 0xFF);
+                int need = 4 + len + 3;
+                if (cur.length >= need) {
+                    byte[] frame = Arrays.copyOf(cur, Math.min(need, cur.length));
+                    parse(frame);
+                    frameBytes.reset();
+                    if (cur.length > need) {
+                        byte[] rest = Arrays.copyOfRange(cur, need, cur.length);
+                        frameBytes.reset();
+                        feed(rest);
+                        return;
+                    }
+                }
+            }
+            if (frameBytes.size() > 1024) frameBytes.reset();
+        }
+    }
+
+    private void parse(byte[] frame) {
+        if (frame.length < 7) return;
+        int cmd = frame[1] & 0xFF;
+        int len = ((frame[2] & 0xFF) << 8) | (frame[3] & 0xFF);
+        if (len > frame.length - 7) len = frame.length - 7;
+        byte[] d = Arrays.copyOfRange(frame, 4, 4 + len);
+        BmsData data = new BmsData();
+        data.timestamp = System.currentTimeMillis();
+
+        if (cmd == 0x03 && d.length >= 29) {
+            data.hasRealtime = true;
+            data.voltage = (((d[0] & 0xFF) << 8) | (d[1] & 0xFF)) / 100.0;
+            int raw = ((d[2] & 0xFF) << 8) | (d[3] & 0xFF);
+            data.current = (raw >= 0x8000 ? raw - 0x10000 : raw) / 100.0;
+            data.hasCurrent = true;
+            // 嘉佰达 V4 字段布局
+            if (d.length >= 10) data.cycles = ((d[8] & 0xFF) << 8) | (d[9] & 0xFF);
+            if (d.length >= 16) {
+                int balLo = ((d[12] & 0xFF) << 8) | (d[13] & 0xFF);
+                int balHi = ((d[14] & 0xFF) << 8) | (d[15] & 0xFF);
+                data.balanceOn = (balLo | balHi) != 0;
+            }
+            if (d.length >= 17) data.protectStatus = ((d[16] & 0xFF) << 8) | (d[17] & 0xFF);
+            data.soc = d[19] & 0xFF;
+            if (d.length >= 21) {
+                int fet = d[20] & 0xFF;
+                data.chargeMos = (fet & 0x01) != 0;
+                data.dischargeMos = (fet & 0x02) != 0;
+            }
+            int n = d.length >= 23 ? (d[22] & 0xFF) : 0;
+            double[] temps = new double[3];
+            int cnt = 0;
+            for (int i = 0; i < n && i < 3 && 23 + i * 2 + 1 < d.length; i++) {
+                int t = ((d[23 + i * 2] & 0xFF) << 8) | (d[23 + i * 2 + 1] & 0xFF);
+                temps[i] = t / 10.0 - 273.15;
+                cnt++;
+            }
+            if (cnt > 0) {
+                data.tempMos = temps[0];
+                data.temp1 = cnt > 1 ? temps[1] : temps[0];
+                data.temp2 = cnt > 2 ? temps[2] : temps[0];
+                double lo = temps[0], hi = temps[0];
+                for (int i = 1; i < cnt; i++) { lo = Math.min(lo, temps[i]); hi = Math.max(hi, temps[i]); }
+                data.tempMin = lo;
+                data.tempMax = hi;
+            }
+        } else if (cmd == 0x04 && d.length >= 48) {
+            for (int i = 0; i < 24; i++) {
+                data.cells[i] = ((d[i * 2] & 0xFF) << 8) | (d[i * 2 + 1] & 0xFF);
+            }
+            data.computeCells();
+        } else if (cmd == 0x05) {
+            // 设备名帧，忽略
+        }
+        if (listener != null) {
+            listener.onFrame(cmd, data, hex(frame));
+        }
+    }
+
+    public static String hex(byte[] b) {
+        StringBuilder sb = new StringBuilder();
+        for (byte x : b) sb.append(String.format(Locale.getDefault(), "%02X ", x & 0xFF));
+        return sb.toString().trim();
+    }
+}
